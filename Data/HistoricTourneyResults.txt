@@ -1,0 +1,2008 @@
+Year	Team1Team	Team1Score	Team1Rank	Team1	Team2Team	Team2Score	Team2Rank2	team2	entry	RankDiff	ScoreDiff
+1979	Notre Dame	73	1	No. 1 Notre Dame 73	Tennessee	67	8	No. 8 Tennessee 67	SECOND ROUND	-7	6
+1979	Indiana St.	86	1	No. 1 Indiana St. 86	Virginia Tech	69	8	No. 8 Virginia Tech 69	SECOND ROUND	-7	17
+1979	UCLA	76	1	No. 1 UCLA 76	Pepperdine	71	9	No. 9 Pepperdine 71	SECOND ROUND	-8	5
+1979	Arkansas	74	2	No. 2 Arkansas 74	Weber St.	63	7	No. 7 Weber St. 63	SECOND ROUND	-5	11
+1979	DePaul	89	2	No. 2 DePaul 89	Southern Cal	78	7	No. 7 Southern Cal 78	SECOND ROUND	-5	11
+1979	Michigan St.	95	2	No. 2 Michigan St. 95	Lamar	64	10	No. 10 Lamar 64	SECOND ROUND	-8	31
+1979	Marquette	73	3	No. 3 Marquette 73	Pacific	48	6	No. 6 Pacific 48	SECOND ROUND	-3	25
+1979	Louisville	69	3	No. 3 Louisville 69	South Alabama	66	6	No. 6 South Alabama 66	SECOND ROUND	-3	3
+1979	Louisiana St.	71	3	No. 3 Louisiana St. 71	Appalachian St.	57	6	No. 6 Appalachian St. 57	SECOND ROUND	-3	14
+1979	Syracuse	89	4	No. 4 Syracuse 89	Connecticut	81	5	No. 5 Connecticut 81	SECOND ROUND	-1	8
+1979	San Francisco	86	4	No. 4 San Francisco 86	BYU	63	5	No. 5 BYU 63	SECOND ROUND	-1	23
+1979	Oklahoma	90	5	No. 5 Oklahoma 90	Texas	76	4	No. 4 Texas 76	SECOND ROUND	1	14
+1979	Toledo	74	5	No. 5 Toledo 74	Iowa	72	4	No. 4 Iowa 72	SECOND ROUND	1	2
+1979	Rutgers	64	6	No. 6 Rutgers 64	Georgetown	58	3	No. 3 Georgetown 58	SECOND ROUND	3	6
+1979	Southern Cal	86	7	No. 7 Southern Cal 86	Utah St.	67	10	No. 10 Utah St. 67	FIRST ROUND	-3	19
+1979	Weber St.	81	7	No. 7 Weber St. 81	New Mexico St.	78	10	No. 10 New Mexico St. 78	FIRST ROUND	-3	3
+1979	Virginia Tech	70	8	No. 8 Virginia Tech 70	Jacksonville	53	9	No. 9 Jacksonville 53	FIRST ROUND	-1	17
+1979	Tennessee	97	8	No. 8 Tennessee 97	Eastern Kentucky	81	9	No. 9 Eastern Kentucky 81	FIRST ROUND	-1	16
+1979	Penn	72	9	No. 9 Penn 72	North Carolina	71	1	No. 1 North Carolina 71	SECOND ROUND	8	1
+1979	Pepperdine	92	9	No. 9 Pepperdine 92	Utah	88	8	No. 8 Utah 88	FIRST ROUND	1	4
+1979	Penn	73	9	No. 9 Penn 73	Iona	69	8	No. 8 Iona 69	FIRST ROUND	1	4
+1979	St. John's	80	10	No. 10 St. John's 80	Duke	78	2	No. 2 Duke 78	SECOND ROUND	8	2
+1979	Lamar	95	10	No. 10 Lamar 95	Detroit	87	7	No. 7 Detroit 87	FIRST ROUND	3	8
+1979	St. John's	75	10	No. 10 St. John's 75	Temple	70	7	No. 7 Temple 70	FIRST ROUND	3	5
+1980	Kentucky	97	1	No. 1 Kentucky 97	Florida State	78	8	No. 8 Florida State 78	SECOND ROUND	-7	19
+1980	Syracuse	97	1	No. 1 Syracuse 97	Villanova	83	8	No. 8 Villanova 83	SECOND ROUND	-7	14
+1980	Louisiana State	98	1	No. 1 Louisiana State 98	Alcorn State	88	8	No. 8 Alcorn State 88	SECOND ROUND	-7	10
+1980	Louisville	80	2	"Louisville 80	Iowa	72	5	 Iowa 72	NATIONAL SEMIFINALS	
+1989	Seton Hall	84	3	Seton Hall 84"	UNLV	61	4	 UNLV 61	REGIONAL FINALS	-2	19
+1980	Louisville	71	2	No. 2 Louisville 71	Kansas State	69	7	No. 7 Kansas State 69	SECOND ROUND	-5	2
+1980	Indiana	68	2	No. 2 Indiana 68	Virginia Tech	59	7	No. 7 Virginia Tech 59	SECOND ROUND	-5	9
+1980	Maryland	86	2	No. 2 Maryland 86	Tennessee	75	7	No. 7 Tennessee 75	SECOND ROUND	-5	11
+1980	Louisville	59	2	"Louisville 59	UCLA	54	8	 UCLA 54	NATIONAL CHAMPIONSHIP	
+2010	Butler	54	5	Butler 54"	Murray State	52	13	 Murray State 52	SECOND ROUND	-11	7
+1980	Georgetown	74	3	"Georgetown 74	Maryland	68	2	 Maryland 68	REGIONAL SEMIFINALS	
+1990	UNLV	90	1	UNLV 90"	Georgia Tech	81	4	 Georgia Tech 81	NATIONAL SEMIFINALS	-1	-7
+1980	Georgetown	74	3	No. 3 Georgetown 74	Iona	71	6	No. 6 Iona 71	SECOND ROUND	-3	3
+1980	Ohio State	89	4	No. 4 Ohio State 89	Arizona State	75	5	No. 5 Arizona State 75	SECOND ROUND	-1	14
+1980	Duke	52	4	No. 4 Duke 52	Penn	42	12	No. 12 Penn 42	SECOND ROUND	-8	10
+1980	Iowa	88	5	"Iowa 88	Syracuse	77	1	 Syracuse 77	REGIONAL SEMIFINALS	
+2006	Georgetown	70	7	Georgetown 70"	Ohio State	52	2	 Ohio State 52	SECOND ROUND	3	36
+1980	Missouri	87	5	No. 5 Missouri 87	Notre Dame	84	4	No. 4 Notre Dame 84	SECOND ROUND	1	3
+1980	Iowa	77	5	No. 5 Iowa 77	North Carolina State	64	4	No. 4 North Carolina State 64	SECOND ROUND	1	13
+1980	Iowa	81	5	"Iowa 81	Georgetown	80	3	 Georgetown 80	REGIONAL FINALS	
+1995	Massachusetts	76	2	Massachusetts 76"	Tulsa	51	6	 Tulsa 51	REGIONAL SEMIFINALS	-1	30
+1980	Iowa	86	5	No. 5 Iowa 86	Virginia Commonwealth	72	12	No. 12 Virginia Commonwealth 72	FIRST ROUND	-7	14
+1980	Arizona State	99	5	No. 5 Arizona State 99	Loyola Marymount	71	12	No. 12 Loyola Marymount 71	FIRST ROUND	-7	28
+1980	Missouri	61	5	No. 5 Missouri 61	San Jose State	51	12	No. 12 San Jose State 51	FIRST ROUND	-7	10
+1980	Texas A&M	78	6	No. 6 Texas A&M 78	North Carolina	61	3	No. 3 North Carolina 61	SECOND ROUND	3	17
+1980	Clemson	71	6	No. 6 Clemson 71	Brigham Young	66	3	No. 3 Brigham Young 66	SECOND ROUND	3	5
+1980	Purdue	87	6	No. 6 Purdue 87	St. John's	72	3	No. 3 St. John's 72	SECOND ROUND	3	15
+1980	Texas A&M	55	6	No. 6 Texas A&M 55	Bradley	53	11	No. 11 Bradley 53	FIRST ROUND	-5	2
+1980	Purdue	90	6	No. 6 Purdue 90	La Salle	82	11	No. 11 La Salle 82	FIRST ROUND	-5	8
+1980	Iona	84	6	No. 6 Iona 84	Holy Cross	78	11	No. 11 Holy Cross 78	FIRST ROUND	-5	6
+1980	Clemson	76	6	No. 6 Clemson 76	Utah State	73	11	No. 11 Utah State 73	FIRST ROUND	-5	3
+1980	Tennessee	80	7	No. 7 Tennessee 80	Furman	69	10	No. 10 Furman 69	FIRST ROUND	-3	11
+1980	Kansas State	71	7	No. 7 Kansas State 71	Arkansas	53	10	No. 10 Arkansas 53	FIRST ROUND	-3	18
+1980	Virginia Tech	89	7	No. 7 Virginia Tech 89	Western Kentucky	85	10	No. 10 Western Kentucky 85	FIRST ROUND	-3	4
+1980	UCLA	77	8	No. 8 UCLA 77	DePaul	71	1	No. 1 DePaul 71	SECOND ROUND	7	6
+1980	UCLA	72	8	"UCLA 72	Ohio State	68	4	 Ohio State 68	REGIONAL SEMIFINALS	
+1994	Florida	69	3	Florida 69"	Connecticut	60	2	 Connecticut 60	REGIONAL SEMIFINALS	6	12
+1980	Villanova	77	8	No. 8 Villanova 77	Marquette	59	9	No. 9 Marquette 59	FIRST ROUND	-1	18
+1980	UCLA	87	8	No. 8 UCLA 87	Old Dominion	74	9	No. 9 Old Dominion 74	FIRST ROUND	-1	13
+1980	Florida State	94	8	No. 8 Florida State 94	Toledo	91	9	No. 9 Toledo 91	FIRST ROUND	-1	3
+1980	Alcorn State	70	8	No. 8 Alcorn State 70	South Alabama	62	9	No. 9 South Alabama 62	FIRST ROUND	-1	8
+1980	Lamar	81	10	No. 10 Lamar 81	Oregon State	77	2	No. 2 Oregon State 77	SECOND ROUND	8	4
+1980	Lamar	87	10	No. 10 Lamar 87	Weber State	86	7	No. 7 Weber State 86	FIRST ROUND	3	1
+1980	Penn	62	12	No. 12 Penn 62	Washington State	55	5	No. 5 Washington State 55	FIRST ROUND	7	7
+1981	Louisiana State	72	1	"Louisiana State 72	Arkansas	56	5	 Arkansas 56	REGIONAL SEMIFINALS	
+2001	Penn State	82	7	Penn State 82"	North Carolina	74	2	 North Carolina 74	SECOND ROUND	-1	-2
+1981	Louisiana State	100	1	No. 1 Louisiana State 100	Lamar	78	8	No. 8 Lamar 78	SECOND ROUND	-7	22
+1981	Virginia	54	1	No. 1 Virginia 54	Villanova	50	9	No. 9 Villanova 50	SECOND ROUND	-8	4
+1981	North Carolina	61	2	"North Carolina 61	Utah	56	3	 Utah 56	REGIONAL SEMIFINALS	
+2011	Connecticut	53	3	Connecticut 53"	Butler	41	8	 Butler 41	NATIONAL CHAMPIONSHIP	-6	20
+1981	Notre Dame	54	2	No. 2 Notre Dame 54	James Madison	45	10	No. 10 James Madison 45	SECOND ROUND	-8	9
+1981	North Carolina	74	2	No. 2 North Carolina 74	Pittsburgh	57	10	No. 10 Pittsburgh 57	SECOND ROUND	-8	17
+1981	North Carolina	78	2	"North Carolina 78	Virginia	65	1	 Virginia 65	NATIONAL SEMIFINALS	
+2001	Cincinnati	66	5	Cincinnati 66"	Kent State	43	13	 Kent State 43	SECOND ROUND	-11	35
+1981	Indiana	99	3	No. 3 Indiana 99	Maryland	64	6	No. 6 Maryland 64	SECOND ROUND	-3	35
+1981	Indiana	67	3	"Indiana 67	Louisiana State	49	1	 Louisiana State 49	NATIONAL SEMIFINALS	
+1993	North Carolina	112	1	North Carolina 112"	Rhode Island	67	8	 Rhode Island 67	SECOND ROUND	-5	0
+1981	Indiana	87	3	"Indiana 87	UAB	72	7	 UAB 72	REGIONAL SEMIFINALS	
+1985	Oklahoma	75	1	Oklahoma 75"	Illinois State	69	9	 Illinois State 69	SECOND ROUND	-6	18
+1981	Utah	94	3	No. 3 Utah 94	Northeastern	69	11	No. 11 Northeastern 69	SECOND ROUND	-8	25
+1981	Illinois	67	4	No. 4 Illinois 67	Wyoming	65	5	No. 5 Wyoming 65	SECOND ROUND	-1	2
+1981	Tennessee	58	4	No. 4 Tennessee 58	Virginia Commonwealth	56	5	No. 5 Virginia Commonwealth 56	SECOND ROUND	-1	2
+1981	Boston College	67	5	No. 5 Boston College 67	Wake Forest	64	4	No. 4 Wake Forest 64	SECOND ROUND	1	3
+1981	Arkansas	74	5	No. 5 Arkansas 74	Louisville	73	4	No. 4 Louisville 73	SECOND ROUND	1	1
+1981	Arkansas	73	5	No. 5 Arkansas 73	Mercer	67	12	No. 12 Mercer 67	FIRST ROUND	-7	6
+1981	Boston College	93	5	No. 5 Boston College 93	Ball State	90	12	No. 12 Ball State 90	FIRST ROUND	-7	3
+1981	Wyoming	78	5	No. 5 Wyoming 78	Howard University (D.C.)	43	12	No. 12 Howard University (D.C.) 43	FIRST ROUND	-7	35
+1981	Virginia Commonwealth	85	5	No. 5 Virginia Commonwealth 85	Long Island	69	12	No. 12 Long Island 69	FIRST ROUND	-7	16
+1981	Brigham Young	78	6	No. 6 Brigham Young 78	UCLA	55	3	No. 3 UCLA 55	SECOND ROUND	3	23
+1981	Wichita State	60	6	No. 6 Wichita State 60	Iowa	56	3	No. 3 Iowa 56	SECOND ROUND	3	4
+1981	Maryland	81	6	No. 6 Maryland 81	Tennessee-Chattanooga	69	11	No. 11 Tennessee-Chattanooga 69	FIRST ROUND	-5	12
+1981	Brigham Young	60	6	No. 6 Brigham Young 60	Princeton	51	11	No. 11 Princeton 51	FIRST ROUND	-5	9
+1981	Wichita State	95	6	No. 6 Wichita State 95	Southern (La.)	70	11	No. 11 Southern (La.) 70	FIRST ROUND	-5	25
+1981	UAB	69	7	No. 7 UAB 69	Kentucky	62	2	No. 2 Kentucky 62	SECOND ROUND	5	7
+1981	Kansas	88	7	No. 7 Kansas 88	Arizona State	71	2	No. 2 Arizona State 71	SECOND ROUND	5	17
+1981	Kansas	69	7	No. 7 Kansas 69	Mississippi	66	10	No. 10 Mississippi 66	FIRST ROUND	-3	3
+1981	UAB	93	7	No. 7 UAB 93	Western Kentucky	68	10	No. 10 Western Kentucky 68	FIRST ROUND	-3	25
+1981	Kansas State	50	8	No. 8 Kansas State 50	Oregon State	48	1	No. 1 Oregon State 48	SECOND ROUND	7	2
+1981	Kansas State	57	8	"Kansas State 57	Illinois	52	4	 Illinois 52	REGIONAL SEMIFINALS	
+1994	Tulsa	82	12	Tulsa 82"	Oklahoma State	80	4	 Oklahoma State 80	SECOND ROUND	4	-23
+1981	Kansas State	64	8	No. 8 Kansas State 64	San Francisco	60	9	No. 9 San Francisco 60	FIRST ROUND	-1	4
+1981	Lamar	71	8	No. 8 Lamar 71	Missouri	67	9	No. 9 Missouri 67	FIRST ROUND	-1	4
+1981	St. Joseph's	49	9	No. 9 St. Joseph's 49	DePaul	48	1	No. 1 DePaul 48	SECOND ROUND	8	1
+1981	St. Joseph's	59	9	No. 9 St. Joseph's 59	Creighton	57	8	No. 8 Creighton 57	FIRST ROUND	1	2
+1981	Villanova	90	9	No. 9 Villanova 90	Houston	72	8	No. 8 Houston 72	FIRST ROUND	1	18
+1981	Pittsburgh	70	10	No. 10 Pittsburgh 70	Idaho	69	7	No. 7 Idaho 69	FIRST ROUND	3	1
+1981	James Madison	61	10	No. 10 James Madison 61	Georgetown	55	7	No. 7 Georgetown 55	FIRST ROUND	3	6
+1981	Northeastern	55	11	No. 11 Northeastern 55	Fresno State	53	6	No. 6 Fresno State 53	FIRST ROUND	5	2
+1982	Georgetown	50	1	"Georgetown 50	Louisville	46	3	 Louisville 46	NATIONAL SEMIFINALS	
+1989	Michigan	80	3	Michigan 80"	Seton Hall	79	3	 Seton Hall 79	NATIONAL CHAMPIONSHIP	-2	-29
+1982	North Carolina	74	1	"North Carolina 74	Alabama	69	4	 Alabama 69	REGIONAL SEMIFINALS	
+1997	St. Joseph's	81	4	St. Joseph's 81"	Boston College	77	5	 Boston College 77	SECOND ROUND	-4	-3
+1982	Georgetown	51	1	No. 1 Georgetown 51	Wyoming	43	8	No. 8 Wyoming 43	SECOND ROUND	-7	8
+1982	Virginia	54	1	No. 1 Virginia 54	Tennessee	51	9	No. 9 Tennessee 51	SECOND ROUND	-8	3
+1982	North Carolina	52	1	No. 1 North Carolina 52	James Madison	50	9	No. 9 James Madison 50	SECOND ROUND	-8	2
+1982	Oregon State	70	2	No. 2 Oregon State 70	Pepperdine	51	7	No. 7 Pepperdine 51	SECOND ROUND	-5	19
+1982	Memphis State	56	2	No. 2 Memphis State 56	Wake Forest	55	7	No. 7 Wake Forest 55	SECOND ROUND	-5	1
+1982	Missouri	73	2	No. 2 Missouri 73	Marquette	69	7	No. 7 Marquette 69	SECOND ROUND	-5	4
+1982	Minnesota	62	2	No. 2 Minnesota 62	Tennessee-Chattanooga	61	10	No. 10 Tennessee-Chattanooga 61	SECOND ROUND	-8	1
+1982	Villanova	70	3	"Villanova 70	Memphis State	66	2	 Memphis State 66	REGIONAL SEMIFINALS	
+1987	North Carolina	74	1	North Carolina 74"	Notre Dame	68	5	 Notre Dame 68	REGIONAL SEMIFINALS	-2	2
+1982	Idaho	69	3	No. 3 Idaho 69	Iowa	67	6	No. 6 Iowa 67	SECOND ROUND	-3	2
+1982	Villanova	76	3	No. 3 Villanova 76	Northeastern	72	11	No. 11 Northeastern 72	SECOND ROUND	-8	4
+1982	Louisville	81	3	No. 3 Louisville 81	Middle Tennessee State	56	11	No. 11 Middle Tennessee State 56	SECOND ROUND	-8	25
+1982	UAB	68	4	"UAB 68	Virginia	66	1	 Virginia 66	REGIONAL SEMIFINALS	
+1987	Wyoming	78	12	Wyoming 78"	UCLA	68	4	 UCLA 68	SECOND ROUND	0	0
+1982	UAB	80	4	No. 4 UAB 80	Indiana	70	5	No. 5 Indiana 70	SECOND ROUND	-1	10
+1982	Alabama	69	4	No. 4 Alabama 69	St. John's	68	5	No. 5 St. John's 68	SECOND ROUND	-1	1
+1982	Fresno State	50	4	No. 4 Fresno State 50	West Virginia	46	5	No. 5 West Virginia 46	SECOND ROUND	-1	4
+1982	Kansas State	65	5	No. 5 Kansas State 65	Arkansas	64	4	No. 4 Arkansas 64	SECOND ROUND	1	1
+1982	St. John's	66	5	No. 5 St. John's 66	Penn	56	12	No. 12 Penn 56	FIRST ROUND	-7	10
+1982	Indiana	94	5	No. 5 Indiana 94	Robert Morris (Pa.)	62	12	No. 12 Robert Morris (Pa.) 62	FIRST ROUND	-7	32
+1982	West Virginia	102	5	No. 5 West Virginia 102	North Carolina A&T	72	12	No. 12 North Carolina A&T 72	FIRST ROUND	-7	30
+1982	Kansas State	77	5	No. 5 Kansas State 77	Northern Illinois	68	12	No. 12 Northern Illinois 68	FIRST ROUND	-7	9
+1982	Houston	78	6	No. 6 Houston 78	Tulsa	74	3	No. 3 Tulsa 74	SECOND ROUND	3	4
+1982	Houston	94	6	No. 6 Houston 94	Alcorn State	84	11	No. 11 Alcorn State 84	FIRST ROUND	-5	10
+1982	Iowa	70	6	No. 6 Iowa 70	Northeast Louisiana	63	11	No. 11 Northeast Louisiana 63	FIRST ROUND	-5	7
+1982	Pepperdine	99	7	No. 7 Pepperdine 99	Pittsburgh	88	10	No. 10 Pittsburgh 88	FIRST ROUND	-3	11
+1982	Wake Forest	74	7	No. 7 Wake Forest 74	Old Dominion	57	10	No. 10 Old Dominion 57	FIRST ROUND	-3	17
+1982	Marquette	67	7	No. 7 Marquette 67	Evansville	62	10	No. 10 Evansville 62	FIRST ROUND	-3	5
+1982	Boston College	82	8	No. 8 Boston College 82	DePaul	75	1	No. 1 DePaul 75	SECOND ROUND	7	7
+1982	Boston College	70	8	No. 8 Boston College 70	San Francisco	66	9	No. 9 San Francisco 66	FIRST ROUND	-1	4
+1982	Wyoming	61	8	No. 8 Wyoming 61	Southern Cal	58	9	No. 9 Southern Cal 58	FIRST ROUND	-1	3
+1982	Tennessee	61	9	No. 9 Tennessee 61	Southwestern Louisiana	57	8	No. 8 Southwestern Louisiana 57	FIRST ROUND	1	4
+1982	James Madison	55	9	No. 9 James Madison 55	Ohio State	48	8	No. 8 Ohio State 48	FIRST ROUND	1	7
+1982	Tenn.-Chattanooga	58	10	No. 10 Tenn.-Chattanooga 58	North Carolina State	51	7	No. 7 North Carolina State 51	FIRST ROUND	3	7
+1982	Middle Tennessee State	50	11	No. 11 Middle Tennessee State 50	Kentucky	44	6	No. 6 Kentucky 44	FIRST ROUND	5	6
+1982	Northeastern	63	11	No. 11 Northeastern 63	St. Joseph's	62	6	No. 6 St. Joseph's 62	FIRST ROUND	5	1
+1983	Virginia	95	1	"Virginia 95	Boston College	92	4	 Boston College 92	REGIONAL SEMIFINALS	
+1998	Arizona	87	1	Arizona 87"	Maryland	79	4	 Maryland 79	REGIONAL SEMIFINALS	-3	16
+1983	Louisville	80	1	"Louisville 80	Kentucky	68	3	 Kentucky 68	REGIONAL FINALS	
+1995	UCLA	86	1	UCLA 86"	Mississippi State	67	5	 Mississippi State 67	REGIONAL SEMIFINALS	-4	13
+1983	Houston	70	1	"Houston 70	Memphis State	63	4	 Memphis State 63	REGIONAL SEMIFINALS	
+1993	Kansas	90	2	Kansas 90"	Brigham Young	76	7	 Brigham Young 76	SECOND ROUND	-6	-6
+1983	Virginia	54	1	No. 1 Virginia 54	Washington State	49	8	No. 8 Washington State 49	SECOND ROUND	-7	5
+1983	Louisville	70	1	No. 1 Louisville 70	Tennessee	57	8	No. 8 Tennessee 57	SECOND ROUND	-7	13
+1983	Houston	60	1	No. 1 Houston 60	Maryland	50	8	No. 8 Maryland 50	SECOND ROUND	-7	10
+1983	Houston	89	1	"Houston 89	Villanova	71	3	 Villanova 71	REGIONAL FINALS	
+1998	Duke	79	1	Duke 79"	Oklahoma State	73	8	 Oklahoma State 73	SECOND ROUND	-7	16
+1983	St. John's	66	1	No. 1 St. John's 66	Rutgers	55	9	No. 9 Rutgers 55	SECOND ROUND	-8	11
+1983	Indiana	63	2	No. 2 Indiana 63	Oklahoma	49	7	No. 7 Oklahoma 49	SECOND ROUND	-5	14
+1983	North Carolina	68	2	No. 2 North Carolina 68	James Madison	49	10	No. 10 James Madison 49	SECOND ROUND	-8	19
+1983	Ohio State	79	3	No. 3 Ohio State 79	Syracuse	74	6	No. 6 Syracuse 74	SECOND ROUND	-3	5
+1983	Villanova	60	3	No. 3 Villanova 60	Lamar	58	11	No. 11 Lamar 58	SECOND ROUND	-8	2
+1983	Kentucky	57	3	No. 3 Kentucky 57	Ohio University	40	11	No. 11 Ohio University 40	SECOND ROUND	-8	17
+1983	Memphis State	66	4	No. 4 Memphis State 66	Georgetown	57	5	No. 5 Georgetown 57	SECOND ROUND	-1	9
+1983	Georgia	56	4	No. 4 Georgia 56	Virginia Commonwealth	54	5	No. 5 Virginia Commonwealth 54	SECOND ROUND	-1	2
+1983	Arkansas	78	4	No. 4 Arkansas 78	Purdue	68	5	No. 5 Purdue 68	SECOND ROUND	-1	10
+1983	Boston College	51	4	No. 4 Boston College 51	Princeton	42	12	No. 12 Princeton 42	SECOND ROUND	-8	9
+1983	Virginia Commonwealth	76	5	No. 5 Virginia Commonwealth 76	La Salle	67	12	No. 12 La Salle 67	FIRST ROUND	-7	9
+1983	Purdue	55	5	No. 5 Purdue 55	Robert Morris (Pa.)	53	12	No. 12 Robert Morris (Pa.) 53	FIRST ROUND	-7	2
+1983	Georgetown	68	5	No. 5 Georgetown 68	Alcorn State	63	12	No. 12 Alcorn State 63	FIRST ROUND	-7	5
+1983	North Carolina State	71	6	No. 6 North Carolina State 71	UNLV	70	3	No. 3 UNLV 70	SECOND ROUND	3	1
+1983	North Carolina State	67	6	"North Carolina State 67	Georgia	60	4	 Georgia 60	NATIONAL SEMIFINALS	
+2012	Michigan State	65	1	Michigan State 65"	Saint Louis	61	9	 Saint Louis 61	THIRD ROUND	-3	6
+1983	North Carolina State	69	6	No. 6 North Carolina State 69	Pepperdine	67	11	No. 11 Pepperdine 67	FIRST ROUND	-5	2
+1983	Syracuse	74	6	No. 6 Syracuse 74	Morehead State	59	11	No. 11 Morehead State 59	FIRST ROUND	-5	15
+1983	Iowa	77	7	No. 7 Iowa 77	Missouri	63	2	No. 2 Missouri 63	SECOND ROUND	5	14
+1983	Oklahoma	71	7	No. 7 Oklahoma 71	UAB	63	10	No. 10 UAB 63	FIRST ROUND	-3	8
+1983	Iowa	64	7	No. 7 Iowa 64	Utah State	59	10	No. 10 Utah State 59	FIRST ROUND	-3	5
+1983	Maryland	52	8	No. 8 Maryland 52	Tennessee-Chattanooga	51	9	No. 9 Tennessee-Chattanooga 51	FIRST ROUND	-1	1
+1983	Washington State	62	8	No. 8 Washington State 62	Weber State	52	9	No. 9 Weber State 52	FIRST ROUND	-1	10
+1983	Tennessee	57	8	No. 8 Tennessee 57	Marquette	56	9	No. 9 Marquette 56	FIRST ROUND	-1	1
+1983	Rutgers	60	9	No. 9 Rutgers 60	Southwestern Louisiana	53	8	No. 8 Southwestern Louisiana 53	FIRST ROUND	1	7
+1983	Utah	67	10	No. 10 Utah 67	UCLA	61	2	No. 2 UCLA 61	SECOND ROUND	8	6
+1983	Utah	52	10	No. 10 Utah 52	Illinois	49	7	No. 7 Illinois 49	FIRST ROUND	3	3
+1983	James Madison	57	10	No. 10 James Madison 57	West Virginia	50	7	No. 7 West Virginia 50	FIRST ROUND	3	7
+1983	Lamar	73	11	No. 11 Lamar 73	Alabama	50	6	No. 6 Alabama 50	FIRST ROUND	5	23
+1983	Ohio University	51	11	No. 11 Ohio University 51	Illinois State	49	6	No. 6 Illinois State 49	FIRST ROUND	5	2
+1983	Princeton	56	12	No. 12 Princeton 56	Oklahoma State	53	5	No. 5 Oklahoma State 53	FIRST ROUND	7	3
+1983	Princeton	53	12	"Princeton 53	North Carolina A&T	41	NA	 North Carolina A&T 41	PRELIMINARY ROUND	
+2012	Baylor	75	3	Baylor 75"	Xavier	70	10	 Xavier 70	REGIONAL SEMIFINALS	2	-17
+1984	Georgetown	62	1	"Georgetown 62	UNLV	48	5	 UNLV 48	REGIONAL SEMIFINALS	
+1992	Michigan	75	6	Michigan 75"	Ohio State	71	1	 Ohio State 71	REGIONAL FINALS	0	-9
+1984	Georgetown	61	1	"Georgetown 61	Dayton	49	10	 Dayton 49	REGIONAL FINALS	
+1986	Louisiana State	70	11	Louisiana State 70"	Georgia Tech	64	2	 Georgia Tech 64	REGIONAL SEMIFINALS	-1	-3
+1984	Kentucky	54	1	"Kentucky 54	Illinois	51	2	 Illinois 51	REGIONAL FINALS	
+2000	UCLA	105	6	UCLA 105"	Maryland	70	3	 Maryland 70	SECOND ROUND	-2	-16
+1984	DePaul	75	1	No. 1 DePaul 75	Illinois State	61	8	No. 8 Illinois State 61	SECOND ROUND	-7	14
+1984	Kentucky	93	1	No. 1 Kentucky 93	Brigham Young	68	8	No. 8 Brigham Young 68	SECOND ROUND	-7	25
+1984	North Carolina	77	1	No. 1 North Carolina 77	Temple	66	8	No. 8 Temple 66	SECOND ROUND	-7	11
+1984	Georgetown	37	1	No. 1 Georgetown 37	Southern Methodist	36	9	No. 9 Southern Methodist 36	SECOND ROUND	-8	1
+1984	Houston	78	2	"Houston 78	Memphis State	71	6	 Memphis State 71	REGIONAL SEMIFINALS	
+2006	Washington	67	5	Washington 67"	Illinois	64	4	 Illinois 64	SECOND ROUND	-2	14
+1984	Illinois	64	2	No. 2 Illinois 64	Villanova	56	7	No. 7 Villanova 56	SECOND ROUND	-5	8
+1984	Houston	77	2	No. 2 Houston 77	Louisiana Tech	69	10	No. 10 Louisiana Tech 69	SECOND ROUND	-8	8
+1984	Syracuse	78	3	No. 3 Syracuse 78	Virginia Commonwealth	63	6	No. 6 Virginia Commonwealth 63	SECOND ROUND	-3	15
+1984	Maryland	102	3	No. 3 Maryland 102	West Virginia	77	11	No. 11 West Virginia 77	SECOND ROUND	-8	25
+1984	Wake Forest	69	4	No. 4 Wake Forest 69	Kansas	59	5	No. 5 Kansas 59	SECOND ROUND	-1	10
+1984	Indiana	72	4	"Indiana 72	North Carolina	68	1	 North Carolina 68	REGIONAL SEMIFINALS	
+1994	Louisville	60	3	Louisville 60"	Minnesota	55	6	 Minnesota 55	SECOND ROUND	-2	17
+1984	Indiana	75	4	No. 4 Indiana 75	Richmond	67	12	No. 12 Richmond 67	SECOND ROUND	-8	8
+1984	Louisville	69	5	No. 5 Louisville 69	Tulsa	67	4	No. 4 Tulsa 67	SECOND ROUND	1	2
+1984	UNLV	73	5	No. 5 UNLV 73	Texas-El Paso	60	4	No. 4 Texas-El Paso 60	SECOND ROUND	1	13
+1984	Kansas	57	5	No. 5 Kansas 57	Alcorn State	56	12	No. 12 Alcorn State 56	FIRST ROUND	-7	1
+1984	UNLV	68	5	No. 5 UNLV 68	Princeton	56	12	No. 12 Princeton 56	FIRST ROUND	-7	12
+1984	Louisville	72	5	No. 5 Louisville 72	Morehead State	59	12	No. 12 Morehead State 59	FIRST ROUND	-7	13
+1984	Washington	80	6	No. 6 Washington 80	Duke	78	3	No. 3 Duke 78	SECOND ROUND	3	2
+1984	Memphis State	66	6	No. 6 Memphis State 66	Purdue	48	3	No. 3 Purdue 48	SECOND ROUND	3	18
+1984	Memphis State	92	6	No. 6 Memphis State 92	Oral Roberts	83	11	No. 11 Oral Roberts 83	FIRST ROUND	-5	9
+1984	Washington	64	6	No. 6 Washington 64	Nevada-Reno	54	11	No. 11 Nevada-Reno 54	FIRST ROUND	-5	10
+1984	Virginia Commonwealth	70	6	No. 6 Virginia Commonwealth 70	Northeastern	69	11	No. 11 Northeastern 69	FIRST ROUND	-5	1
+1984	Virginia	53	7	No. 7 Virginia 53	Arkansas	51	2	No. 2 Arkansas 51	SECOND ROUND	5	2
+1984	Virginia	63	7	"Virginia 63	Syracuse	55	3	 Syracuse 55	REGIONAL SEMIFINALS	
+2011	Butler	74	8	Butler 74"	Florida	71	2	 Florida 71	REGIONAL FINALS	5	-8
+1984	Virginia	50	7	"Virginia 50	Indiana	48	4	 Indiana 48	REGIONAL FINALS	
+1984	Illinois	72	2	Illinois 72"	Maryland	70	3	 Maryland 70	REGIONAL SEMIFINALS	4	-20
+1984	Virginia	58	7	No. 7 Virginia 58	Iona	57	10	No. 10 Iona 57	FIRST ROUND	-3	1
+1984	Villanova	84	7	No. 7 Villanova 84	Marshall	72	10	No. 10 Marshall 72	FIRST ROUND	-3	12
+1984	Temple	65	8	No. 8 Temple 65	St. John's	63	9	No. 9 St. John's 63	FIRST ROUND	-1	2
+1984	Illinois State	49	8	No. 8 Illinois State 49	Alabama	48	9	No. 9 Alabama 48	FIRST ROUND	-1	1
+1984	Brigham Young	84	8	No. 8 Brigham Young 84	UAB	68	9	No. 9 UAB 68	FIRST ROUND	-1	16
+1984	Southern Methodist	83	9	No. 9 Southern Methodist 83	Miami (Ohio)	69	8	No. 8 Miami (Ohio) 69	FIRST ROUND	1	14
+1984	Dayton	89	10	No. 10 Dayton 89	Oklahoma	85	2	No. 2 Oklahoma 85	SECOND ROUND	8	4
+1984	Dayton	74	10	No. 10 Dayton 74	Louisiana State	66	7	No. 7 Louisiana State 66	FIRST ROUND	3	8
+1984	Louisiana Tech	66	10	No. 10 Louisiana Tech 66	Fresno State	56	7	No. 7 Fresno State 56	FIRST ROUND	3	10
+1984	Dayton	64	10	"Dayton 64	Washington	58	6	 Washington 58	REGIONAL SEMIFINALS	
+2008	UCLA	51	1	UCLA 51"	Texas A&M;	49	9	 Texas A&M; 49	SECOND ROUND	1	15
+1984	Northeastern	90	11	"Northeastern 90	Long Island	87	NA	 Long Island 87	NATIONAL CHAMPIONSHIP	
+2005	Utah	67	6	Utah 67"	Oklahoma	58	3	 Oklahoma 58	SECOND ROUND	8	32
+1984	West Virginia	64	11	No. 11 West Virginia 64	Oregon State	62	6	No. 6 Oregon State 62	FIRST ROUND	5	2
+1984	Richmond	89	12	"Richmond 89	Rider (N.J.)	65	NA	 Rider (N.J.) 65	NATIONAL CHAMPIONSHIP	
+2005	Illinois	72	1	Illinois 72"	Louisville	57	4	 Louisville 57	NATIONAL SEMIFINALS	8	32
+1984	Richmond	72	12	No. 12 Richmond 72	Auburn	71	5	No. 5 Auburn 71	FIRST ROUND	7	1
+1984	Princeton	65	12	"Princeton 65	San Diego	56	NA	 San Diego 56	NATIONAL CHAMPIONSHIP	
+1990	Connecticut	71	1	Connecticut 71"	Clemson	70	5	 Clemson 70	REGIONAL SEMIFINALS	7	-5
+1984	Alcorn State	79	12	"Alcorn State 79	Houston Baptist	60	NA	 Houston Baptist 60	NATIONAL CHAMPIONSHIP	
+1987	Duke	65	5	Duke 65"	Xavier	60	13	 Xavier 60	SECOND ROUND	-1	19
+1985	Georgetown	65	1	"Georgetown 65	Loyola (Ill.)	53	4	 Loyola (Ill.) 53	REGIONAL SEMIFINALS	
+2004	Connecticut	79	2	Connecticut 79"	Duke	78	1	 Duke 78	NATIONAL SEMIFINALS	0	-13
+1985	St. John's	68	1	"St. John's 68	Arkansas	65	9	 Arkansas 65	SECOND ROUND	
+1988	Michigan	108	3	Michigan 108"	Florida	85	6	 Florida 85	SECOND ROUND	-5	-17
+1985	Georgetown	63	1	"Georgetown 63	Temple	46	8	 Temple 46	SECOND ROUND	
+1993	Cincinnati	92	2	Cincinnati 92"	New Mexico State	55	7	 New Mexico State 55	SECOND ROUND	-6	8
+1985	Georgetown	60	1	"Georgetown 60	Georgia Tech	54	2	 Georgia Tech 54	REGIONAL FINALS	
+1998	Kentucky	88	2	Kentucky 88"	Saint Louis	61	10	 Saint Louis 61	SECOND ROUND	-9	-1
+1985	St. John's	83	1	No. 1 St. John's 83	Southern (La.)	59	16	No. 16 Southern (La.) 59	FIRST ROUND	-15	24
+1985	Oklahoma	96	1	No. 1 Oklahoma 96	North Carolina A&T;	83	16	No. 16 North Carolina A&T; 83	FIRST ROUND	-15	13
+1985	Georgetown	68	1	No. 1 Georgetown 68	Lehigh	43	16	No. 16 Lehigh 43	FIRST ROUND	-15	25
+1985	Michigan	59	1	No. 1 Michigan 59	Fairleigh Dickinson	55	16	No. 16 Fairleigh Dickinson 55	FIRST ROUND	-15	4
+1985	Georgia Tech	70	2	"Georgia Tech 70	Syracuse	53	7	 Syracuse 53	SECOND ROUND	
+2004	Duke	72	1	Duke 72"	Illinois	62	5	 Illinois 62	REGIONAL SEMIFINALS	-3	8
+1985	Memphis State	63	2	"Memphis State 63	Oklahoma	61	1	 Oklahoma 61	REGIONAL FINALS	
+2011	Connecticut	69	3	Connecticut 69"	Cincinnati	58	6	 Cincinnati 58	THIRD ROUND	-4	5
+1985	Georgia Tech	61	2	"Georgia Tech 61	Illinois	53	3	 Illinois 53	REGIONAL SEMIFINALS	
+1997	Utah	77	2	Utah 77"	UNC Charlotte	58	7	 UNC Charlotte 58	SECOND ROUND	-5	3
+1985	Memphis State	59	2	"Memphis State 59	Boston College	57	11	 Boston College 57	REGIONAL SEMIFINALS	
+1993	Kentucky	83	1	Kentucky 83"	Utah	62	8	 Utah 62	SECOND ROUND	-6	-3
+1985	Memphis State	67	2	No. 2 Memphis State 67	Pennsylvania	55	15	No. 15 Pennsylvania 55	FIRST ROUND	-13	12
+1985	Georgia Tech	65	2	No. 2 Georgia Tech 65	Mercer	58	15	No. 15 Mercer 58	FIRST ROUND	-13	7
+1985	Virginia Commonwealth	81	2	No. 2 Virginia Commonwealth 81	Marshall	65	15	No. 15 Marshall 65	FIRST ROUND	-13	16
+1985	North Carolina	76	2	No. 2 North Carolina 76	Middle Tennessee State	57	15	No. 15 Middle Tennessee State 57	FIRST ROUND	-13	19
+1985	North Carolina State	86	3	"North Carolina State 86	Texas-El Paso	73	11	 Texas-El Paso 73	SECOND ROUND	
+1993	Kansas	83	2	Kansas 83"	Indiana	77	1	 Indiana 77	REGIONAL FINALS	2	9
+1985	North Carolina State	61	3	"North Carolina State 61	Alabama	55	7	 Alabama 55	REGIONAL SEMIFINALS	
+2008	Washington State	61	4	Washington State 61"	Notre Dame	41	5	 Notre Dame 41	SECOND ROUND	-2	20
+1985	North Carolina State	65	3	No. 3 North Carolina State 65	Nevada-Reno	56	14	No. 14 Nevada-Reno 56	FIRST ROUND	-11	9
+1985	Illinois	76	3	No. 3 Illinois 76	Northeastern	57	14	No. 14 Northeastern 57	FIRST ROUND	-11	19
+1985	Kansas	49	3	No. 3 Kansas 49	Ohio University	38	14	No. 14 Ohio University 38	FIRST ROUND	-11	11
+1985	Duke	75	3	No. 3 Duke 75	Pepperdine	62	14	No. 14 Pepperdine 62	FIRST ROUND	-11	13
+1985	Loyola (Ill.)	70	4	"Loyola (Ill.) 70	Southern Methodist	57	5	 Southern Methodist 57	SECOND ROUND	
+2009	Villanova	89	3	Villanova 89"	UCLA	69	6	 UCLA 69	SECOND ROUND	-2	1
+1985	Loyola (Ill.)	59	4	No. 4 Loyola (Ill.) 59	Iona	58	13	No. 13 Iona 58	FIRST ROUND	-9	1
+1985	Ohio State	75	4	No. 4 Ohio State 75	Iowa State	64	13	No. 13 Iowa State 64	FIRST ROUND	-9	11
+1985	UNLV	85	4	No. 4 UNLV 85	San Diego State	80	13	No. 13 San Diego State 80	FIRST ROUND	-9	5
+1985	Louisiana Tech	79	5	"Louisiana Tech 79	Ohio State	67	4	 Ohio State 67	SECOND ROUND	
+1991	Ohio State	65	1	Ohio State 65"	Georgia Tech	61	8	 Georgia Tech 61	SECOND ROUND	-3	18
+1985	Maryland	69	5	No. 5 Maryland 69	Miami (Ohio)	68	12	No. 12 Miami (Ohio) 68	FIRST ROUND	-7	1
+1985	Southern Methodist	85	5	No. 5 Southern Methodist 85	Old Dominion	68	12	No. 12 Old Dominion 68	FIRST ROUND	-7	17
+1985	Louisiana Tech	78	5	No. 5 Louisiana Tech 78	Pittsburgh	54	12	No. 12 Pittsburgh 54	FIRST ROUND	-7	24
+1985	Georgia	67	6	No. 6 Georgia 67	Wichita State	59	11	No. 11 Wichita State 59	FIRST ROUND	-5	8
+1985	Notre Dame	79	7	No. 7 Notre Dame 79	Oregon State	70	10	No. 10 Oregon State 70	FIRST ROUND	-3	9
+1985	Syracuse	70	7	No. 7 Syracuse 70	DePaul	65	10	No. 10 DePaul 65	FIRST ROUND	-3	5
+1985	Ala.-Birmingham	70	7	No. 7 Ala.-Birmingham 70	Michigan State	68	10	No. 10 Michigan State 68	FIRST ROUND	-3	2
+1985	Alabama	50	7	No. 7 Alabama 50	Arizona	41	10	No. 10 Arizona 41	FIRST ROUND	-3	9
+1985	Villanova	52	8	"Villanova 52	Memphis State	45	2	 Memphis State 45	NATIONAL SEMIFINALS	
+2009	Villanova	78	3	Villanova 78"	Pittsburgh	76	1	 Pittsburgh 76	REGIONAL FINALS	7	-24
+1985	Villanova	46	8	"Villanova 46	Maryland	43	5	 Maryland 43	REGIONAL SEMIFINALS	
+1996	Cincinnati	87	2	Cincinnati 87"	Georgia Tech	70	3	 Georgia Tech 70	REGIONAL SEMIFINALS	5	-24
+1985	Villanova	51	8	No. 8 Villanova 51	Dayton	49	9	No. 9 Dayton 49	FIRST ROUND	-1	2
+1985	Temple	60	8	No. 8 Temple 60	Virginia Tech	57	9	No. 9 Virginia Tech 57	FIRST ROUND	-1	3
+1985	Arkansas	63	9	No. 9 Arkansas 63	Iowa	54	8	No. 8 Iowa 54	FIRST ROUND	1	9
+1985	Illinois State	58	9	No. 9 Illinois State 58	Southern Cal	55	8	No. 8 Southern Cal 55	FIRST ROUND	1	3
+1985	Auburn	66	11	"Auburn 66	Kansas	64	3	 Kansas 64	SECOND ROUND	
+2005	Villanova	76	5	Villanova 76"	Florida	65	4	 Florida 65	SECOND ROUND	7	1
+1985	Texas-El Paso	79	11	No. 11 Texas-El Paso 79	Tulsa	75	6	No. 6 Tulsa 75	FIRST ROUND	5	4
+1985	Boston College	55	11	No. 11 Boston College 55	Texas Tech	53	6	No. 6 Texas Tech 53	FIRST ROUND	5	2
+1985	Auburn	59	11	No. 11 Auburn 59	Purdue	58	6	No. 6 Purdue 58	FIRST ROUND	5	1
+1985	Kentucky	66	12	No. 12 Kentucky 66	Washington	58	5	No. 5 Washington 58	FIRST ROUND	7	8
+1985	Kentucky	64	12	"Kentucky 64	UNLV	61	4	 UNLV 61	SECOND ROUND	
+1988	Oklahoma	78	1	Oklahoma 78"	Villanova	59	6	 Villanova 59	REGIONAL FINALS	6	5
+1985	Navy	78	13	No. 13 Navy 78	Louisiana State	55	4	No. 4 Louisiana State 55	FIRST ROUND	9	23
+1986	Kansas	65	1	"Kansas 65	Temple	43	9	 Temple 43	SECOND ROUND	
+2001	Arizona	87	2	Arizona 87"	Illinois	81	1	 Illinois 81	REGIONAL FINALS	0	-16
+1986	Duke	74	1	"Duke 74	DePaul	67	12	 DePaul 67	REGIONAL SEMIFINALS	
+2010	Tennessee	76	6	Tennessee 76"	Ohio State	73	2	 Ohio State 73	REGIONAL SEMIFINALS	-1	1
+1986	Duke	89	1	"Duke 89	Old Dominion	61	8	 Old Dominion 61	SECOND ROUND	
+1994	Indiana	67	5	Indiana 67"	Temple	58	4	 Temple 58	SECOND ROUND	-3	31
+1986	Duke	71	1	"Duke 71	Navy	50	7	 Navy 50	REGIONAL FINALS	
+2009	Pittsburgh	84	1	Pittsburgh 84"	Oklahoma State	76	8	 Oklahoma State 76	SECOND ROUND	-7	-5
+1986	Kansas	75	1	"Kansas 75	N.C. State	67	NA	 N.C. State 67	REGIONAL FINALS	
+1994	Arkansas	85	1	Arkansas 85"	Georgetown	73	9	 Georgetown 73	SECOND ROUND	-8	2
+1986	Kansas	96	1	"Kansas 96	Michigan State	86	5	 Michigan State 86	REGIONAL SEMIFINALS	
+2010	Ohio State	75	2	Ohio State 75"	Georgia Tech	66	10	 Georgia Tech 66	SECOND ROUND	-9	30
+1986	Kansas	71	1	No. 1 Kansas 71	North Carolina A&T	46	16	No. 16 North Carolina A&T 46	FIRST ROUND	-15	25
+1986	Kentucky	75	1	No. 1 Kentucky 75	Davidson	55	16	No. 16 Davidson 55	FIRST ROUND	-15	20
+1986	St. John's	83	1	No. 1 St. John's 83	Montana State	74	16	No. 16 Montana State 74	FIRST ROUND	-15	9
+1986	Duke	85	1	No. 1 Duke 85	Mississippi Valley State	78	16	No. 16 Mississippi Valley State 78	FIRST ROUND	-15	7
+1986	Georgia Tech	66	2	"Georgia Tech 66	Villanova	61	10	 Villanova 61	SECOND ROUND	
+2006	Washington D.C.		NA	Washington D.C. "	Villanova	61	1	 Villanova 61	REGIONAL FINALS	1	5
+1986	Louisville	84	2	"Louisville 84	Auburn	76	8	 Auburn 76	REGIONAL FINALS	
+1982	North Carolina	63	1	North Carolina 63"	Georgetown	62	1	 Georgetown 62	NATIONAL CHAMPIONSHIP	1	22
+1986	Louisville	94	2	"Louisville 94	North Carolina	79	3	 North Carolina 79	REGIONAL SEMIFINALS	
+1980	Purdue	68	6	Purdue 68"	Duke	60	4	 Duke 60	REGIONAL FINALS	-2	34
+1986	Michigan	70	2	No. 2 Michigan 70	Akron	64	15	No. 15 Akron 64	FIRST ROUND	-13	6
+1986	Syracuse	101	2	No. 2 Syracuse 101	Brown	52	15	No. 15 Brown 52	FIRST ROUND	-13	49
+1986	Louisville	93	2	No. 2 Louisville 93	Drexel	73	15	No. 15 Drexel 73	FIRST ROUND	-13	20
+1986	Georgia Tech	68	2	No. 2 Georgia Tech 68	Marist	53	15	No. 15 Marist 53	FIRST ROUND	-13	15
+1986	Memphis State	95	3	No. 3 Memphis State 95	Ball State	63	14	No. 14 Ball State 63	FIRST ROUND	-11	32
+1986	North Carolina	84	3	No. 3 North Carolina 84	Utah	72	14	No. 14 Utah 72	FIRST ROUND	-11	12
+1986	Oklahoma	80	4	No. 4 Oklahoma 80	Northeastern	74	13	No. 13 Northeastern 74	FIRST ROUND	-9	6
+1986	UNLV	74	4	No. 4 UNLV 74	Northeast Louisiana	51	13	No. 13 Northeast Louisiana 51	FIRST ROUND	-9	23
+1986	Illinois	75	4	No. 4 Illinois 75	Fairfield	51	13	No. 13 Fairfield 51	FIRST ROUND	-9	24
+1986	Georgetown	70	4	No. 4 Georgetown 70	Texas Tech	64	13	No. 13 Texas Tech 64	FIRST ROUND	-9	6
+1986	Maryland	69	5	No. 5 Maryland 69	Pepperdine	64	12	No. 12 Pepperdine 64	FIRST ROUND	-7	5
+1986	Michigan State	72	5	No. 5 Michigan State 72	Washington	70	12	No. 12 Washington 70	FIRST ROUND	-7	2
+1986	Alabama	97	5	No. 5 Alabama 97	Xavier	80	12	No. 12 Xavier 80	FIRST ROUND	-7	17
+1986	North Carolina State	70	6	"North Carolina State 70	Iowa State	66	7	 Iowa State 66	REGIONAL SEMIFINALS	
+1980	UCLA	85	8	UCLA 85"	Clemson	74	6	 Clemson 74	REGIONAL FINALS	0	-4
+1986	UAB	66	6	No. 6 UAB 66	Missouri	64	11	No. 11 Missouri 64	FIRST ROUND	-5	2
+1986	North Carolina State	66	6	No. 6 North Carolina State 66	Iowa	64	11	No. 11 Iowa 64	FIRST ROUND	-5	2
+1986	St. Joseph's	60	6	No. 6 St. Joseph's 60	Richmond	59	11	No. 11 Richmond 59	FIRST ROUND	-5	1
+1986	Iowa State	81	7	No. 7 Iowa State 81	Miami (Ohio)	79	10	No. 10 Miami (Ohio) 79	FIRST ROUND	-3	2
+1986	Navy	87	7	No. 7 Navy 87	Tulsa	68	10	No. 10 Tulsa 68	FIRST ROUND	-3	19
+1986	Bradley	83	7	No. 7 Bradley 83	Texas-El Paso	65	10	No. 10 Texas-El Paso 65	FIRST ROUND	-3	18
+1986	Auburn	81	8	"Auburn 81	St. John's	65	1	 St. John's 65	SECOND ROUND	
+2012	Kansas	80	2	Kansas 80"	North Carolina	67	1	 North Carolina 67	REGIONAL FINALS	7	14
+1986	Western Kentucky	67	8	No. 8 Western Kentucky 67	Nebraska	59	9	No. 9 Nebraska 59	FIRST ROUND	-1	8
+1986	Old Dominion	72	8	No. 8 Old Dominion 72	West Virginia	64	9	No. 9 West Virginia 64	FIRST ROUND	-1	8
+1986	Auburn	73	8	No. 8 Auburn 73	Arizona	63	9	No. 9 Arizona 63	FIRST ROUND	-1	10
+1986	Temple	61	9	No. 9 Temple 61	Jacksonville	50	8	No. 8 Jacksonville 50	FIRST ROUND	1	11
+1986	Villanova	71	10	No. 10 Villanova 71	Virginia Tech	62	7	No. 7 Virginia Tech 62	FIRST ROUND	3	9
+1986	Louisiana State	59	11	"Louisiana State 59	Kentucky	57	1	 Kentucky 57	REGIONAL FINALS	
+1991	Duke	79	2	Duke 79"	UNLV	77	1	 UNLV 77	NATIONAL SEMIFINALS	10	-18
+1986	Louisiana State	94	11	No. 11 Louisiana State 94	Purdue	87	6	No. 6 Purdue 87	FIRST ROUND	5	7
+1986	DePaul	72	12	No. 12 DePaul 72	Virginia	68	5	No. 5 Virginia 68	FIRST ROUND	7	4
+1986	Arkansas-Little Rock	90	14	No. 14 Arkansas-Little Rock 90	Notre Dame	83	3	No. 3 Notre Dame 83	FIRST ROUND	11	7
+1986	Cleveland State	83	14	No. 14 Cleveland State 83	Indiana	79	3	No. 3 Indiana 79	FIRST ROUND	11	4
+1987	UNLV	84	1	"UNLV 84	Iowa	81	2	 Iowa 81	REGIONAL FINALS	
+2000	North Carolina	60	8	North Carolina 60"	Stanford	53	1	 Stanford 53	SECOND ROUND	0	31
+1987	UNLV	80	1	"UNLV 80	Kansas State	61	9	 Kansas State 61	SECOND ROUND	
+1989	Illinois	89	1	Illinois 89"	Syracuse	86	2	 Syracuse 86	REGIONAL FINALS	-1	-6
+1987	North Carolina	109	1	"North Carolina 109	Michigan	97	9	 Michigan 97	SECOND ROUND	
+1993	California	82	6	California 82"	Duke	77	3	 Duke 77	SECOND ROUND	-2	32
+1987	Indiana	107	1	"Indiana 107	Auburn	90	8	 Auburn 90	SECOND ROUND	
+2003	Maryland	77	6	Maryland 77"	Xavier	64	3	 Xavier 64	SECOND ROUND	-2	43
+1987	Georgetown	70	1	"Georgetown 70	Kansas	57	5	 Kansas 57	REGIONAL SEMIFINALS	
+1995	Arkansas	68	2	Arkansas 68"	Virginia	61	4	 Virginia 61	REGIONAL FINALS	-3	9
+1987	Indiana	88	1	"Indiana 88	Duke	82	5	 Duke 82	REGIONAL SEMIFINALS	
+2003	Texas	82	1	Texas 82"	Connecticut	78	5	 Connecticut 78	REGIONAL SEMIFINALS	-4	10
+1987	UNLV	95	1	No. 1 UNLV 95	Idaho State	70	16	No. 16 Idaho State 70	FIRST ROUND	-15	25
+1987	North Carolina	113	1	No. 1 North Carolina 113	Penn	82	16	No. 16 Penn 82	FIRST ROUND	-15	31
+1987	Georgetown	75	1	No. 1 Georgetown 75	Bucknell	53	16	No. 16 Bucknell 53	FIRST ROUND	-15	22
+1987	Indiana	92	1	No. 1 Indiana 92	Fairfield	58	16	No. 16 Fairfield 58	FIRST ROUND	-15	34
+1987	Alabama	101	2	"Alabama 101	New Orleans	76	7	 New Orleans 76	SECOND ROUND	
+1982	Georgetown	69	1	Georgetown 69"	Oregon State	45	2	 Oregon State 45	REGIONAL FINALS	0	56
+1987	Syracuse	104	2	"Syracuse 104	Western Kentucky	86	10	 Western Kentucky 86	SECOND ROUND	
+1987	Providence	103	6	Providence 103"	Alabama	82	2	 Alabama 82	REGIONAL SEMIFINALS	0	22
+1987	Iowa	84	2	"Iowa 84	UTEP	82	NA	 UTEP 82	SECOND ROUND	
+1987	Oklahoma	96	6	Oklahoma 96"	Pittsburgh	93	3	 Pittsburgh 93	SECOND ROUND	-1	-9
+1987	Syracuse	87	2	"Syracuse 87	Florida	81	6	 Florida 81	REGIONAL SEMIFINALS	
+2001	Duke	94	1	Duke 94"	Missouri	81	9	 Missouri 81	SECOND ROUND	-7	6
+1987	Iowa	99	2	No. 2 Iowa 99	Santa Clara	76	15	No. 15 Santa Clara 76	FIRST ROUND	-13	23
+1987	Alabama	88	2	No. 2 Alabama 88	North Carolina A&T	71	15	No. 15 North Carolina A&T 71	FIRST ROUND	-13	17
+1987	Syracuse	79	2	No. 2 Syracuse 79	Georgia Southern	73	15	No. 15 Georgia Southern 73	FIRST ROUND	-13	6
+1987	Temple	75	2	No. 2 Temple 75	Southern (La.)	56	15	No. 15 Southern (La.) 56	FIRST ROUND	-13	19
+1987	DePaul	83	3	"DePaul 83	St. John's	75	6	 St. John's 75	SECOND ROUND	
+1988	Kansas	66	6	Kansas 66"	Duke	59	2	 Duke 59	NATIONAL SEMIFINALS	1	24
+1987	Pittsburgh	93	3	No. 3 Pittsburgh 93	Marist	68	14	No. 14 Marist 68	FIRST ROUND	-11	25
+1987	Purdue	104	3	No. 3 Purdue 104	Northeastern	95	14	No. 14 Northeastern 95	FIRST ROUND	-11	9
+1987	DePaul	76	3	No. 3 DePaul 76	Louisiana Tech	62	14	No. 14 Louisiana Tech 62	FIRST ROUND	-11	14
+1987	Texas Christian	76	4	No. 4 Texas Christian 76	Marshall	60	13	No. 13 Marshall 60	FIRST ROUND	-9	16
+1987	UCLA	92	4	No. 4 UCLA 92	Central Michigan	73	13	No. 13 Central Michigan 73	FIRST ROUND	-9	19
+1987	Notre Dame	58	5	"Notre Dame 58	Texas Christian	57	4	 Texas Christian 57	SECOND ROUND	
+1984	Wake Forest	73	4	Wake Forest 73"	DePaul	71	1	 DePaul 71	REGIONAL SEMIFINALS	4	-13
+1987	Kansas	67	5	"Kansas 67	Southwest Missouri State	63	13	 Southwest Missouri State 63	SECOND ROUND	
+1983	North Carolina	64	2	North Carolina 64"	Ohio State	51	3	 Ohio State 51	REGIONAL SEMIFINALS	2	16
+1987	Notre Dame	84	5	No. 5 Notre Dame 84	Middle Tennessee State	71	12	No. 12 Middle Tennessee State 71	FIRST ROUND	-7	13
+1987	Duke	58	5	No. 5 Duke 58	Texas A&M	51	12	No. 12 Texas A&M 51	FIRST ROUND	-7	7
+1987	Kansas	66	5	No. 5 Kansas 66	Houston	55	12	No. 12 Houston 55	FIRST ROUND	-7	11
+1987	Florida	85	6	"Florida 85	Purdue	66	3	 Purdue 66	SECOND ROUND	
+1999	Gonzaga	82	10	Gonzaga 82"	Stanford	74	2	 Stanford 74	SECOND ROUND	4	11
+1987	Providence	88	6	"Providence 88	Georgetown	73	1	 Georgetown 73	REGIONAL FINALS	
+2003	Arizona	96	1	Arizona 96"	Gonzaga	95	9	 Gonzaga 95	SECOND ROUND	-3	-7
+1987	Florida	82	6	No. 6 Florida 82	North Carolina State	70	11	No. 11 North Carolina State 70	FIRST ROUND	-5	12
+1987	Providence	90	6	No. 6 Providence 90	UAB	68	11	No. 11 UAB 68	FIRST ROUND	-5	22
+1987	St. John's	57	6	No. 6 St. John's 57	Wichita State	55	11	No. 11 Wichita State 55	FIRST ROUND	-5	2
+1987	Oklahoma	74	6	No. 6 Oklahoma 74	Tulsa	69	11	No. 11 Tulsa 69	FIRST ROUND	-5	5
+1987	Texas-El Paso	98	7	No. 7 Texas-El Paso 98	Arizona	91	10	No. 10 Arizona 91	FIRST ROUND	-3	7
+1987	New Orleans	83	7	No. 7 New Orleans 83	Brigham Young	79	10	No. 10 Brigham Young 79	FIRST ROUND	-3	4
+1987	Auburn	62	8	No. 8 Auburn 62	San Diego	61	9	No. 9 San Diego 61	FIRST ROUND	-1	1
+1987	Ohio State	91	9	No. 9 Ohio State 91	Kentucky	77	8	No. 8 Kentucky 77	FIRST ROUND	1	14
+1987	Michigan	97	9	No. 9 Michigan 97	Navy	82	8	No. 8 Navy 82	FIRST ROUND	1	15
+1987	Kansas State	82	9	No. 9 Kansas State 82	Georgia	79	8	No. 8 Georgia 79	FIRST ROUND	1	3
+1987	Western Kentucky	64	10	No. 10 Western Kentucky 64	West Virginia	62	7	No. 7 West Virginia 62	FIRST ROUND	3	2
+1987	Louisiana State	85	10	No. 10 Louisiana State 85	Georgia Tech	79	7	No. 7 Georgia Tech 79	FIRST ROUND	3	6
+1987	Wyoming	64	12	No. 12 Wyoming 64	Virginia	60	5	No. 5 Virginia 60	FIRST ROUND	7	4
+1987	Xavier	70	13	No. 13 Xavier 70	Missouri	69	4	No. 4 Missouri 69	FIRST ROUND	9	1
+1987	Southwest Missouri State	65	13	No. 13 Southwest Missouri State 65	Clemson	60	4	No. 4 Clemson 60	FIRST ROUND	9	5
+1987	Austin Peay	68	14	No. 14 Austin Peay 68	Illinois	67	3	No. 3 Illinois 67	FIRST ROUND	11	1
+1988	Arizona	70	1	"Arizona 70	North Carolina	52	2	 North Carolina 52	REGIONAL FINALS	
+1999	o.	9	NA	No. 9	Mississippi	72	NA	 Mississippi 72	FIRST ROUND	
+1998	Rhode Island	80	8	Rhode Island 80"	Kansas	75	1	 Kansas 75	SECOND ROUND	0	-5
+1988	Arizona	84	1	"Arizona 84	Seton Hall	55	8	 Seton Hall 55	SECOND ROUND	
+1983	North Carolina State	54	6	North Carolina State 54"	Houston	52	1	 Houston 52	NATIONAL CHAMPIONSHIP	0	32
+1988	Oklahoma	86	1	"Oklahoma 86	Arizona	78	1	 Arizona 78	NATIONAL SEMIFINALS	
+1984	Houston	68	2	Houston 68"	Wake Forest	63	4	 Wake Forest 63	REGIONAL FINALS	-3	23
+1988	Purdue	100	1	"Purdue 100	Memphis State	73	9	 Memphis State 73	SECOND ROUND	
+1997	Arizona	96	4	Arizona 96"	Providence	92	10	 Providence 92	REGIONAL FINALS	-9	8
+1988	Temple	74	1	"Temple 74	Georgetown	53	8	 Georgetown 53	SECOND ROUND	
+2001	Maryland	79	3	Maryland 79"	Georgia State	60	11	 Georgia State 60	SECOND ROUND	-10	14
+1988	Oklahoma	94	1	No. 1 Oklahoma 94	Tennessee-Chattanooga	66	16	No. 16 Tennessee-Chattanooga 66	FIRST ROUND	-15	28
+1988	Temple	87	1	No. 1 Temple 87	Lehigh	73	16	No. 16 Lehigh 73	FIRST ROUND	-15	14
+1988	Purdue	94	1	No. 1 Purdue 94	Fairleigh Dickinson	79	16	No. 16 Fairleigh Dickinson 79	FIRST ROUND	-15	15
+1988	Arizona	90	1	No. 1 Arizona 90	Cornell	50	16	No. 16 Cornell 50	FIRST ROUND	-15	40
+1988	North Carolina	78	2	"North Carolina 78	Michigan	69	3	 Michigan 69	REGIONAL SEMIFINALS	
+1997	Kentucky	78	1	Kentucky 78"	Minnesota	69	1	 Minnesota 69	NATIONAL SEMIFINALS	1	9
+1988	Duke	94	2	"Duke 94	Southern Methodist	79	7	 Southern Methodist 79	SECOND ROUND	
+2009	Michigan State	64	2	Michigan State 64"	Louisville	52	1	 Louisville 52	REGIONAL FINALS	1	42
+1988	Duke	63	2	"Duke 63	Temple	53	1	 Temple 53	REGIONAL FINALS	
+1984	Kentucky	72	1	Kentucky 72"	Louisville	67	5	 Louisville 67	REGIONAL SEMIFINALS	-3	-4
+1988	North Carolina	83	2	No. 2 North Carolina 83	North Texas	65	15	No. 15 North Texas 65	FIRST ROUND	-13	18
+1988	Kentucky	99	2	No. 2 Kentucky 99	Southern (La.)	84	15	No. 15 Southern (La.) 84	FIRST ROUND	-13	15
+1988	Duke	85	2	No. 2 Duke 85	Boston University	69	15	No. 15 Boston University 69	FIRST ROUND	-13	16
+1988	Pittsburgh	108	2	No. 2 Pittsburgh 108	Eastern Michigan	90	15	No. 15 Eastern Michigan 90	FIRST ROUND	-13	18
+1988	Syracuse	69	3	No. 3 Syracuse 69	North Carolina A&T	55	14	No. 14 North Carolina A&T 55	FIRST ROUND	-11	14
+1988	Illinois	81	3	No. 3 Illinois 81	Texas-San Antonio	72	14	No. 14 Texas-San Antonio 72	FIRST ROUND	-11	9
+1988	Michigan	63	3	No. 3 Michigan 63	Boise State	58	14	No. 14 Boise State 58	FIRST ROUND	-11	5
+1988	Brigham Young	98	4	No. 4 Brigham Young 98	UNC Charlotte	92	13	No. 13 UNC Charlotte 92	FIRST ROUND	-9	6
+1988	Kansas State	66	4	No. 4 Kansas State 66	La Salle	53	13	No. 13 La Salle 53	FIRST ROUND	-9	13
+1988	UNLV	54	4	No. 4 UNLV 54	Southwest Missouri State	50	13	No. 13 Southwest Missouri State 50	FIRST ROUND	-9	4
+1988	Louisville	97	5	"Louisville 97	Brigham Young	76	4	 Brigham Young 76	SECOND ROUND	
+2003	Auburn	68	10	Auburn 68"	Wake Forest	62	2	 Wake Forest 62	SECOND ROUND	3	35
+1988	Iowa	104	5	"Iowa 104	UNLV	86	4	 UNLV 86	SECOND ROUND	
+1991	Alabama	96	4	Alabama 96"	Wake Forest	88	5	 Wake Forest 88	SECOND ROUND	0	16
+1988	Georgia Tech	90	5	No. 5 Georgia Tech 90	Iowa State	78	12	No. 12 Iowa State 78	FIRST ROUND	-7	12
+1988	Louisville	70	5	No. 5 Louisville 70	Oregon State	61	12	No. 12 Oregon State 61	FIRST ROUND	-7	9
+1988	Iowa	102	5	No. 5 Iowa 102	Florida State	98	12	No. 12 Florida State 98	FIRST ROUND	-7	4
+1988	DePaul	83	5	No. 5 DePaul 83	Wichita State	62	12	No. 12 Wichita State 62	FIRST ROUND	-7	21
+1988	Kansas	77	6	"Kansas 77	Vanderbilt	64	7	 Vanderbilt 64	REGIONAL SEMIFINALS	
+1989	UNLV	68	4	UNLV 68"	Arizona	67	1	 Arizona 67	REGIONAL SEMIFINALS	5	10
+1988	Villanova	66	6	"Villanova 66	Illinois	63	3	 Illinois 63	SECOND ROUND	
+1988	Kansas	71	6	Kansas 71"	Kansas State	58	4	 Kansas State 58	REGIONAL FINALS	2	8
+1988	Villanova	80	6	"Villanova 80	Kentucky	74	2	 Kentucky 74	REGIONAL SEMIFINALS	
+1979	Michigan St.	101	2	Michigan St. 101"	Penn	67	9	 Penn 67	NATIONAL SEMIFINALS	-3	13
+1988	Villanova	82	6	No. 6 Villanova 82	Arkansas	74	11	No. 11 Arkansas 74	FIRST ROUND	-5	8
+1988	Florida	62	6	No. 6 Florida 62	St. John's	59	11	No. 11 St. John's 59	FIRST ROUND	-5	3
+1988	Kansas	85	6	No. 6 Kansas 85	Xavier	72	11	No. 11 Xavier 72	FIRST ROUND	-5	13
+1988	Kansas	61	6	"Kansas 61	Murray State	58	14	 Murray State 58	SECOND ROUND	
+1995	Arizona State	64	5	Arizona State 64"	Manhattan	54	13	 Manhattan 54	SECOND ROUND	-7	7
+1988	Maryland	92	7	No. 7 Maryland 92	UC Santa Barbara	82	10	No. 10 UC Santa Barbara 82	FIRST ROUND	-3	10
+1988	Vanderbilt	80	7	No. 7 Vanderbilt 80	Utah State	77	10	No. 10 Utah State 77	FIRST ROUND	-3	3
+1988	Southern Methodist	83	7	No. 7 Southern Methodist 83	Notre Dame	75	10	No. 10 Notre Dame 75	FIRST ROUND	-3	8
+1988	Seton Hall	80	8	No. 8 Seton Hall 80	Texas-El Paso	64	9	No. 9 Texas-El Paso 64	FIRST ROUND	-1	16
+1988	Auburn	90	8	No. 8 Auburn 90	Bradley	86	9	No. 9 Bradley 86	FIRST ROUND	-1	4
+1988	Georgetown	66	8	No. 8 Georgetown 66	Louisiana State	63	9	No. 9 Louisiana State 63	FIRST ROUND	-1	3
+1988	Memphis State	75	9	No. 9 Memphis State 75	Baylor	60	8	No. 8 Baylor 60	FIRST ROUND	1	15
+1988	Loyola Marymount	119	10	No. 10 Loyola Marymount 119	Wyoming	115	7	No. 7 Wyoming 115	FIRST ROUND	3	4
+1988	Rhode Island	97	11	"Rhode Island 97	Syracuse	94	3	 Syracuse 94	SECOND ROUND	
+1981	Brigham Young	51	6	Brigham Young 51"	Notre Dame	50	2	 Notre Dame 50	REGIONAL SEMIFINALS	9	47
+1988	Rhode Island	87	11	No. 11 Rhode Island 87	Missouri	80	6	No. 6 Missouri 80	FIRST ROUND	5	7
+1988	Richmond	72	13	No. 13 Richmond 72	Indiana	69	4	No. 4 Indiana 69	FIRST ROUND	9	3
+1988	Richmond	59	13	"Richmond 59	Georgia Tech	55	5	 Georgia Tech 55	SECOND ROUND	
+2003	Syracuse	68	3	Syracuse 68"	Oklahoma St.	56	6	 Oklahoma St. 56	SECOND ROUND	7	3
+1988	Murray State	78	14	No. 14 Murray State 78	North Carolina State	75	3	No. 3 North Carolina State 75	FIRST ROUND	11	3
+1989	Illinois	72	1	"Illinois 72	Ball State	60	9	 Ball State 60	SECOND ROUND	
+2007	Tennessee	77	5	Tennessee 77"	Virginia	74	4	 Virginia 74	SECOND ROUND	-3	-2
+1989	Arizona	94	1	"Arizona 94	Clemson	68	9	 Clemson 68	SECOND ROUND	
+1997	Tennessee-Chattanooga	75	14	Tennessee-Chattanooga 75"	Illinois	63	6	 Illinois 63	SECOND ROUND	-5	31
+1989	Oklahoma	124	1	"Oklahoma 124	Louisiana Tech	81	9	 Louisiana Tech 81	SECOND ROUND	
+2000	Florida	71	5	Florida 71"	North Carolina	59	8	 North Carolina 59	NATIONAL SEMIFINALS	-7	65
+1989	Oklahoma	72	1	No. 1 Oklahoma 72	East Tennessee State	71	16	No. 16 East Tennessee State 71	FIRST ROUND	-15	1
+1989	Illinois	77	1	No. 1 Illinois 77	McNeese State	71	16	No. 16 McNeese State 71	FIRST ROUND	-15	6
+1989	Georgetown	50	1	No. 1 Georgetown 50	Princeton	49	16	No. 16 Princeton 49	FIRST ROUND	-15	1
+1989	Arizona	94	1	No. 1 Arizona 94	Robert Morris (Pa.)	60	16	No. 16 Robert Morris (Pa.) 60	FIRST ROUND	-15	34
+1989	Duke	70	2	"Duke 70	West Virginia	63	7	 West Virginia 63	SECOND ROUND	
+1981	Virginia	78	1	Virginia 78"	Louisiana State	74	1	 Louisiana State 74	NATIONAL THIRD PLACE	1	-4
+1989	Duke	87	2	"Duke 87	Minnesota	70	11	 Minnesota 70	REGIONAL SEMIFINALS	
+1989	North Carolina State	102	5	North Carolina State 102"	Iowa	96	4	 Iowa 96	SECOND ROUND	-2	-9
+1989	Duke	85	2	"Duke 85	Georgetown	77	1	 Georgetown 77	REGIONAL FINALS	
+1988	Kansas State	66	4	Kansas State 66"	DePaul	58	5	 DePaul 58	SECOND ROUND	-3	27
+1989	North Carolina	93	2	No. 2 North Carolina 93	Southern (La.)	79	15	No. 15 Southern (La.) 79	FIRST ROUND	-13	14
+1989	Duke	90	2	No. 2 Duke 90	South Carolina State	69	15	No. 15 South Carolina State 69	FIRST ROUND	-13	21
+1989	Indiana	99	2	No. 2 Indiana 99	George Mason	85	15	No. 15 George Mason 85	FIRST ROUND	-13	14
+1989	Syracuse	104	2	No. 2 Syracuse 104	Bucknell	81	15	No. 15 Bucknell 81	FIRST ROUND	-13	23
+1989	Michigan	102	3	"Michigan 102	Virginia	65	5	 Virginia 65	REGIONAL FINALS	
+1989	Seton Hall	95	3	Seton Hall 95"	Duke	78	2	 Duke 78	NATIONAL SEMIFINALS	1	24
+1989	Seton Hall	78	3	"Seton Hall 78	Indiana	65	2	 Indiana 65	REGIONAL SEMIFINALS	
+2003	Kansas	69	2	Kansas 69"	Duke	65	3	 Duke 65	REGIONAL SEMIFINALS	0	13
+1989	Michigan	91	3	"Michigan 91	South Alabama	82	11	 South Alabama 82	SECOND ROUND	
+2001	Kansas	87	4	Kansas 87"	Syracuse	58	5	 Syracuse 58	SECOND ROUND	-2	33
+1989	Michigan	92	3	"Michigan 92	North Carolina	87	2	 North Carolina 87	REGIONAL SEMIFINALS	
+1980	Clemson	74	6	Clemson 74"	Lamar	66	10	 Lamar 66	REGIONAL SEMIFINALS	-7	26
+1989	Michigan	92	3	No. 3 Michigan 92	Xavier	87	14	No. 14 Xavier 87	FIRST ROUND	-11	5
+1989	Missouri	85	3	No. 3 Missouri 85	Creighton	69	14	No. 14 Creighton 69	FIRST ROUND	-11	16
+1989	Seton Hall	60	3	No. 3 Seton Hall 60	Southwest Missouri State	51	14	No. 14 Southwest Missouri State 51	FIRST ROUND	-11	9
+1989	UNLV	85	4	"UNLV 85	DePaul	70	12	 DePaul 70	SECOND ROUND	
+1991	St. John's	84	4	St. John's 84"	Texas	76	5	 Texas 76	SECOND ROUND	-1	9
+1989	Iowa	87	4	No. 4 Iowa 87	Rutgers	73	13	No. 13 Rutgers 73	FIRST ROUND	-9	14
+1989	Louisville	76	4	No. 4 Louisville 76	Arkansas-Little Rock	71	13	No. 13 Arkansas-Little Rock 71	FIRST ROUND	-9	5
+1989	UNLV	68	4	No. 4 UNLV 68	Idaho	56	13	No. 13 Idaho 56	FIRST ROUND	-9	12
+1989	Virginia	104	5	"Virginia 104	Middle Tennessee State	88	13	 Middle Tennessee State 88	SECOND ROUND	
+1994	Kansas	69	4	Kansas 69"	Wake Forest	58	5	 Wake Forest 58	SECOND ROUND	0	46
+1989	Virginia	86	5	"Virginia 86	Oklahoma	80	1	 Oklahoma 80	REGIONAL SEMIFINALS	
+2002	Oregon	92	2	Oregon 92"	Wake Forest	87	7	 Wake Forest 87	SECOND ROUND	-2	-1
+1989	Virginia	100	5	No. 5 Virginia 100	Providence	97	12	No. 12 Providence 97	FIRST ROUND	-7	3
+1989	North Carolina State	81	5	No. 5 North Carolina State 81	South Carolina	66	12	No. 12 South Carolina 66	FIRST ROUND	-7	15
+1989	Arkansas	120	5	No. 5 Arkansas 120	Loyola Marymount	101	12	No. 12 Loyola Marymount 101	FIRST ROUND	-7	19
+1989	UCLA	84	7	No. 7 UCLA 84	Iowa State	74	10	No. 10 Iowa State 74	FIRST ROUND	-3	10
+1989	Texas-El Paso	85	7	No. 7 Texas-El Paso 85	Louisiana State	74	10	No. 10 Louisiana State 74	FIRST ROUND	-3	11
+1989	West Virginia	84	7	No. 7 West Virginia 84	Tennessee	68	10	No. 10 Tennessee 68	FIRST ROUND	-3	16
+1989	Clemson	83	9	No. 9 Clemson 83	St. Mary's	70	8	No. 8 St. Mary's 70	FIRST ROUND	1	13
+1989	Louisiana Tech	83	9	No. 9 Louisiana Tech 83	La Salle	74	8	No. 8 La Salle 74	FIRST ROUND	1	9
+1989	Ball State	68	9	No. 9 Ball State 68	Pittsburgh	64	8	No. 8 Pittsburgh 64	FIRST ROUND	1	4
+1989	Notre Dame	81	9	No. 9 Notre Dame 81	Vanderbilt	65	8	No. 8 Vanderbilt 65	FIRST ROUND	1	16
+1989	Colorado State	68	10	No. 10 Colorado State 68	Florida	46	7	No. 7 Florida 46	FIRST ROUND	3	22
+1989	Minnesota	80	11	"Minnesota 80	Siena	67	14	 Siena 67	SECOND ROUND	
+1992	Ohio State	80	1	Ohio State 80"	North Carolina	73	4	 North Carolina 73	REGIONAL SEMIFINALS	7	7
+1989	South Alabama	86	11	No. 11 South Alabama 86	Alabama	84	6	No. 6 Alabama 84	FIRST ROUND	5	2
+1989	Texas	76	11	No. 11 Texas 76	Georgia Tech	70	6	No. 6 Georgia Tech 70	FIRST ROUND	5	6
+1989	Minnesota	86	11	No. 11 Minnesota 86	Kansas State	75	6	No. 6 Kansas State 75	FIRST ROUND	5	11
+1989	Evansville	94	11	No. 11 Evansville 94	Oregon State	90	6	No. 6 Oregon State 90	FIRST ROUND	5	4
+1989	DePaul	66	12	No. 12 DePaul 66	Memphis State	63	5	No. 5 Memphis State 63	FIRST ROUND	7	3
+1989	Middle Tennessee State	97	13	No. 13 Middle Tennessee State 97	Florida State	83	4	No. 4 Florida State 83	FIRST ROUND	9	14
+1989	Siena	80	14	No. 14 Siena 80	Stanford	78	3	No. 3 Stanford 78	FIRST ROUND	11	2
+1990	UNLV	69	1	"UNLV 69	Ball State	67	12	 Ball State 67	REGIONAL SEMIFINALS	
+1999	Connecticut	64	1	Connecticut 64"	Ohio State	58	4	 Ohio State 58	NATIONAL SEMIFINALS	-3	11
+1990	UNLV	76	1	"UNLV 76	Ohio State	65	8	 Ohio State 65	SECOND ROUND	
+1991	Utah	85	4	Utah 85"	Michigan State	84	5	 Michigan State 84	SECOND ROUND	-4	-8
+1990	UNLV	131	1	"UNLV 131	Loyola Marymount	101	11	 Loyola Marymount 101	REGIONAL FINALS	
+1980	Purdue	75	6	Purdue 75"	Iowa	58	5	 Iowa 58	NATIONAL THIRD PLACE	-4	73
+1990	UNLV	102	1	No. 1 UNLV 102	Arkansas-Little Rock	72	16	No. 16 Arkansas-Little Rock 72	FIRST ROUND	-15	30
+1990	Oklahoma	77	1	No. 1 Oklahoma 77	Towson State	68	16	No. 16 Towson State 68	FIRST ROUND	-15	9
+1990	Michigan State	75	1	No. 1 Michigan State 75	Murray State	71	16	No. 16 Murray State 71	FIRST ROUND	-15	4
+1990	Connecticut	76	1	No. 1 Connecticut 76	Boston University	52	16	No. 16 Boston University 52	FIRST ROUND	-15	24
+1990	Purdue	75	2	No. 2 Purdue 75	Northeast Louisiana	63	15	No. 15 Northeast Louisiana 63	FIRST ROUND	-13	12
+1990	Arizona	79	2	No. 2 Arizona 79	South Florida	67	15	No. 15 South Florida 67	FIRST ROUND	-13	12
+1990	Kansas	79	2	No. 2 Kansas 79	Robert Morris (Pa.)	71	15	No. 15 Robert Morris (Pa.) 71	FIRST ROUND	-13	8
+1990	Syracuse	70	2	No. 2 Syracuse 70	Coppin State	48	15	No. 15 Coppin State 48	FIRST ROUND	-13	22
+1990	Duke	90	3	"Duke 90	UCLA	81	7	 UCLA 81	REGIONAL SEMIFINALS	
+1994	Duke	70	2	Duke 70"	Florida	65	3	 Florida 65	NATIONAL SEMIFINALS	0	25
+1990	Duke	76	3	"Duke 76	St. John's	72	6	 St. John's 72	SECOND ROUND	
+2001	Temple	84	11	Temple 84"	Penn State	72	7	 Penn State 72	REGIONAL SEMIFINALS	-4	4
+1990	Michigan	76	3	No. 3 Michigan 76	Illinois State	70	14	No. 14 Illinois State 70	FIRST ROUND	-11	6
+1990	Georgetown	70	3	No. 3 Georgetown 70	Texas Southern	52	14	No. 14 Texas Southern 52	FIRST ROUND	-11	18
+1990	Duke	81	3	No. 3 Duke 81	Richmond	46	14	No. 14 Richmond 46	FIRST ROUND	-11	35
+1990	Georgia Tech	93	4	"Georgia Tech 93	Minnesota	91	6	 Minnesota 91	REGIONAL FINALS	
+2006	George Mason	65	11	George Mason 65"	North Carolina	60	3	 North Carolina 60	SECOND ROUND	1	33
+1990	Georgia Tech	94	4	"Georgia Tech 94	Louisiana State	91	5	 Louisiana State 91	SECOND ROUND	
+1997	Kentucky	83	1	Kentucky 83"	St. Joseph's	68	4	 St. Joseph's 68	REGIONAL SEMIFINALS	0	26
+1990	Arkansas	86	4	"Arkansas 86	Dayton	84	12	 Dayton 84	SECOND ROUND	
+1990	Ball State	62	12	Ball State 62"	Louisville	60	4	 Louisville 60	SECOND ROUND	0	26
+1990	Georgia Tech	81	4	"Georgia Tech 81	Michigan State	80	1	 Michigan State 80	REGIONAL SEMIFINALS	
+1995	Arkansas	96	2	Arkansas 96"	Syracuse	94	7	 Syracuse 94	SECOND ROUND	-3	-13
+1990	Arkansas	88	4	"Arkansas 88	Texas	85	10	 Texas 85	REGIONAL FINALS	
+2006	Memphis	72	1	Memphis 72"	Bucknell	56	9	 Bucknell 56	SECOND ROUND	-5	32
+1990	Arkansas	68	4	No. 4 Arkansas 68	Princeton	64	13	No. 13 Princeton 64	FIRST ROUND	-9	4
+1990	La Salle	79	4	No. 4 La Salle 79	Southern Mississippi	63	13	No. 13 Southern Mississippi 63	FIRST ROUND	-9	16
+1990	Louisville	78	4	No. 4 Louisville 78	Idaho	59	13	No. 13 Idaho 59	FIRST ROUND	-9	19
+1990	Georgia Tech	99	4	No. 4 Georgia Tech 99	East Tennessee State	83	13	No. 13 East Tennessee State 83	FIRST ROUND	-9	16
+1990	Clemson	49	5	No. 5 Clemson 49	Brigham Young	47	12	No. 12 Brigham Young 47	FIRST ROUND	-7	2
+1990	Louisiana State	70	5	No. 5 Louisiana State 70	Villanova	63	12	No. 12 Villanova 63	FIRST ROUND	-7	7
+1990	Minnesota	81	6	"Minnesota 81	Northern Iowa	78	14	 Northern Iowa 78	SECOND ROUND	
+1985	Villanova	66	8	Villanova 66"	Georgetown	64	1	 Georgetown 64	NATIONAL CHAMPIONSHIP	5	17
+1990	Xavier	74	6	"Xavier 74	Georgetown	71	3	 Georgetown 71	SECOND ROUND	
+1987	Louisiana State	63	10	Louisiana State 63"	DePaul	58	3	 DePaul 58	REGIONAL SEMIFINALS	3	16
+1990	Xavier	87	6	No. 6 Xavier 87	Kansas State	79	11	No. 11 Kansas State 79	FIRST ROUND	-5	8
+1990	Minnesota	64	6	No. 6 Minnesota 64	Texas-El Paso	61	11	No. 11 Texas-El Paso 61	FIRST ROUND	-5	3
+1990	St. John's	81	6	No. 6 St. John's 81	Temple	65	11	No. 11 Temple 65	FIRST ROUND	-5	16
+1990	Alabama	77	7	"Alabama 77	Arizona	55	2	 Arizona 55	SECOND ROUND	
+1984	Georgetown	53	1	Georgetown 53"	Kentucky	40	1	 Kentucky 40	NATIONAL SEMIFINALS	6	37
+1990	Virginia	75	7	No. 7 Virginia 75	Notre Dame	67	10	No. 10 Notre Dame 67	FIRST ROUND	-3	8
+1990	UCLA	68	7	No. 7 UCLA 68	UAB	56	10	No. 10 UAB 56	FIRST ROUND	-3	12
+1990	Alabama	71	7	No. 7 Alabama 71	Colorado State	54	10	No. 10 Colorado State 54	FIRST ROUND	-3	17
+1990	North Carolina	83	8	No. 8 North Carolina 83	Southwest Missouri State	70	9	No. 9 Southwest Missouri State 70	FIRST ROUND	-1	13
+1990	Ohio State	84	8	No. 8 Ohio State 84	Providence	83	9	No. 9 Providence 83	FIRST ROUND	-1	1
+1990	UC Santa Barbara	70	9	No. 9 UC Santa Barbara 70	Houston	66	8	No. 8 Houston 66	FIRST ROUND	1	4
+1990	California	65	9	No. 9 California 65	Indiana	63	8	No. 8 Indiana 63	FIRST ROUND	1	2
+1990	Texas	100	10	No. 10 Texas 100	Georgia	88	7	No. 7 Georgia 88	FIRST ROUND	3	12
+1990	Texas	73	10	"Texas 73	Purdue	72	2	 Purdue 72	SECOND ROUND	
+2012	Syracuse	75	1	Syracuse 75"	Kansas State	59	8	 Kansas State 59	THIRD ROUND	2	14
+1990	Texas	102	10	"Texas 102	Xavier	89	6	 Xavier 89	REGIONAL SEMIFINALS	
+1981	Indiana	78	3	Indiana 78"	St. Joseph's	46	9	 St. Joseph's 46	REGIONAL FINALS	1	56
+1990	Loyola Marymount	62	11	"Loyola Marymount 62	Alabama	60	7	 Alabama 60	REGIONAL SEMIFINALS	
+2010	Saint Mary's	75	NA	Saint Mary's 75"	Villanova	68	2	 Villanova 68	SECOND ROUND	9	-6
+1990	Loyola Marymount	111	11	No. 11 Loyola Marymount 111	New Mexico State	92	6	No. 6 New Mexico State 92	FIRST ROUND	5	19
+1990	Loyola Marymount	149	11	"Loyola Marymount 149	Michigan	115	3	 Michigan 115	SECOND ROUND	
+2002	Oklahoma	81	2	Oklahoma 81"	Missouri	75	12	 Missouri 75	REGIONAL FINALS	-1	74
+1990	Dayton	88	12	No. 12 Dayton 88	Illinois	86	5	No. 5 Illinois 86	FIRST ROUND	7	2
+1990	Ball State	54	12	No. 12 Ball State 54	Oregon State	53	5	No. 5 Oregon State 53	FIRST ROUND	7	1
+1990	Northern Iowa	74	14	No. 14 Northern Iowa 74	Missouri	71	3	No. 3 Missouri 71	FIRST ROUND	11	3
+1991	Arkansas	93	1	"Arkansas 93	Alabama	70	4	 Alabama 70	REGIONAL SEMIFINALS	
+1996	Texas Tech	92	3	Texas Tech 92"	North Carolina	73	6	 North Carolina 73	SECOND ROUND	-5	20
+1991	Arkansas	97	1	"Arkansas 97	Arizona State	90	8	 Arizona State 90	SECOND ROUND	
+1995	Kansas	75	1	Kansas 75"	Western Kentucky	70	8	 Western Kentucky 70	SECOND ROUND	-7	27
+1991	UNLV	62	1	"UNLV 62	Georgetown	54	8	 Georgetown 54	SECOND ROUND	
+2001	Illinois	79	1	Illinois 79"	Charlotte	61	9	 Charlotte 61	SECOND ROUND	-8	1
+1991	North Carolina	93	1	"North Carolina 93	Eastern Michigan	67	12	 Eastern Michigan 67	REGIONAL SEMIFINALS	
+1991	North Carolina	84	1	North Carolina 84"	Villanova	69	9	 Villanova 69	SECOND ROUND	-8	24
+1991	Ohio State	97	1	No. 1 Ohio State 97	Towson State	86	16	No. 16 Towson State 86	FIRST ROUND	-15	11
+1991	UNLV	99	1	No. 1 UNLV 99	Montana	65	16	No. 16 Montana 65	FIRST ROUND	-15	34
+1991	North Carolina	101	1	No. 1 North Carolina 101	Northeastern	66	16	No. 16 Northeastern 66	FIRST ROUND	-15	35
+1991	Arkansas	117	1	No. 1 Arkansas 117	Georgia State	76	16	No. 16 Georgia State 76	FIRST ROUND	-15	41
+1991	Arizona	76	2	"Arizona 76	Brigham Young	61	10	 Brigham Young 61	SECOND ROUND	
+2001	Duke	95	1	Duke 95"	Maryland	84	3	 Maryland 84	NATIONAL SEMIFINALS	-1	-8
+1991	Duke	85	2	"Duke 85	Iowa	70	7	 Iowa 70	SECOND ROUND	
+1998	Duke	80	1	Duke 80"	Syracuse	67	5	 Syracuse 67	REGIONAL SEMIFINALS	-3	18
+1991	Duke	72	2	"Duke 72	Kansas	65	3	 Kansas 65	NATIONAL CHAMPIONSHIP	
+1992	Florida State	78	3	Florida State 78"	Georgetown	68	6	 Georgetown 68	SECOND ROUND	-4	4
+1991	Duke	78	2	"Duke 78	St. John's	61	4	 St. John's 61	REGIONAL FINALS	
+1999	Duke	97	1	Duke 97"	Tulsa	56	9	 Tulsa 56	SECOND ROUND	-7	22
+1991	Duke	102	2	No. 2 Duke 102	Northeast Louisiana	73	15	No. 15 Northeast Louisiana 73	FIRST ROUND	-13	29
+1991	Arizona	93	2	No. 2 Arizona 93	St. Francis (Pa.)	80	15	No. 15 St. Francis (Pa.) 80	FIRST ROUND	-13	13
+1991	Indiana	79	2	No. 2 Indiana 79	Coastal Carolina (S.C.)	69	15	No. 15 Coastal Carolina (S.C.) 69	FIRST ROUND	-13	10
+1991	Kansas	83	3	"Kansas 83	Indiana	65	2	 Indiana 65	REGIONAL SEMIFINALS	
+1998	Maryland	67	4	Maryland 67"	Illinois	61	5	 Illinois 61	SECOND ROUND	-2	22
+1991	Kansas	93	3	"Kansas 93	Arkansas	81	1	 Arkansas 81	REGIONAL FINALS	
+1988	Kentucky	90	2	Kentucky 90"	Maryland	81	7	 Maryland 81	SECOND ROUND	-4	12
+1991	Seton Hall	81	3	"Seton Hall 81	Arizona	77	2	 Arizona 77	REGIONAL SEMIFINALS	
+2011	North Carolina	86	2	North Carolina 86"	Washington	83	7	 Washington 83	THIRD ROUND	-4	-2
+1991	Oklahoma State	73	3	"Oklahoma State 73	North Carolina State	64	NA	 North Carolina State 64	SECOND ROUND	
+1994	Connecticut	75	2	Connecticut 75"	George Washington	63	10	 George Washington 63	SECOND ROUND	-7	10
+1991	Oklahoma State	67	3	No. 3 Oklahoma State 67	New Mexico	54	14	No. 14 New Mexico 54	FIRST ROUND	-11	13
+1991	Seton Hall	71	3	No. 3 Seton Hall 71	Pepperdine	51	14	No. 14 Pepperdine 51	FIRST ROUND	-11	20
+1991	Kansas	55	3	No. 3 Kansas 55	New Orleans	49	14	No. 14 New Orleans 49	FIRST ROUND	-11	6
+1991	St. John's	91	4	"St. John's 91	Ohio State	74	1	 Ohio State 74	REGIONAL SEMIFINALS	
+1998	North Carolina	75	1	North Carolina 75"	Connecticut	64	2	 Connecticut 64	REGIONAL FINALS	2	27
+1991	St. John's	75	4	No. 4 St. John's 75	Northern Illinois	68	13	No. 13 Northern Illinois 68	FIRST ROUND	-9	7
+1991	Utah	82	4	No. 4 Utah 82	South Alabama	72	13	No. 13 South Alabama 72	FIRST ROUND	-9	10
+1991	Alabama	89	4	No. 4 Alabama 89	Murray State	79	13	No. 13 Murray State 79	FIRST ROUND	-9	10
+1991	Michigan State	60	5	No. 5 Michigan State 60	Wisconsin-Green Bay	58	12	No. 12 Wisconsin-Green Bay 58	FIRST ROUND	-7	2
+1991	Wake Forest	71	5	No. 5 Wake Forest 71	Louisiana Tech	65	12	No. 12 Louisiana Tech 65	FIRST ROUND	-7	6
+1991	Texas	73	5	No. 5 Texas 73	St. Peter's	65	12	No. 12 St. Peter's 65	FIRST ROUND	-7	8
+1991	N.C. State	114	6	No. 6 N.C. State 114	Southern Mississippi	85	11	No. 11 Southern Mississippi 85	FIRST ROUND	-5	29
+1991	Pittsburgh	76	6	No. 6 Pittsburgh 76	Georgia	68	11	No. 11 Georgia 68	FIRST ROUND	-5	8
+1991	Florida State	75	7	No. 7 Florida State 75	Southern Cal	72	10	No. 10 Southern Cal 72	FIRST ROUND	-3	3
+1991	Iowa	76	7	No. 7 Iowa 76	East Tennessee State	73	10	No. 10 East Tennessee State 73	FIRST ROUND	-3	3
+1991	Arizona State	79	8	No. 8 Arizona State 79	Rutgers	76	9	No. 9 Rutgers 76	FIRST ROUND	-1	3
+1991	Georgetown	70	8	No. 8 Georgetown 70	Vanderbilt	60	9	No. 9 Vanderbilt 60	FIRST ROUND	-1	10
+1991	Georgia Tech	87	8	No. 8 Georgia Tech 87	DePaul	70	9	No. 9 DePaul 70	FIRST ROUND	-1	17
+1991	Villanova	50	9	No. 9 Villanova 50	Princeton	48	8	No. 8 Princeton 48	FIRST ROUND	1	2
+1991	Temple	80	10	No. 10 Temple 80	Purdue	63	7	No. 7 Purdue 63	FIRST ROUND	3	17
+1991	Brigham Young	61	10	No. 10 Brigham Young 61	Virginia	48	7	No. 7 Virginia 48	FIRST ROUND	3	13
+1991	Temple	72	10	"Temple 72	Oklahoma State	63	3	 Oklahoma State 63	REGIONAL SEMIFINALS	
+1984	Houston	49	2	Houston 49"	Virginia	47	7	 Virginia 47	NATIONAL SEMIFINALS	3	25
+1991	Temple	77	10	"Temple 77	Richmond	64	15	 Richmond 64	SECOND ROUND	
+2004	Oklahoma St.	70	2	Oklahoma St. 70"	Memphis	53	7	 Memphis 53	SECOND ROUND	3	24
+1991	Connecticut	79	11	No. 11 Connecticut 79	Louisiana State	62	6	No. 6 Louisiana State 62	FIRST ROUND	5	17
+1991	Creighton	64	11	No. 11 Creighton 64	New Mexico State	56	6	No. 6 New Mexico State 56	FIRST ROUND	5	8
+1991	Eastern Michigan	71	12	"Eastern Michigan 71	Penn State	68	13	 Penn State 68	SECOND ROUND	
+2002	Kent St.	78	10	Kent St. 78"	Pittsburgh	73	3	 Pittsburgh 73	REGIONAL SEMIFINALS	9	-2
+1991	Eastern Michigan	76	12	No. 12 Eastern Michigan 76	Mississippi State	56	5	No. 5 Mississippi State 56	FIRST ROUND	7	20
+1991	Penn State	74	13	No. 13 Penn State 74	UCLA	69	4	No. 4 UCLA 69	FIRST ROUND	9	5
+1991	Xavier	89	14	No. 14 Xavier 89	Nebraska	84	3	No. 3 Nebraska 84	FIRST ROUND	11	5
+1991	Richmond	73	15	No. 15 Richmond 73	Syracuse	69	2	No. 2 Syracuse 69	FIRST ROUND	13	4
+1992	Duke	71	1	"Duke 71	Michigan	51	6	 Michigan 51	NATIONAL CHAMPIONSHIP	
+2004	ast		NA	East 	Michigan	51	NA	 Michigan 51	REGIONAL FINALS	
+1999	Miami (Ohio)	66	10	Miami (Ohio) 66"	Utah	58	2	 Utah 58	SECOND ROUND	-1	13
+1992	UCLA	85	1	"UCLA 85	Louisville	69	8	 Louisville 69	SECOND ROUND	
+2002	Indiana	73	5	Indiana 73"	Oklahoma	64	2	 Oklahoma 64	NATIONAL SEMIFINALS	-1	21
+1992	Duke	81	1	"Duke 81	Seton Hall	69	4	 Seton Hall 69	REGIONAL SEMIFINALS	
+2000	Purdue	66	6	Purdue 66"	Oklahoma	62	3	 Oklahoma 62	SECOND ROUND	-2	19
+1992	Duke	104	1	"Duke 104	Kentucky	103	2	 Kentucky 103	REGIONAL FINALS	
+1990	UNLV	103	1	UNLV 103"	Duke	73	3	 Duke 73	NATIONAL CHAMPIONSHIP	-2	31
+1992	UCLA	85	1	"UCLA 85	New Mexico State	78	12	 New Mexico State 78	REGIONAL SEMIFINALS	
+2002	Kansas	73	1	Kansas 73"	Illinois	69	4	 Illinois 69	REGIONAL SEMIFINALS	-3	16
+1992	Duke	81	1	"Duke 81	Indiana	78	2	 Indiana 78	NATIONAL SEMIFINALS	
+2005	Louisville	93	4	Louisville 93"	West Virginia	85	7	 West Virginia 85	REGIONAL FINALS	-6	-4
+1992	Duke	75	1	"Duke 75	Iowa	62	9	 Iowa 62	SECOND ROUND	
+2008	Kansas	72	1	Kansas 72"	Villanova	57	12	 Villanova 57	REGIONAL SEMIFINALS	-11	18
+1992	UCLA	73	1	No. 1 UCLA 73	Robert Morris (Pa.)	53	16	No. 16 Robert Morris (Pa.) 53	FIRST ROUND	-15	20
+1992	Duke	82	1	No. 1 Duke 82	Campbell (N.C.)	56	16	No. 16 Campbell (N.C.) 56	FIRST ROUND	-15	26
+1992	Kansas	100	1	No. 1 Kansas 100	Howard University (D.C.)	67	16	No. 16 Howard University (D.C.) 67	FIRST ROUND	-15	33
+1992	Ohio State	83	1	No. 1 Ohio State 83	Mississippi Valley State	56	16	No. 16 Mississippi Valley State 56	FIRST ROUND	-15	27
+1992	Indiana	89	2	"Indiana 89	Louisiana State	79	7	 Louisiana State 79	SECOND ROUND	
+2011	Butler	71	8	Butler 71"	Pittsburgh	70	1	 Pittsburgh 70	THIRD ROUND	1	19
+1992	Kentucky	87	2	"Kentucky 87	Massachusetts	77	3	 Massachusetts 77	REGIONAL SEMIFINALS	
+1990	Duke	97	3	Duke 97"	Arkansas	83	4	 Arkansas 83	NATIONAL SEMIFINALS	-2	4
+1992	Indiana	85	2	"Indiana 85	Florida State	74	3	 Florida State 74	REGIONAL SEMIFINALS	
+2004	Connecticut	72	2	Connecticut 72"	DePaul	55	7	 DePaul 55	SECOND ROUND	-5	30
+1992	Oklahoma State	87	2	"Oklahoma State 87	Tulane	71	10	 Tulane 71	SECOND ROUND	
+1995	Connecticut	96	2	Connecticut 96"	Cincinnati	91	7	 Cincinnati 91	SECOND ROUND	-5	-4
+1992	Indiana	94	2	No. 2 Indiana 94	Eastern Illinois	55	15	No. 15 Eastern Illinois 55	FIRST ROUND	-13	39
+1992	Southern Cal	84	2	No. 2 Southern Cal 84	Northeast Louisiana	54	15	No. 15 Northeast Louisiana 54	FIRST ROUND	-13	30
+1992	Oklahoma State	100	2	No. 2 Oklahoma State 100	Georgia Southern	73	15	No. 15 Georgia Southern 73	FIRST ROUND	-13	27
+1992	Kentucky	88	2	No. 2 Kentucky 88	Old Dominion	69	15	No. 15 Old Dominion 69	FIRST ROUND	-13	19
+1992	Massachusetts	77	3	"Massachusetts 77	Syracuse	71	6	 Syracuse 71	SECOND ROUND	
+2011	Butler	61	8	Butler 61"	Wisconsin	54	4	 Wisconsin 54	REGIONAL SEMIFINALS	-1	23
+1992	Arkansas	80	3	No. 3 Arkansas 80	Murray State	69	14	No. 14 Murray State 69	FIRST ROUND	-11	11
+1992	Florida State	78	3	No. 3 Florida State 78	Montana	68	14	No. 14 Montana 68	FIRST ROUND	-11	10
+1992	Massachusetts	85	3	No. 3 Massachusetts 85	Fordham	58	14	No. 14 Fordham 58	FIRST ROUND	-11	27
+1992	Cincinnati	88	4	"Cincinnati 88	Memphis State	57	6	 Memphis State 57	REGIONAL FINALS	
+2010	West Virginia	73	2	West Virginia 73"	Kentucky	66	1	 Kentucky 66	REGIONAL FINALS	3	22
+1992	North Carolina	64	4	"North Carolina 64	Alabama	55	5	 Alabama 55	SECOND ROUND	
+1997	Iowa State	67	6	Iowa State 67"	Cincinnati	66	3	 Cincinnati 66	SECOND ROUND	1	-2
+1992	Seton Hall	78	4	No. 4 Seton Hall 78	La Salle	76	13	No. 13 La Salle 76	FIRST ROUND	-9	2
+1992	Cincinnati	85	4	No. 4 Cincinnati 85	Delaware	47	13	No. 13 Delaware 47	FIRST ROUND	-9	38
+1992	North Carolina	68	4	No. 4 North Carolina 68	Miami (Ohio)	63	13	No. 13 Miami (Ohio) 63	FIRST ROUND	-9	5
+1992	Alabama	80	5	No. 5 Alabama 80	Stanford	75	12	No. 12 Stanford 75	FIRST ROUND	-7	5
+1992	Missouri	89	5	No. 5 Missouri 89	West Virginia	78	12	No. 12 West Virginia 78	FIRST ROUND	-7	11
+1992	Michigan State	61	5	No. 5 Michigan State 61	SW Missouri State	54	12	No. 12 SW Missouri State 54	FIRST ROUND	-7	7
+1992	Michigan	102	6	"Michigan 102	East Tennessee State	90	14	 East Tennessee State 90	SECOND ROUND	
+1988	Kansas	83	6	Kansas 83"	Oklahoma	79	1	 Oklahoma 79	NATIONAL CHAMPIONSHIP	5	23
+1992	Memphis State	83	6	"Memphis State 83	Georgia Tech	79	7	 Georgia Tech 79	REGIONAL SEMIFINALS	
+1988	Vanderbilt	80	7	Vanderbilt 80"	Pittsburgh	74	2	 Pittsburgh 74	SECOND ROUND	4	9
+1992	Michigan	75	6	"Michigan 75	Oklahoma State	72	2	 Oklahoma State 72	REGIONAL SEMIFINALS	
+2008	UCLA	76	1	UCLA 76"	Xavier	57	3	 Xavier 57	REGIONAL FINALS	3	18
+1992	Memphis State	82	6	"Memphis State 82	Arkansas	80	3	 Arkansas 80	SECOND ROUND	
+1979	Penn	64	9	Penn 64"	St. John's	62	10	 St. John's 62	REGIONAL FINALS	-4	20
+1992	Memphis State	80	6	No. 6 Memphis State 80	Pepperdine	70	11	No. 11 Pepperdine 70	FIRST ROUND	-5	10
+1992	Michigan	73	6	No. 6 Michigan 73	Temple	66	11	No. 11 Temple 66	FIRST ROUND	-5	7
+1992	Syracuse	51	6	No. 6 Syracuse 51	Princeton	43	11	No. 11 Princeton 43	FIRST ROUND	-5	8
+1992	Georgetown	75	6	No. 6 Georgetown 75	South Florida	60	11	No. 11 South Florida 60	FIRST ROUND	-5	15
+1992	Georgia Tech	79	7	"Georgia Tech 79	Southern Cal	78	2	 Southern Cal 78	SECOND ROUND	
+1979	Indiana St.	76	1	Indiana St. 76"	DePaul	74	2	 DePaul 74	NATIONAL SEMIFINALS	5	5
+1992	Louisiana State	94	7	No. 7 Louisiana State 94	Brigham Young	83	10	No. 10 Brigham Young 83	FIRST ROUND	-3	11
+1992	Georgia Tech	65	7	No. 7 Georgia Tech 65	Houston	60	10	No. 10 Houston 60	FIRST ROUND	-3	5
+1992	Louisville	81	8	No. 8 Louisville 81	Wake Forest	58	9	No. 9 Wake Forest 58	FIRST ROUND	-1	23
+1992	Texas-El Paso	55	9	No. 9 Texas-El Paso 55	Evansville	50	8	No. 8 Evansville 50	FIRST ROUND	1	5
+1992	Iowa	98	9	No. 9 Iowa 98	Texas	92	8	No. 8 Texas 92	FIRST ROUND	1	6
+1992	Connecticut	86	9	No. 9 Connecticut 86	Nebraska	65	8	No. 8 Nebraska 65	FIRST ROUND	1	21
+1992	Texas-El Paso	66	9	"Texas-El Paso 66	Kansas	60	1	 Kansas 60	SECOND ROUND	
+1998	Purdue	80	2	Purdue 80"	Detroit	65	10	 Detroit 65	SECOND ROUND	-1	1
+1992	Tulane	61	10	No. 10 Tulane 61	St. John's	57	7	No. 7 St. John's 57	FIRST ROUND	3	4
+1992	Iowa State	76	10	No. 10 Iowa State 76	UNC Charlotte	74	7	No. 7 UNC Charlotte 74	FIRST ROUND	3	2
+1992	New Mexico State	81	12	No. 12 New Mexico State 81	DePaul	73	5	No. 5 DePaul 73	FIRST ROUND	7	8
+1992	New Mexico State	81	12	"New Mexico State 81	Southwestern La.	73	NA	 Southwestern La. 73	SECOND ROUND	
+2002	Duke	84	1	Duke 84"	Notre Dame	77	8	 Notre Dame 77	SECOND ROUND	4	4
+1992	Southwestern Louisiana	87	13	No. 13 Southwestern Louisiana 87	Oklahoma	83	4	No. 4 Oklahoma 83	FIRST ROUND	9	4
+1992	East Tennessee State	87	14	No. 14 East Tennessee State 87	Arizona	80	3	No. 3 Arizona 80	FIRST ROUND	11	7
+1993	Indiana	73	1	"Indiana 73	Xavier	70	9	 Xavier 70	SECOND ROUND	
+1995	Connecticut	99	2	Connecticut 99"	Maryland	89	3	 Maryland 89	REGIONAL SEMIFINALS	-2	-16
+1993	Kentucky	103	1	"Kentucky 103	Wake Forest	69	5	 Wake Forest 69	REGIONAL SEMIFINALS	
+2004	Illinois	92	5	Illinois 92"	Cincnnati	68	4	 Cincnnati 68	SECOND ROUND	-3	35
+1993	Michigan	77	1	"Michigan 77	Temple	72	7	 Temple 72	REGIONAL FINALS	
+1992	Michigan	76	6	Michigan 76"	Cincinnati	72	4	 Cincinnati 72	NATIONAL SEMIFINALS	-3	5
+1993	Kentucky	106	1	"Kentucky 106	Florida State	81	3	 Florida State 81	REGIONAL FINALS	
+2012	Louisville	59	4	Louisville 59"	New Mexico	56	5	 New Mexico 56	THIRD ROUND	-4	50
+1993	Michigan	86	1	"Michigan 86	UCLA	84	9	 UCLA 84	SECOND ROUND	
+2002	Kansas	86	1	Kansas 86"	Stanford	63	8	 Stanford 63	SECOND ROUND	-7	23
+1993	Indiana	82	1	"Indiana 82	Louisville	69	4	 Louisville 69	REGIONAL SEMIFINALS	
+1987	Georgetown	82	1	Georgetown 82"	Ohio State	79	9	 Ohio State 79	SECOND ROUND	-8	3
+1993	North Carolina	75	1	"North Carolina 75	Cincinnati	68	2	 Cincinnati 68	REGIONAL FINALS	
+1995	Wake Forest	64	1	Wake Forest 64"	St. Louis	59	9	 St. Louis 59	SECOND ROUND	-8	16
+1993	North Carolina	78	1	"North Carolina 78	Kansas	68	2	 Kansas 68	NATIONAL SEMIFINALS	
+1990	Connecticut	74	1	Connecticut 74"	California	54	9	 California 54	SECOND ROUND	-8	24
+1993	North Carolina	80	1	"North Carolina 80	Arkansas	74	4	 Arkansas 74	REGIONAL SEMIFINALS	
+2005	Illinois	77	1	Illinois 77"	Wisconsin-Milwaukee	63	12	 Wisconsin-Milwaukee 63	REGIONAL SEMIFINALS	-11	17
+1993	Kentucky	96	1	No. 1 Kentucky 96	Rider (N.J.)	52	16	No. 16 Rider (N.J.) 52	FIRST ROUND	-15	44
+1993	North Carolina	85	1	No. 1 North Carolina 85	East Carolina	65	16	No. 16 East Carolina 65	FIRST ROUND	-15	20
+1993	Michigan	84	1	No. 1 Michigan 84	Coastal Carolina (S.C.)	53	16	No. 16 Coastal Carolina (S.C.) 53	FIRST ROUND	-15	31
+1993	Indiana	97	1	No. 1 Indiana 97	Wright State	54	16	No. 16 Wright State 54	FIRST ROUND	-15	43
+1993	Kansas	94	2	No. 2 Kansas 94	Ball State	72	15	No. 15 Ball State 72	FIRST ROUND	-13	22
+1993	Cincinnati	93	2	No. 2 Cincinnati 93	Coppin State	66	15	No. 15 Coppin State 66	FIRST ROUND	-13	27
+1993	Seton Hall	81	2	No. 2 Seton Hall 81	Tennessee State	59	15	No. 15 Tennessee State 59	FIRST ROUND	-13	22
+1993	Vanderbilt	85	3	"Vanderbilt 85	Illinois	68	6	 Illinois 68	SECOND ROUND	
+2011	Connecticut	56	3	Connecticut 56"	Kentucky	55	4	 Kentucky 55	NATIONAL SEMIFINALS	-1	30
+1993	Florida State	81	3	"Florida State 81	Western Kentucky	78	7	 Western Kentucky 78	REGIONAL SEMIFINALS	
+1996	Wake Forest	65	2	Wake Forest 65"	Texas	62	10	 Texas 62	SECOND ROUND	-7	19
+1993	Massachusetts	54	3	No. 3 Massachusetts 54	Penn	50	14	No. 14 Penn 50	FIRST ROUND	-11	4
+1993	Florida State	82	3	No. 3 Florida State 82	Evansville	70	14	No. 14 Evansville 70	FIRST ROUND	-11	12
+1993	Vanderbilt	92	3	No. 3 Vanderbilt 92	Boise State	72	14	No. 14 Boise State 72	FIRST ROUND	-11	20
+1993	Duke	105	3	No. 3 Duke 105	Southern Illinois	70	14	No. 14 Southern Illinois 70	FIRST ROUND	-11	35
+1993	Louisville	78	4	"Louisville 78	Oklahoma State	63	5	 Oklahoma State 63	SECOND ROUND	
+1999	Ohio State	77	4	Ohio State 77"	St. John's	74	3	 St. John's 74	REGIONAL FINALS	1	4
+1993	Arkansas	80	4	"Arkansas 80	St. John's	74	5	 St. John's 74	SECOND ROUND	
+1988	Oklahoma	107	1	Oklahoma 107"	Auburn	87	8	 Auburn 87	SECOND ROUND	-4	-7
+1993	Arkansas	94	4	No. 4 Arkansas 94	Holy Cross	64	13	No. 13 Holy Cross 64	FIRST ROUND	-9	30
+1993	Iowa	82	4	No. 4 Iowa 82	Northeast Louisiana	69	13	No. 13 Northeast Louisiana 69	FIRST ROUND	-9	13
+1993	Louisville	76	4	No. 4 Louisville 76	Delaware	70	13	No. 13 Delaware 70	FIRST ROUND	-9	6
+1993	Oklahoma State	74	5	No. 5 Oklahoma State 74	Marquette	62	12	No. 12 Marquette 62	FIRST ROUND	-7	12
+1993	Wake Forest	81	5	No. 5 Wake Forest 81	Tennessee-Chattanooga	58	12	No. 12 Tennessee-Chattanooga 58	FIRST ROUND	-7	23
+1993	St. John's	85	5	No. 5 St. John's 85	Texas Tech	67	12	No. 12 Texas Tech 67	FIRST ROUND	-7	18
+1993	Wake Forest	84	5	"Wake Forest 84	Iowa	78	4	 Iowa 78	SECOND ROUND	
+2010	Tennessee	83	6	Tennessee 83"	Ohio	68	14	 Ohio 68	SECOND ROUND	-9	16
+1993	Virginia	71	6	"Virginia 71	Massachusetts	56	3	 Massachusetts 56	SECOND ROUND	
+1987	Syracuse	79	2	Syracuse 79"	North Carolina	75	1	 North Carolina 75	REGIONAL FINALS	5	-4
+1993	Virginia	78	6	No. 6 Virginia 78	Manhattan	66	11	No. 11 Manhattan 66	FIRST ROUND	-5	12
+1993	California	66	6	No. 6 California 66	Louisiana State	64	11	No. 11 Louisiana State 64	FIRST ROUND	-5	2
+1993	Illinois	75	6	No. 6 Illinois 75	Long Beach State	72	11	No. 11 Long Beach State 72	FIRST ROUND	-5	3
+1993	Western Kentucky	72	7	"Western Kentucky 72	Seton Hall	68	2	 Seton Hall 68	SECOND ROUND	
+1997	Stanford	72	6	Stanford 72"	Wake Forest	66	3	 Wake Forest 66	SECOND ROUND	4	6
+1993	Temple	68	7	"Temple 68	Santa Clara	57	15	 Santa Clara 57	SECOND ROUND	
+1995	UCLA	74	1	UCLA 74"	Oklahoma State	61	4	 Oklahoma State 61	NATIONAL SEMIFINALS	3	7
+1993	Temple	75	7	No. 7 Temple 75	Missouri	61	10	No. 10 Missouri 61	FIRST ROUND	-3	14
+1993	Brigham Young	80	7	No. 7 Brigham Young 80	Southern Methodist	71	10	No. 10 Southern Methodist 71	FIRST ROUND	-3	9
+1993	Western Kentucky	55	7	No. 7 Western Kentucky 55	Memphis State	52	10	No. 10 Memphis State 52	FIRST ROUND	-3	3
+1993	New Mexico State	93	7	No. 7 New Mexico State 93	Nebraska	79	10	No. 10 Nebraska 79	FIRST ROUND	-3	14
+1993	Temple	67	7	"Temple 67	Vanderbilt	59	3	 Vanderbilt 59	REGIONAL SEMIFINALS	
+2009	Memphis	89	2	Memphis 89"	Maryland	70	10	 Maryland 70	SECOND ROUND	-3	-3
+1993	Utah	86	8	No. 8 Utah 86	Pittsburgh	85	9	No. 9 Pittsburgh 85	FIRST ROUND	-1	1
+1993	Rhode Island	74	8	No. 8 Rhode Island 74	Purdue	68	9	No. 9 Purdue 68	FIRST ROUND	-1	6
+1993	Xavier	73	9	No. 9 Xavier 73	New Orleans	55	8	No. 8 New Orleans 55	FIRST ROUND	1	18
+1993	UCLA	81	9	No. 9 UCLA 81	Iowa State	70	8	No. 8 Iowa State 70	FIRST ROUND	1	11
+1993	Tulane	55	11	No. 11 Tulane 55	Kansas State	53	6	No. 6 Kansas State 53	FIRST ROUND	5	2
+1993	George Washington	82	12	No. 12 George Washington 82	New Mexico	68	5	No. 5 New Mexico 68	FIRST ROUND	7	14
+1993	Southern (La.)	93	13	No. 13 Southern (La.) 93	Georgia Tech	78	4	No. 4 Georgia Tech 78	FIRST ROUND	9	15
+1993	Santa Clara	64	15	No. 15 Santa Clara 64	Arizona	61	2	No. 2 Arizona 61	FIRST ROUND	13	3
+1994	Arkansas	76	1	"Arkansas 76	Duke	72	2	 Duke 72	NATIONAL CHAMPIONSHIP	
+1986	Michigan State	80	5	Michigan State 80"	Georgetown	68	4	 Georgetown 68	SECOND ROUND	-3	8
+1994	Missouri	98	1	"Missouri 98	Syracuse	88	4	 Syracuse 88	REGIONAL SEMIFINALS	
+1985	North Carolina	60	2	North Carolina 60"	Notre Dame	58	7	 Notre Dame 58	SECOND ROUND	-6	40
+1994	Purdue	83	1	"Purdue 83	Kansas	78	4	 Kansas 78	REGIONAL SEMIFINALS	
+1986	Kentucky	71	1	Kentucky 71"	Western Kentucky	64	8	 Western Kentucky 64	SECOND ROUND	-7	19
+1994	Arkansas	103	1	"Arkansas 103	Tulsa	84	12	 Tulsa 84	REGIONAL SEMIFINALS	
+2009	Oklahoma	73	2	Oklahoma 73"	Michigan	63	10	 Michigan 63	SECOND ROUND	-9	40
+1994	North Carolina	71	1	No. 1 North Carolina 71	Liberty (Va.)	51	16	No. 16 Liberty (Va.) 51	FIRST ROUND	-15	20
+1994	Arkansas	94	1	No. 1 Arkansas 94	North Carolina A&T	79	16	No. 16 North Carolina A&T 79	FIRST ROUND	-15	15
+1994	Purdue	98	1	No. 1 Purdue 98	Central Florida	67	16	No. 16 Central Florida 67	FIRST ROUND	-15	31
+1994	Missouri	76	1	No. 1 Missouri 76	Navy	53	16	No. 16 Navy 53	FIRST ROUND	-15	23
+1994	Arizona	71	2	"Arizona 71	Virginia	58	7	 Virginia 58	SECOND ROUND	
+1989	Syracuse	83	2	Syracuse 83"	Missouri	80	3	 Missouri 80	REGIONAL SEMIFINALS	-1	-9
+1994	Arizona	82	2	"Arizona 82	Louisville	70	3	 Louisville 70	REGIONAL SEMIFINALS	
+1986	Auburn	70	8	Auburn 70"	UNLV	63	4	 UNLV 63	REGIONAL SEMIFINALS	-2	19
+1994	Duke	69	2	"Duke 69	Purdue	60	1	 Purdue 60	REGIONAL FINALS	
+1986	Cleveland State	75	14	Cleveland State 75"	St. Joseph's	69	6	 St. Joseph's 69	SECOND ROUND	-4	0
+1994	Duke	85	2	"Duke 85	Michigan State	74	7	 Michigan State 74	SECOND ROUND	
+2006	Villanova	82	1	Villanova 82"	Arizona	78	8	 Arizona 78	SECOND ROUND	-6	7
+1994	Connecticut	64	2	No. 2 Connecticut 64	Rider (N.J.)	46	15	No. 15 Rider (N.J.) 46	FIRST ROUND	-13	18
+1994	Arizona	81	2	No. 2 Arizona 81	Loyola (Md.)	55	15	No. 15 Loyola (Md.) 55	FIRST ROUND	-13	26
+1994	Massachusetts	78	2	No. 2 Massachusetts 78	SW Texas State	60	15	No. 15 SW Texas State 60	FIRST ROUND	-13	18
+1994	Duke	82	2	No. 2 Duke 82	Texas Southern	70	15	No. 15 Texas Southern 70	FIRST ROUND	-13	12
+1994	Michigan	78	3	"Michigan 78	Maryland	71	10	 Maryland 71	REGIONAL SEMIFINALS	
+1998	Kentucky	78	2	Kentucky 78"	Utah	69	3	 Utah 69	NATIONAL CHAMPIONSHIP	0	9
+1994	Michigan	84	3	"Michigan 84	Texas	79	6	 Texas 79	SECOND ROUND	
+2004	Georgia Tech	72	3	Georgia Tech 72"	Nevada	67	10	 Nevada 67	REGIONAL SEMIFINALS	-7	17
+1994	Florida	74	3	"Florida 74	Boston College	66	9	 Boston College 66	REGIONAL FINALS	
+1988	Temple	69	1	Temple 69"	Richmond	47	13	 Richmond 47	REGIONAL SEMIFINALS	-10	27
+1994	Kentucky	83	3	No. 3 Kentucky 83	Tennessee State	70	14	No. 14 Tennessee State 70	FIRST ROUND	-11	13
+1994	Louisville	67	3	No. 3 Louisville 67	Boise State	58	14	No. 14 Boise State 58	FIRST ROUND	-11	9
+1994	Michigan	78	3	No. 3 Michigan 78	Pepperdine	74	14	No. 14 Pepperdine 74	FIRST ROUND	-11	4
+1994	Florida	64	3	No. 3 Florida 64	James Madison	62	14	No. 14 James Madison 62	FIRST ROUND	-11	2
+1994	Syracuse	92	4	No. 4 Syracuse 92	Hawaii	78	13	No. 13 Hawaii 78	FIRST ROUND	-9	14
+1994	Oklahoma State	65	4	No. 4 Oklahoma State 65	New Mexico State	55	13	No. 13 New Mexico State 55	FIRST ROUND	-9	10
+1994	Temple	61	4	No. 4 Temple 61	Drexel	39	13	No. 13 Drexel 39	FIRST ROUND	-9	22
+1994	Kansas	102	4	No. 4 Kansas 102	Tennessee-Chattanooga	73	13	No. 13 Tennessee-Chattanooga 73	FIRST ROUND	-9	29
+1994	Indiana	84	5	No. 5 Indiana 84	Ohio University	72	12	No. 12 Ohio University 72	FIRST ROUND	-7	12
+1994	Wake Forest	68	5	No. 5 Wake Forest 68	College of Charleston	58	12	No. 12 College of Charleston 58	FIRST ROUND	-7	10
+1994	Marquette	75	6	"Marquette 75	Kentucky	63	3	 Kentucky 63	SECOND ROUND	
+2000	Oklahoma State	68	3	Oklahoma State 68"	Seton Hall	66	10	 Seton Hall 66	REGIONAL SEMIFINALS	-4	9
+1994	Minnesota	74	6	No. 6 Minnesota 74	Southern Illinois	60	11	No. 11 Southern Illinois 60	FIRST ROUND	-5	14
+1994	Texas	91	6	No. 6 Texas 91	Western Kentucky	77	11	No. 11 Western Kentucky 77	FIRST ROUND	-5	14
+1994	Marquette	81	6	No. 6 Marquette 81	Southwestern Louisiana	59	11	No. 11 Southwestern Louisiana 59	FIRST ROUND	-5	22
+1994	Michigan State	84	7	No. 7 Michigan State 84	Seton Hall	73	10	No. 10 Seton Hall 73	FIRST ROUND	-3	11
+1994	Virginia	57	7	No. 7 Virginia 57	New Mexico	54	10	No. 10 New Mexico 54	FIRST ROUND	-3	3
+1994	Boston College	75	9	"Boston College 75	North Carolina	72	1	 North Carolina 72	SECOND ROUND	
+2001	Southern Cal	74	6	Southern Cal 74"	Boston College	71	3	 Boston College 71	SECOND ROUND	6	4
+1994	Boston College	67	9	No. 9 Boston College 67	Washington State	64	8	No. 8 Washington State 64	FIRST ROUND	1	3
+1994	Alabama	76	9	No. 9 Alabama 76	Providence	70	8	No. 8 Providence 70	FIRST ROUND	1	6
+1994	Georgetown	84	9	No. 9 Georgetown 84	Illinois	77	8	No. 8 Illinois 77	FIRST ROUND	1	7
+1994	Wisconsin	80	9	No. 9 Wisconsin 80	Cincinnati	72	8	No. 8 Cincinnati 72	FIRST ROUND	1	8
+1994	Maryland	95	10	"Maryland 95	Massachusetts	87	2	 Massachusetts 87	SECOND ROUND	
+2008	Michigan State	65	5	Michigan State 65"	Pittsburgh	54	4	 Pittsburgh 54	SECOND ROUND	6	41
+1994	George Washington	51	10	No. 10 George Washington 51	UAB	46	7	No. 7 UAB 46	FIRST ROUND	3	5
+1994	Maryland	74	10	No. 10 Maryland 74	St. Louis	66	7	No. 7 St. Louis 66	FIRST ROUND	3	8
+1994	Penn	90	11	No. 11 Penn 90	Nebraska	80	6	No. 6 Nebraska 80	FIRST ROUND	5	10
+1994	Tulsa	112	12	No. 12 Tulsa 112	UCLA	102	5	No. 5 UCLA 102	FIRST ROUND	7	10
+1994	Wisconsin-Green Bay	61	12	No. 12 Wisconsin-Green Bay 61	California	57	5	No. 5 California 57	FIRST ROUND	7	4
+1995	Kentucky	97	1	"Kentucky 97	Arizona State	73	5	 Arizona State 73	REGIONAL SEMIFINALS	
+1987	Indiana	97	1	Indiana 97"	UNLV	93	1	 UNLV 93	NATIONAL SEMIFINALS	0	4
+1995	UCLA	75	1	"UCLA 75	Missouri	74	8	 Missouri 74	SECOND ROUND	
+1998	Utah	76	3	Utah 76"	Arizona	51	1	 Arizona 51	REGIONAL FINALS	0	24
+1995	Kentucky	113	1	No. 1 Kentucky 113	Mount St. Mary's (Md.)	67	16	No. 16 Mount St. Mary's (Md.) 67	FIRST ROUND	-15	46
+1995	UCLA	92	1	No. 1 UCLA 92	Florida International	56	16	No. 16 Florida International 56	FIRST ROUND	-15	36
+1995	Kansas	82	1	No. 1 Kansas 82	Colgate	68	16	No. 16 Colgate 68	FIRST ROUND	-15	14
+1995	Wake Forest	79	1	No. 1 Wake Forest 79	North Carolina A&T	47	16	No. 16 North Carolina A&T 47	FIRST ROUND	-15	32
+1995	Arkansas	75	2	"Arkansas 75	North Carolina	68	2	 North Carolina 68	NATIONAL SEMIFINALS	
+1985	Villanova	59	8	Villanova 59"	Michigan	55	1	 Michigan 55	SECOND ROUND	1	20
+1995	North Carolina	74	2	"North Carolina 74	Kentucky	61	1	 Kentucky 61	REGIONAL FINALS	
+1996	Mississippi State	73	5	Mississippi State 73"	Cincinnati	63	2	 Cincinnati 63	REGIONAL FINALS	0	11
+1995	Arkansas	79	2	No. 2 Arkansas 79	Texas Southern	78	15	No. 15 Texas Southern 78	FIRST ROUND	-13	1
+1995	Connecticut	100	2	No. 2 Connecticut 100	Tennessee-Chattanooga	71	15	No. 15 Tennessee-Chattanooga 71	FIRST ROUND	-13	29
+1995	North Carolina	80	2	No. 2 North Carolina 80	Murray State	70	15	No. 15 Murray State 70	FIRST ROUND	-13	10
+1995	Massachusetts	68	2	No. 2 Massachusetts 68	St. Peter's	51	15	No. 15 St. Peter's 51	FIRST ROUND	-13	17
+1995	Maryland	82	3	"Maryland 82	Texas	68	11	 Texas 68	SECOND ROUND	
+2010	Duke	78	1	Duke 78"	West Virginia	57	2	 West Virginia 57	NATIONAL SEMIFINALS	1	25
+1995	Purdue	49	3	No. 3 Purdue 49	Wisconsin-Green Bay	48	14	No. 14 Wisconsin-Green Bay 48	FIRST ROUND	-11	1
+1995	Maryland	87	3	No. 3 Maryland 87	Gonzaga	63	14	No. 14 Gonzaga 63	FIRST ROUND	-11	24
+1995	Virginia	60	4	"Virginia 60	Miami (Ohio)	54	12	 Miami (Ohio) 54	SECOND ROUND	
+2009	North Carolina	89	1	North Carolina 89"	Michigan State	72	2	 Michigan State 72	NATIONAL CHAMPIONSHIP	2	-12
+1995	Virginia	67	4	"Virginia 67	Kansas	58	1	 Kansas 58	REGIONAL SEMIFINALS	
+2011	Kentucky	71	4	Kentucky 71"	West Virginia	63	5	 West Virginia 63	THIRD ROUND	-1	4
+1995	Oklahoma State	68	4	"Oklahoma State 68	Massachusetts	54	2	 Massachusetts 54	REGIONAL FINALS	
+1998	Connecticut	78	2	Connecticut 78"	Indiana	68	7	 Indiana 68	SECOND ROUND	-3	0
+1995	Oklahoma State	71	4	"Oklahoma State 71	Wake Forest	66	1	 Wake Forest 66	REGIONAL SEMIFINALS	
+1996	Georgetown	73	2	Georgetown 73"	New Mexico	62	7	 New Mexico 62	SECOND ROUND	-3	9
+1995	Virginia	96	4	No. 4 Virginia 96	Nicholls State (La.)	72	13	No. 13 Nicholls State (La.) 72	FIRST ROUND	-9	24
+1995	Utah	76	4	No. 4 Utah 76	Long Beach State	64	13	No. 13 Long Beach State 64	FIRST ROUND	-9	12
+1995	Oklahoma State	73	4	No. 4 Oklahoma State 73	Drexel	49	13	No. 13 Drexel 49	FIRST ROUND	-9	24
+1995	Alabama	91	5	No. 5 Alabama 91	Penn	85	12	No. 12 Penn 85	FIRST ROUND	-7	6
+1995	Mississippi State	75	5	No. 5 Mississippi State 75	Santa Clara	67	12	No. 12 Santa Clara 67	FIRST ROUND	-7	8
+1995	Arizona State	81	5	No. 5 Arizona State 81	Ball State	66	12	No. 12 Ball State 66	FIRST ROUND	-7	15
+1995	Georgetown	53	6	"Georgetown 53	Weber State	51	14	 Weber State 51	SECOND ROUND	
+2008	Memphis	78	1	Memphis 78"	UCLA	63	1	 UCLA 63	NATIONAL SEMIFINALS	5	-10
+1995	Memphis	75	6	"Memphis 75	Purdue	73	3	 Purdue 73	SECOND ROUND	
+2012	N.C. State	66	11	N.C. State 66"	Georgetown	63	3	 Georgetown 63	THIRD ROUND	3	12
+1995	Tulsa	64	6	"Tulsa 64	Old Dominion	52	14	 Old Dominion 52	SECOND ROUND	
+1982	Boston College	69	8	Boston College 69"	Kansas State	65	5	 Kansas State 65	REGIONAL SEMIFINALS	1	-1
+1995	Georgetown	68	6	No. 6 Georgetown 68	Xavier	63	11	No. 11 Xavier 63	FIRST ROUND	-5	5
+1995	Memphis	77	6	No. 6 Memphis 77	Louisville	56	11	No. 11 Louisville 56	FIRST ROUND	-5	21
+1995	Tulsa	68	6	No. 6 Tulsa 68	Illinois	62	11	No. 11 Illinois 62	FIRST ROUND	-5	6
+1995	Iowa State	64	7	No. 7 Iowa State 64	Florida	61	10	No. 10 Florida 61	FIRST ROUND	-3	3
+1995	Syracuse	96	7	No. 7 Syracuse 96	Southern Illinois	92	10	No. 10 Southern Illinois 92	FIRST ROUND	-3	4
+1995	Cincinnati	77	7	No. 7 Cincinnati 77	Temple	71	10	No. 10 Temple 71	FIRST ROUND	-3	6
+1995	Missouri	65	8	No. 8 Missouri 65	Indiana	60	9	No. 9 Indiana 60	FIRST ROUND	-1	5
+1995	Western Kentucky	82	8	No. 8 Western Kentucky 82	Michigan	76	9	No. 9 Michigan 76	FIRST ROUND	-1	6
+1995	Tulane	76	9	No. 9 Tulane 76	Brigham Young	70	8	No. 8 Brigham Young 70	FIRST ROUND	1	6
+1995	St. Louis	64	9	No. 9 St. Louis 64	Minnesota	61	8	No. 8 Minnesota 61	FIRST ROUND	1	3
+1995	Stanford	70	10	No. 10 Stanford 70	UNC Charlotte	68	7	No. 7 UNC Charlotte 68	FIRST ROUND	3	2
+1995	Texas	90	11	No. 11 Texas 90	Oregon	73	6	No. 6 Oregon 73	FIRST ROUND	5	17
+1995	Miami (Ohio)	71	12	No. 12 Miami (Ohio) 71	Arizona	62	5	No. 5 Arizona 62	FIRST ROUND	7	9
+1995	Manhattan	77	13	No. 13 Manhattan 77	Oklahoma	67	4	No. 4 Oklahoma 67	FIRST ROUND	9	10
+1995	Weber State	79	14	No. 14 Weber State 79	Michigan State	72	3	No. 3 Michigan State 72	FIRST ROUND	11	7
+1995	Old Dominion	89	14	No. 14 Old Dominion 89	Villanova	81	3	No. 3 Villanova 81	FIRST ROUND	11	8
+1996	Massachusetts	86	1	"Massachusetts 86	Georgetown	62	2	 Georgetown 62	REGIONAL FINALS	
+2010	Washington	82	11	Washington 82"	New Mexico	64	3	 New Mexico 64	SECOND ROUND	-2	22
+1996	Connecticut	95	1	"Connecticut 95	Eastern Michigan	81	9	 Eastern Michigan 81	SECOND ROUND	
+2009	Michigan State	74	2	Michigan State 74"	Southern California	69	10	 Southern California 69	SECOND ROUND	-9	26
+1996	Kentucky	101	1	"Kentucky 101	Utah	70	4	 Utah 70	REGIONAL SEMIFINALS	
+2006	Texas	75	2	Texas 75"	N.C. State	54	10	 N.C. State 54	SECOND ROUND	-9	47
+1996	Kentucky	84	1	"Kentucky 84	Virginia Tech	60	9	 Virginia Tech 60	SECOND ROUND	
+1989	Seton Hall	87	3	Seton Hall 87"	Evansville	73	11	 Evansville 73	SECOND ROUND	-10	11
+1996	Purdue	73	1	No. 1 Purdue 73	Western Carolina	71	16	No. 16 Western Carolina 71	FIRST ROUND	-15	2
+1996	Connecticut	68	1	No. 1 Connecticut 68	Colgate	59	16	No. 16 Colgate 59	FIRST ROUND	-15	9
+1996	Kentucky	110	1	No. 1 Kentucky 110	San Jose State	72	16	No. 16 San Jose State 72	FIRST ROUND	-15	38
+1996	Massachusetts	92	1	No. 1 Massachusetts 92	Central Florida	70	16	No. 16 Central Florida 70	FIRST ROUND	-15	22
+1996	Georgetown	98	2	"Georgetown 98	Texas Tech	90	3	 Texas Tech 90	REGIONAL SEMIFINALS	
+2003	Syracuse	63	3	Syracuse 63"	Oklahoma	47	1	 Oklahoma 47	REGIONAL FINALS	1	51
+1996	Cincinnati	78	2	"Cincinnati 78	Temple	65	7	 Temple 65	SECOND ROUND	
+2011	Duke	73	1	Duke 73"	Michigan	71	8	 Michigan 71	THIRD ROUND	-6	7
+1996	Kansas	76	2	"Kansas 76	Santa Clara	51	10	 Santa Clara 51	SECOND ROUND	
+2012	Baylor	80	3	Baylor 80"	Colorado	63	11	 Colorado 63	THIRD ROUND	-9	13
+1996	Wake Forest	62	2	No. 2 Wake Forest 62	Northeast Louisiana	50	15	No. 15 Northeast Louisiana 50	FIRST ROUND	-13	12
+1996	Georgetown	93	2	No. 2 Georgetown 93	Mississippi Valley State	56	15	No. 15 Mississippi Valley State 56	FIRST ROUND	-13	37
+1996	Cincinnati	66	2	No. 2 Cincinnati 66	North Carolina-Greensboro	61	15	No. 15 North Carolina-Greensboro 61	FIRST ROUND	-13	5
+1996	Kansas	92	2	No. 2 Kansas 92	South Carolina State	54	15	No. 15 South Carolina State 54	FIRST ROUND	-13	38
+1996	Arizona	87	3	"Arizona 87	Iowa	73	6	 Iowa 73	SECOND ROUND	
+1990	Duke	79	3	Duke 79"	Connecticut	78	1	 Connecticut 78	REGIONAL FINALS	2	9
+1996	Georgia Tech	103	3	"Georgia Tech 103	Boston College	89	11	 Boston College 89	SECOND ROUND	
+1980	Louisville	66	2	Louisville 66"	Texas A&M	55	6	 Texas A&M 55	REGIONAL SEMIFINALS	-3	48
+1996	Georgia Tech	90	3	No. 3 Georgia Tech 90	Austin Peay	79	14	No. 14 Austin Peay 79	FIRST ROUND	-11	11
+1996	Villanova	92	3	No. 3 Villanova 92	Portland	58	14	No. 14 Portland 58	FIRST ROUND	-11	34
+1996	Arizona	90	3	No. 3 Arizona 90	Valparaiso	51	14	No. 14 Valparaiso 51	FIRST ROUND	-11	39
+1996	Texas Tech	74	3	No. 3 Texas Tech 74	Northern Illinois	73	14	No. 14 Northern Illinois 73	FIRST ROUND	-11	1
+1996	Syracuse	60	4	"Syracuse 60	Kansas	57	2	 Kansas 57	REGIONAL FINALS	
+2006	Bradley	72	13	Bradley 72"	Pittsburgh	66	5	 Pittsburgh 66	SECOND ROUND	-1	-6
+1996	Syracuse	83	4	"Syracuse 83	Georgia	81	8	 Georgia 81	REGIONAL SEMIFINALS	
+2002	Indiana	81	5	Indiana 81"	Kent St.	69	10	 Kent St. 69	REGIONAL FINALS	-6	14
+1996	Syracuse	69	4	"Syracuse 69	Drexel	58	12	 Drexel 58	SECOND ROUND	
+2011	North Carolina	81	2	North Carolina 81"	Marquette	63	11	 Marquette 63	REGIONAL SEMIFINALS	-7	6
+1996	Marquette	68	4	No. 4 Marquette 68	Monmouth (N.J.)	44	13	No. 13 Monmouth (N.J.) 44	FIRST ROUND	-9	24
+1996	Utah	72	4	No. 4 Utah 72	Canisius	43	13	No. 13 Canisius 43	FIRST ROUND	-9	29
+1996	Syracuse	88	4	No. 4 Syracuse 88	Montana State	55	13	No. 13 Montana State 55	FIRST ROUND	-9	33
+1996	Mississippi State	63	5	"Mississippi State 63	Princeton	41	13	 Princeton 41	SECOND ROUND	
+1991	UNLV	77	1	UNLV 77"	Seton Hall	65	3	 Seton Hall 65	REGIONAL FINALS	2	-2
+1996	Mississippi State	60	5	"Mississippi State 60	Connecticut	55	1	 Connecticut 55	REGIONAL SEMIFINALS	
+2007	Memphis	78	2	Memphis 78"	Nevada	62	7	 Nevada 62	SECOND ROUND	-2	-2
+1996	Mississippi State	58	5	No. 5 Mississippi State 58	Virginia Commonwealth	51	12	No. 12 Virginia Commonwealth 51	FIRST ROUND	-7	7
+1996	Iowa State	74	5	No. 5 Iowa State 74	California	64	12	No. 12 California 64	FIRST ROUND	-7	10
+1996	North Carolina	83	6	No. 6 North Carolina 83	New Orleans	62	11	No. 11 New Orleans 62	FIRST ROUND	-5	21
+1996	Louisville	82	6	No. 6 Louisville 82	Tulsa	80	11	No. 11 Tulsa 80	FIRST ROUND	-5	2
+1996	Iowa	81	6	No. 6 Iowa 81	George Washington	79	11	No. 11 George Washington 79	FIRST ROUND	-5	2
+1996	Louisville	68	6	"Louisville 68	Villanova	64	3	 Villanova 64	SECOND ROUND	
+1994	Florida	70	3	Florida 70"	Penn	58	11	 Penn 58	SECOND ROUND	-5	10
+1996	Temple	61	7	No. 7 Temple 61	Oklahoma	43	10	No. 10 Oklahoma 43	FIRST ROUND	-3	18
+1996	New Mexico	69	7	No. 7 New Mexico 69	Kansas State	48	10	No. 10 Kansas State 48	FIRST ROUND	-3	21
+1996	Georgia	81	8	No. 8 Georgia 81	Clemson	74	9	No. 9 Clemson 74	FIRST ROUND	-1	7
+1996	Georgia	76	8	"Georgia 76	Purdue	69	1	 Purdue 69	SECOND ROUND	
+2001	Georgetown	76	10	Georgetown 76"	Hampton	57	15	 Hampton 57	SECOND ROUND	-7	19
+1996	Virginia Tech	61	9	No. 9 Virginia Tech 61	Wisconsin-Green Bay	48	8	No. 8 Wisconsin-Green Bay 48	FIRST ROUND	1	13
+1996	Eastern Michigan	75	9	No. 9 Eastern Michigan 75	Duke	60	8	No. 8 Duke 60	FIRST ROUND	1	15
+1996	Stanford	66	9	No. 9 Stanford 66	Bradley	58	8	No. 8 Bradley 58	FIRST ROUND	1	8
+1996	Santa Clara	91	10	No. 10 Santa Clara 91	Maryland	79	7	No. 7 Maryland 79	FIRST ROUND	3	12
+1996	Texas	80	10	No. 10 Texas 80	Michigan	76	7	No. 7 Michigan 76	FIRST ROUND	3	4
+1996	Boston College	64	11	No. 11 Boston College 64	Indiana	51	6	No. 6 Indiana 51	FIRST ROUND	5	13
+1996	Arkansas	86	12	No. 12 Arkansas 86	Penn State	80	5	No. 5 Penn State 80	FIRST ROUND	7	6
+1996	Drexel	75	12	No. 12 Drexel 75	Memphis	63	5	No. 5 Memphis 63	FIRST ROUND	7	12
+1996	Arkansas	65	12	"Arkansas 65	Marquette	56	4	 Marquette 56	SECOND ROUND	
+2006	LSU	58	4	LSU 58"	Texas A&M	57	12	 Texas A&M 57	SECOND ROUND	0	8
+1996	Princeton	43	13	No. 13 Princeton 43	UCLA	41	4	No. 4 UCLA 41	FIRST ROUND	9	2
+1997	Minnesota	76	1	"Minnesota 76	Temple	57	9	 Temple 57	SECOND ROUND	
+1983	N.C. State	63	NA	N.C. State 63"	Virginia	62	1	 Virginia 62	REGIONAL FINALS	0	14
+1997	Kentucky	75	1	"Kentucky 75	Iowa	69	8	 Iowa 69	SECOND ROUND	
+2010	Xavier	71	6	Xavier 71"	Pittsburgh	68	3	 Pittsburgh 68	SECOND ROUND	-2	7
+1997	Minnesota	90	1	"Minnesota 90	Clemson	84	4	 Clemson 84	REGIONAL SEMIFINALS	
+1994	Duke	59	2	Duke 59"	Marquette	49	6	 Marquette 49	REGIONAL SEMIFINALS	-5	41
+1997	Kansas	75	1	"Kansas 75	Purdue	61	8	 Purdue 61	SECOND ROUND	
+1991	Indiana	82	2	Indiana 82"	Florida State	60	7	 Florida State 60	SECOND ROUND	-6	15
+1997	Minnesota	80	1	"Minnesota 80	UCLA	72	2	 UCLA 72	REGIONAL FINALS	
+2008	Wisconsin	72	3	Wisconsin 72"	Kansas State	55	11	 Kansas State 55	SECOND ROUND	-10	25
+1997	Kentucky	92	1	No. 1 Kentucky 92	Montana	54	16	No. 16 Montana 54	FIRST ROUND	-15	38
+1997	Kansas	78	1	No. 1 Kansas 78	Jackson State	64	16	No. 16 Jackson State 64	FIRST ROUND	-15	14
+1997	North Carolina	82	1	No. 1 North Carolina 82	Fairfield	74	16	No. 16 Fairfield 74	FIRST ROUND	-15	8
+1997	Minnesota	78	1	No. 1 Minnesota 78	Southwest Texas State	46	16	No. 16 Southwest Texas State 46	FIRST ROUND	-15	32
+1997	Utah	82	2	"Utah 82	Stanford	77	6	 Stanford 77	REGIONAL SEMIFINALS	
+1986	Louisville	72	2	Louisville 72"	Duke	69	1	 Duke 69	NATIONAL CHAMPIONSHIP	1	13
+1997	Utah	75	2	No. 2 Utah 75	Navy	61	15	No. 15 Navy 61	FIRST ROUND	-13	14
+1997	UCLA	109	2	No. 2 UCLA 109	Charleston Southern	75	15	No. 15 Charleston Southern 75	FIRST ROUND	-13	34
+1997	Duke	71	2	No. 2 Duke 71	Murray State	68	15	No. 15 Murray State 68	FIRST ROUND	-13	3
+1997	Wake Forest	68	3	No. 3 Wake Forest 68	St. Mary's	46	14	No. 14 St. Mary's 46	FIRST ROUND	-11	22
+1997	Cincinnati	86	3	No. 3 Cincinnati 86	Butler	69	14	No. 14 Butler 69	FIRST ROUND	-11	17
+1997	New Mexico	59	3	No. 3 New Mexico 59	Old Dominion	55	14	No. 14 Old Dominion 55	FIRST ROUND	-11	4
+1997	Arizona	66	4	"Arizona 66	North Carolina	58	1	 North Carolina 58	NATIONAL SEMIFINALS	
+1988	Arizona	99	1	Arizona 99"	Iowa	79	5	 Iowa 79	REGIONAL SEMIFINALS	-1	-13
+1997	Clemson	65	4	"Clemson 65	Tulsa	59	5	 Tulsa 59	SECOND ROUND	
+2004	Georgia Tech	57	3	Georgia Tech 57"	Boston College	54	6	 Boston College 54	SECOND ROUND	-2	11
+1997	Arizona	65	4	No. 4 Arizona 65	South Alabama	57	13	No. 13 South Alabama 57	FIRST ROUND	-9	8
+1997	St. Joseph's	75	4	No. 4 St. Joseph's 75	Pacific	65	13	No. 13 Pacific 65	FIRST ROUND	-9	10
+1997	Villanova	101	4	No. 4 Villanova 101	Long Island	91	13	No. 13 Long Island 91	FIRST ROUND	-9	10
+1997	Clemson	68	4	No. 4 Clemson 68	Miami of Ohio	56	13	No. 13 Miami of Ohio 56	FIRST ROUND	-9	12
+1997	Arizona	85	4	"Arizona 85	Kansas	82	1	 Kansas 82	REGIONAL SEMIFINALS	
+1991	Connecticut	66	11	Connecticut 66"	Xavier	50	14	 Xavier 50	SECOND ROUND	-10	35
+1997	California	75	5	"California 75	Villanova	68	4	 Villanova 68	SECOND ROUND	
+1999	Connecticut	78	1	Connecticut 78"	Iowa	68	5	 Iowa 68	REGIONAL SEMIFINALS	0	7
+1997	California	55	5	No. 5 California 55	Princeton	52	12	No. 12 Princeton 52	FIRST ROUND	-7	3
+1997	Boston College	73	5	No. 5 Boston College 73	Valparaiso	66	12	No. 12 Valparaiso 66	FIRST ROUND	-7	7
+1997	Tulsa	81	5	No. 5 Tulsa 81	Boston University	52	12	No. 12 Boston University 52	FIRST ROUND	-7	29
+1997	Louisville	64	6	"Louisville 64	New Mexico	63	3	 New Mexico 63	SECOND ROUND	
+1982	North Carolina	70	1	North Carolina 70"	Villanova	60	3	 Villanova 60	REGIONAL FINALS	3	4
+1997	Iowa State	69	6	No. 6 Iowa State 69	Illinois State	57	11	No. 11 Illinois State 57	FIRST ROUND	-5	12
+1997	Illinois	90	6	No. 6 Illinois 90	Southern California	77	11	No. 11 Southern California 77	FIRST ROUND	-5	13
+1997	Louisville	65	6	No. 6 Louisville 65	Massachusetts	57	11	No. 11 Massachusetts 57	FIRST ROUND	-5	8
+1997	Stanford	80	6	No. 6 Stanford 80	Oklahoma	67	11	No. 11 Oklahoma 67	FIRST ROUND	-5	13
+1997	UNC Charlotte	79	7	No. 7 UNC Charlotte 79	Georgetown	67	10	No. 10 Georgetown 67	FIRST ROUND	-3	12
+1997	Xavier	80	7	No. 7 Xavier 80	Vanderbilt	68	10	No. 10 Vanderbilt 68	FIRST ROUND	-3	12
+1997	Iowa	73	8	No. 8 Iowa 73	Virginia	60	9	No. 9 Virginia 60	FIRST ROUND	-1	13
+1997	Purdue	83	8	No. 8 Purdue 83	Rhode Island	76	9	No. 9 Rhode Island 76	FIRST ROUND	-1	7
+1997	Colorado	80	9	No. 9 Colorado 80	Indiana	62	8	No. 8 Indiana 62	FIRST ROUND	1	18
+1997	Temple	62	9	No. 9 Temple 62	Mississippi	40	8	No. 8 Mississippi 40	FIRST ROUND	1	22
+1997	Texas	71	10	No. 10 Texas 71	Wisconsin	58	7	No. 7 Wisconsin 58	FIRST ROUND	3	13
+1997	Providence	81	10	No. 10 Providence 81	Marquette	59	7	No. 7 Marquette 59	FIRST ROUND	3	22
+1997	Providence	71	10	"Providence 71	Tennessee-Chattanooga	65	14	 Tennessee-Chattanooga 65	REGIONAL SEMIFINALS	
+1993	George Washington	90	12	George Washington 90"	Southern (La.)	80	13	 Southern (La.) 80	SECOND ROUND	-3	-9
+1997	College of Charleston	75	12	No. 12 College of Charleston 75	Maryland	66	5	No. 5 Maryland 66	FIRST ROUND	7	9
+1997	Tennessee-Chattanooga	73	14	No. 14 Tennessee-Chattanooga 73	Georgia	70	3	No. 3 Georgia 70	FIRST ROUND	11	3
+1997	Coppin State	78	15	No. 15 Coppin State 78	South Carolina	65	2	No. 2 South Carolina 65	FIRST ROUND	13	13
+1998	North Carolina	73	1	"North Carolina 73	Michigan State	58	4	 Michigan State 58	REGIONAL SEMIFINALS	
+1985	St. John's	69	1	St. John's 69"	North Carolina State	60	3	 North Carolina State 60	REGIONAL FINALS	-2	13
+1998	North Carolina	93	1	"North Carolina 93	UNC Charlotte	83	8	 UNC Charlotte 83	SECOND ROUND	
+1989	Syracuse	65	2	Syracuse 65"	Colorado State	50	10	 Colorado State 50	SECOND ROUND	-9	43
+1998	North Carolina	88	1	No. 1 North Carolina 88	Navy	52	16	No. 16 Navy 52	FIRST ROUND	-15	36
+1998	Arizona	99	1	No. 1 Arizona 99	Nicholls State	60	16	No. 16 Nicholls State 60	FIRST ROUND	-15	39
+1998	Kansas	110	1	No. 1 Kansas 110	Prairie View	52	16	No. 16 Prairie View 52	FIRST ROUND	-15	58
+1998	Duke	99	1	No. 1 Duke 99	Radford	63	16	No. 16 Radford 63	FIRST ROUND	-15	36
+1998	Connecticut	75	2	"Connecticut 75	Washington	74	11	 Washington 74	REGIONAL SEMIFINALS	
+1993	Cincinnati	71	2	Cincinnati 71"	Virginia	54	6	 Virginia 54	REGIONAL SEMIFINALS	-4	21
+1998	Kentucky	94	2	"Kentucky 94	UCLA	68	6	 UCLA 68	REGIONAL SEMIFINALS	
+2005	Duke	63	1	Duke 63"	Mississippi State	55	9	 Mississippi State 55	SECOND ROUND	-7	39
+1998	Cincinnati	65	2	No. 2 Cincinnati 65	Northern Arizona	62	15	No. 15 Northern Arizona 62	FIRST ROUND	-13	3
+1998	Kentucky	82	2	No. 2 Kentucky 82	South Carolina State	67	15	No. 15 South Carolina State 67	FIRST ROUND	-13	15
+1998	Connecticut	93	2	No. 2 Connecticut 93	Fairleigh Dickinson	85	15	No. 15 Fairleigh Dickinson 85	FIRST ROUND	-13	8
+1998	Purdue	95	2	No. 2 Purdue 95	Delaware	56	15	No. 15 Delaware 56	FIRST ROUND	-13	39
+1998	Utah	75	3	"Utah 75	Arkansas	69	6	 Arkansas 69	SECOND ROUND	
+1994	Arkansas	76	1	Arkansas 76"	Michigan	68	3	 Michigan 68	REGIONAL FINALS	0	7
+1998	Stanford	67	3	"Stanford 67	Purdue	59	2	 Purdue 59	REGIONAL SEMIFINALS	
+2006	Gonzaga	90	3	Gonzaga 90"	Indiana	80	6	 Indiana 80	SECOND ROUND	-3	-13
+1998	Utah	65	3	"Utah 65	West Virginia	62	10	 West Virginia 62	REGIONAL SEMIFINALS	
+1996	Massachusetts	79	1	Massachusetts 79"	Stanford	74	9	 Stanford 74	SECOND ROUND	-6	-9
+1998	Stanford	83	3	"Stanford 83	Western Michigan	65	11	 Western Michigan 65	SECOND ROUND	
+2006	Florida	82	3	Florida 82"	Wisconsin-Milwaukee	60	11	 Wisconsin-Milwaukee 60	SECOND ROUND	-8	23
+1998	Utah	85	3	No. 3 Utah 85	San Francisco	68	14	No. 14 San Francisco 68	FIRST ROUND	-11	17
+1998	Michigan	80	3	No. 3 Michigan 80	Davidson	61	14	No. 14 Davidson 61	FIRST ROUND	-11	19
+1998	Stanford	67	3	No. 3 Stanford 67	College of Charleston	57	14	No. 14 College of Charleston 57	FIRST ROUND	-11	10
+1998	Michigan State	63	4	"Michigan State 63	Princeton	56	5	 Princeton 56	SECOND ROUND	
+2009	North Carolina	83	1	North Carolina 83"	Villanova	69	3	 Villanova 69	NATIONAL SEMIFINALS	1	-6
+1998	Maryland	82	4	No. 4 Maryland 82	Utah State	68	13	No. 13 Utah State 68	FIRST ROUND	-9	14
+1998	New Mexico	79	4	No. 4 New Mexico 79	Butler	62	13	No. 13 Butler 62	FIRST ROUND	-9	17
+1998	Michigan State	83	4	No. 4 Michigan State 83	Eastern Michigan	71	13	No. 13 Eastern Michigan 71	FIRST ROUND	-9	12
+1998	Syracuse	56	5	"Syracuse 56	New Mexico	46	4	 New Mexico 46	SECOND ROUND	
+1983	North Carolina State	75	6	North Carolina State 75"	Utah	56	10	 Utah 56	REGIONAL SEMIFINALS	-5	0
+1998	Princeton	69	5	No. 5 Princeton 69	UNLV	57	12	No. 12 UNLV 57	FIRST ROUND	-7	12
+1998	Illinois	64	5	No. 5 Illinois 64	South Alabama	51	12	No. 12 South Alabama 51	FIRST ROUND	-7	13
+1998	Syracuse	63	5	No. 5 Syracuse 63	Iona	61	12	No. 12 Iona 61	FIRST ROUND	-7	2
+1998	UCLA	65	6	No. 6 UCLA 65	Miami (Fla.)	62	11	No. 11 Miami (Fla.) 62	FIRST ROUND	-5	3
+1998	Arkansas	74	6	No. 6 Arkansas 74	Nebraska	65	11	No. 11 Nebraska 65	FIRST ROUND	-5	9
+1998	Indiana	94	7	No. 7 Indiana 94	Oklahoma	87	10	No. 10 Oklahoma 87	FIRST ROUND	-3	7
+1998	Rhode Island	97	8	No. 8 Rhode Island 97	Murray State	74	9	No. 9 Murray State 74	FIRST ROUND	-1	23
+1998	Oklahoma State	74	8	No. 8 Oklahoma State 74	George Washington	59	9	No. 9 George Washington 59	FIRST ROUND	-1	15
+1998	UNC Charlotte	77	8	No. 8 UNC Charlotte 77	Illinois-Chicago	62	9	No. 9 Illinois-Chicago 62	FIRST ROUND	-1	15
+1998	Illinois State	82	9	No. 9 Illinois State 82	Tennessee	81	8	No. 8 Tennessee 81	FIRST ROUND	1	1
+1998	West Virginia	82	10	No. 10 West Virginia 82	Temple	52	7	No. 7 Temple 52	FIRST ROUND	3	30
+1998	Saint Louis	51	10	No. 10 Saint Louis 51	Massachusetts	46	7	No. 7 Massachusetts 46	FIRST ROUND	3	5
+1998	Detroit	66	10	No. 10 Detroit 66	St. John's	64	7	No. 7 St. John's 64	FIRST ROUND	3	2
+1998	Washington	69	11	No. 11 Washington 69	Xavier	68	6	No. 6 Xavier 68	FIRST ROUND	5	1
+1998	Western Michigan	75	11	No. 11 Western Michigan 75	Clemson	72	6	No. 6 Clemson 72	FIRST ROUND	5	3
+1998	Washington	81	11	"Washington 81	Richmond	66	14	 Richmond 66	SECOND ROUND	
+1995	Arkansas	96	2	Arkansas 96"	Memphis	91	6	 Memphis 91	REGIONAL SEMIFINALS	5	-10
+1998	Florida State	96	12	No. 12 Florida State 96	Texas Christian	87	5	No. 5 Texas Christian 87	FIRST ROUND	7	9
+1998	Valparaiso	70	13	No. 13 Valparaiso 70	Mississippi	69	4	No. 4 Mississippi 69	FIRST ROUND	9	1
+1998	Richmond	62	14	No. 14 Richmond 62	South Carolina	61	3	No. 3 South Carolina 61	FIRST ROUND	11	1
+1999	Auburn	81	1	"Auburn 81	Oklahoma State	74	9	 Oklahoma State 74	SECOND ROUND	
+1983	Georgia	70	4	Georgia 70"	St. John's	67	1	 St. John's 67	REGIONAL SEMIFINALS	0	14
+1999	Connecticut	67	1	"Connecticut 67	Gonzaga	62	10	 Gonzaga 62	REGIONAL FINALS	
+2007	Ohio State	67	1	Ohio State 67"	Georgetown	60	2	 Georgetown 60	NATIONAL SEMIFINALS	-1	7
+1999	Michigan State	73	1	"Michigan State 73	Kentucky	66	3	 Kentucky 66	REGIONAL FINALS	
+1982	Louisville	75	3	Louisville 75"	UAB	68	4	 UAB 68	REGIONAL FINALS	-3	5
+1999	Connecticut	77	1	"Connecticut 77	Duke	74	1	 Duke 74	NATIONAL CHAMPIONSHIP	
+1986	North Carolina	77	3	North Carolina 77"	UAB	59	6	 UAB 59	SECOND ROUND	-5	18
+1999	Connecticut	78	1	"Connecticut 78	New Mexico	56	9	 New Mexico 56	SECOND ROUND	
+2008	Louisville	78	3	Louisville 78"	Oklahoma	48	6	 Oklahoma 48	SECOND ROUND	-5	30
+1999	Duke	68	1	"Duke 68	Michigan State	62	1	 Michigan State 62	NATIONAL SEMIFINALS	
+2010	Kansas State	84	2	Kansas State 84"	BYU	72	7	 BYU 72	SECOND ROUND	-6	-4
+1999	Auburn	80	1	No. 1 Auburn 80	Winthrop	41	16	No. 16 Winthrop 41	FIRST ROUND	-15	39
+1999	Duke	99	1	No. 1 Duke 99	Florida A&M;	58	16	No. 16 Florida A&M; 58	FIRST ROUND	-15	41
+1999	Michigan State	76	1	No. 1 Michigan State 76	Mount St. Mary's	53	16	No. 16 Mount St. Mary's 53	FIRST ROUND	-15	23
+1999	Connecticut	91	1	No. 1 Connecticut 91	Texas San Antonio	66	16	No. 16 Texas San Antonio 66	FIRST ROUND	-15	25
+1999	Maryland	75	2	"Maryland 75	Creighton	63	10	 Creighton 63	SECOND ROUND	
+2011	Kansas	73	1	Kansas 73"	Illinois	59	9	 Illinois 59	THIRD ROUND	-7	16
+1999	Stanford	69	2	No. 2 Stanford 69	Alcorn State	57	15	No. 15 Alcorn State 57	FIRST ROUND	-13	12
+1999	Maryland	82	2	No. 2 Maryland 82	Valparaiso	60	15	No. 15 Valparaiso 60	FIRST ROUND	-13	22
+1999	Miami (Fla)	75	2	No. 2 Miami (Fla) 75	Lafayette	54	15	No. 15 Lafayette 54	FIRST ROUND	-13	21
+1999	Utah	80	2	No. 2 Utah 80	Arkansas St.	58	15	No. 15 Arkansas St. 58	FIRST ROUND	-13	22
+1999	St. John's	76	3	"St. John's 76	Maryland	62	2	 Maryland 62	REGIONAL SEMIFINALS	
+1997	North Carolina	63	1	North Carolina 63"	California	57	5	 California 57	REGIONAL SEMIFINALS	-2	19
+1999	Kentucky	82	3	No. 3 Kentucky 82	New Mexico St.	60	14	No. 14 New Mexico St. 60	FIRST ROUND	-11	22
+1999	Cincinnati	72	3	No. 3 Cincinnati 72	George Mason	48	14	No. 14 George Mason 48	FIRST ROUND	-11	24
+1999	St. John's	69	3	No. 3 St. John's 69	Samford	43	14	No. 14 Samford 43	FIRST ROUND	-11	26
+1999	Ohio State	75	4	"Ohio State 75	Detroit	44	12	 Detroit 44	SECOND ROUND	
+1982	Louisville	67	3	Louisville 67"	Minnesota	61	2	 Minnesota 61	REGIONAL SEMIFINALS	2	14
+1999	Tennessee	62	4	No. 4 Tennessee 62	Delaware	52	13	No. 13 Delaware 52	FIRST ROUND	-9	10
+1999	Ohio State	72	4	No. 4 Ohio State 72	Murray State	58	13	No. 13 Murray State 58	FIRST ROUND	-9	14
+1999	Arkansas	94	4	No. 4 Arkansas 94	Siena	80	13	No. 13 Siena 80	FIRST ROUND	-9	14
+1999	Ohio State	72	4	"Ohio State 72	Auburn	64	1	 Auburn 64	REGIONAL SEMIFINALS	
+2005	Michigan State	72	5	Michigan State 72"	Vermont	61	13	 Vermont 61	SECOND ROUND	-9	11
+1999	Iowa	82	5	"Iowa 82	Arkansas	72	4	 Arkansas 72	SECOND ROUND	
+1988	Duke	73	2	Duke 73"	Rhode Island	72	11	 Rhode Island 72	REGIONAL SEMIFINALS	-6	10
+1999	UNC Charlotte	81	5	No. 5 UNC Charlotte 81	Rhode Island	70	12	No. 12 Rhode Island 70	FIRST ROUND	-7	11
+1999	Iowa	77	5	No. 5 Iowa 77	UAB	64	12	No. 12 UAB 64	FIRST ROUND	-7	13
+1999	Florida	82	6	"Florida 82	Weber State	74	14	 Weber State 74	SECOND ROUND	
+1993	North Carolina	77	1	North Carolina 77"	Michigan	71	1	 Michigan 71	NATIONAL CHAMPIONSHIP	5	11
+1999	Temple	77	6	"Temple 77	Purdue	55	10	 Purdue 55	REGIONAL SEMIFINALS	
+1986	Alabama	58	5	Alabama 58"	Illinois	56	4	 Illinois 56	SECOND ROUND	2	21
+1999	Temple	61	6	No. 6 Temple 61	Kent	54	11	No. 11 Kent 54	FIRST ROUND	-5	7
+1999	Indiana	108	6	No. 6 Indiana 108	George Washington	88	11	No. 11 George Washington 88	FIRST ROUND	-5	20
+1999	Kansas	95	6	No. 6 Kansas 95	Evansville	74	11	No. 11 Evansville 74	FIRST ROUND	-5	21
+1999	Florida	75	6	No. 6 Florida 75	Penn	61	11	No. 11 Penn 61	FIRST ROUND	-5	14
+1999	New Mexico	61	9	No. 9 New Mexico 61	Missouri	59	8	No. 8 Missouri 59	FIRST ROUND	1	2
+1999	Tulsa	62	9	No. 9 Tulsa 62	Charleston	53	8	No. 8 Charleston 53	FIRST ROUND	1	9
+1999	Oklahoma State	69	9	No. 9 Oklahoma State 69	Syracuse	61	8	No. 8 Syracuse 61	FIRST ROUND	1	8
+1999	Purdue	58	10	No. 10 Purdue 58	Texas	54	7	No. 7 Texas 54	FIRST ROUND	3	4
+1999	Gonzaga	75	10	No. 10 Gonzaga 75	Minnesota	63	7	No. 7 Minnesota 63	FIRST ROUND	3	12
+1999	Miami (Ohio)	59	10	No. 10 Miami (Ohio) 59	Washington	58	7	No. 7 Washington 58	FIRST ROUND	3	1
+1999	Creighton	62	10	No. 10 Creighton 62	Louisville	58	7	No. 7 Louisville 58	FIRST ROUND	3	4
+1999	Gonzaga	73	10	"Gonzaga 73	Florida	72	6	 Florida 72	REGIONAL SEMIFINALS	
+2009	Louisville	103	1	Louisville 103"	Arizona	64	12	 Arizona 64	REGIONAL SEMIFINALS	-2	9
+1999	SW Missouri State	43	12	No. 12 SW Missouri State 43	Wisconsin	32	5	No. 5 Wisconsin 32	FIRST ROUND	7	11
+1999	Detroit	56	12	No. 12 Detroit 56	UCLA	53	5	No. 5 UCLA 53	FIRST ROUND	7	3
+1999	Oklahoma	85	13	"Oklahoma 85	UNC Charlotte	72	5	 UNC Charlotte 72	SECOND ROUND	
+2001	pening-round		NA	Opening-round 	UNC Charlotte	72	NA	 UNC Charlotte 72	FIRST ROUND	
+2012	Florida	68	7	Florida 68"	Marquette	58	3	 Marquette 58	REGIONAL SEMIFINALS	10	27
+1999	Oklahoma	61	13	No. 13 Oklahoma 61	Arizona	60	4	No. 4 Arizona 60	FIRST ROUND	9	1
+1999	Weber State	76	14	No. 14 Weber State 76	North Carolina	74	3	No. 3 North Carolina 74	FIRST ROUND	11	2
+2000	Duke	69	1	"Duke 69	Kansas	64	8	 Kansas 64	SECOND ROUND	
+1992	Ohio State	78	1	Ohio State 78"	Connecticut	55	9	 Connecticut 55	SECOND ROUND	-8	14
+2000	Stanford	84	1	No. 1 Stanford 84	S Carolina State	65	16	No. 16 S Carolina State 65	FIRST ROUND	-15	19
+2000	Duke	82	1	No. 1 Duke 82	Lamar	55	16	No. 16 Lamar 55	FIRST ROUND	-15	27
+2000	Arizona	71	1	No. 1 Arizona 71	Jackson State	47	16	No. 16 Jackson State 47	FIRST ROUND	-15	24
+2000	Michigan State	65	1	No. 1 Michigan State 65	Valpraiso	38	16	No. 16 Valpraiso 38	FIRST ROUND	-15	27
+2000	Cincinnati	64	2	No. 2 Cincinnati 64	UNC-Wilmington	47	15	No. 15 UNC-Wilmington 47	FIRST ROUND	-13	17
+2000	Temple	73	2	No. 2 Temple 73	Lafayette	47	15	No. 15 Lafayette 47	FIRST ROUND	-13	26
+2000	State John's	61	2	No. 2 State John's 61	N Arizona	56	15	No. 15 N Arizona 56	FIRST ROUND	-13	5
+2000	Iowa State	88	2	No. 2 Iowa State 88	Cent Conn State	78	15	No. 15 Cent Conn State 78	FIRST ROUND	-13	10
+2000	Oklahoma State	75	3	"Oklahoma State 75	Pepperdine	67	11	 Pepperdine 67	SECOND ROUND	
+1998	West Virginia	75	10	West Virginia 75"	Cincinnati	74	2	 Cincinnati 74	SECOND ROUND	1	1
+2000	Maryland	74	3	No. 3 Maryland 74	Iona	59	14	No. 14 Iona 59	FIRST ROUND	-11	15
+2000	Oklahoma	74	3	No. 3 Oklahoma 74	Winthrop	50	14	No. 14 Winthrop 50	FIRST ROUND	-11	24
+2000	Ohio State	87	3	No. 3 Ohio State 87	Appalachian State	61	14	No. 14 Appalachian State 61	FIRST ROUND	-11	26
+2000	Oklahoma State	86	3	No. 3 Oklahoma State 86	Hofstra	66	14	No. 14 Hofstra 66	FIRST ROUND	-11	20
+2000	Tennessee	65	4	"Tennessee 65	Connecticut	51	5	 Connecticut 51	SECOND ROUND	
+1990	Clemson	79	5	Clemson 79"	La Salle	75	4	 La Salle 75	SECOND ROUND	0	-10
+2000	LSU	72	4	"LSU 72	Texas	67	5	 Texas 67	SECOND ROUND	
+2007	North Carolina	74	1	North Carolina 74"	Southern California	64	5	 Southern California 64	REGIONAL SEMIFINALS	-1	8
+2000	Illinois	68	4	No. 4 Illinois 68	Pennsylvania	58	13	No. 13 Pennsylvania 58	FIRST ROUND	-9	10
+2000	Syracuse	79	4	No. 4 Syracuse 79	Samford	65	13	No. 13 Samford 65	FIRST ROUND	-9	14
+2000	LSU	64	4	No. 4 LSU 64	SE Missouri State	61	13	No. 13 SE Missouri State 61	FIRST ROUND	-9	3
+2000	Tennessee	63	4	No. 4 Tennessee 63	La-Lafayette	58	13	No. 13 La-Lafayette 58	FIRST ROUND	-9	5
+2000	Florida	77	5	"Florida 77	Oklahoma State	65	3	 Oklahoma State 65	REGIONAL FINALS	
+2012	Kentucky	102	1	Kentucky 102"	Indiana	90	4	 Indiana 90	REGIONAL SEMIFINALS	1	-13
+2000	Connecticut	75	5	No. 5 Connecticut 75	Utah State	67	5	No. 5 Utah State 67	FIRST ROUND	0	8
+2000	Florida	87	5	"Florida 87	Duke	78	1	 Duke 78	REGIONAL SEMIFINALS	
+2006	George Mason	63	11	George Mason 63"	Wichita State	55	7	 Wichita State 55	REGIONAL SEMIFINALS	-2	32
+2000	Texas	77	5	No. 5 Texas 77	Indiana State	61	12	No. 12 Indiana State 61	FIRST ROUND	-7	16
+2000	Kentucky	85	5	No. 5 Kentucky 85	State Bonaventure	80	12	No. 12 State Bonaventure 80	FIRST ROUND	-7	5
+2000	Florida	69	5	No. 5 Florida 69	Butler	68	12	No. 12 Butler 68	FIRST ROUND	-7	1
+2000	Purdue	75	6	"Purdue 75	Gonzaga	66	10	 Gonzaga 66	REGIONAL SEMIFINALS	
+2011	Marquette	66	11	Marquette 66"	Syracuse	62	3	 Syracuse 62	THIRD ROUND	3	13
+2000	Miami (FL)	75	6	"Miami (FL) 75	Ohio State	62	3	 Ohio State 62	SECOND ROUND	
+1987	Syracuse	77	2	Syracuse 77"	Providence	63	6	 Providence 63	NATIONAL SEMIFINALS	0	12
+2000	Purdue	62	6	No. 6 Purdue 62	Dayton	61	11	No. 11 Dayton 61	FIRST ROUND	-5	1
+2000	UCLA	65	6	No. 6 UCLA 65	Ball State	57	11	No. 11 Ball State 57	FIRST ROUND	-5	8
+2000	Miami (FL)	75	6	No. 6 Miami (FL) 75	Arkansas	71	11	No. 11 Arkansas 71	FIRST ROUND	-5	4
+2000	Tulsa	80	7	"Tulsa 80	Miami (FL)	71	6	 Miami (FL) 71	REGIONAL SEMIFINALS	
+1994	Arizona	92	2	Arizona 92"	Missouri	72	1	 Missouri 72	REGIONAL FINALS	6	8
+2000	Tulsa	69	7	"Tulsa 69	Cincinnati	61	2	 Cincinnati 61	SECOND ROUND	
+2011	Connecticut	65	3	Connecticut 65"	Arizona	63	5	 Arizona 63	REGIONAL FINALS	2	6
+2000	Auburn	72	7	No. 7 Auburn 72	Creighton	69	10	No. 10 Creighton 69	FIRST ROUND	-3	3
+2000	Tulsa	89	7	No. 7 Tulsa 89	UNLV	62	10	No. 10 UNLV 62	FIRST ROUND	-3	27
+2000	Wisconsin	66	8	"Wisconsin 66	Arizona	59	1	 Arizona 59	SECOND ROUND	
+2012	Ohio State	77	2	Ohio State 77"	Syracuse	70	1	 Syracuse 70	REGIONAL FINALS	7	-4
+2000	North Carolina	59	8	"North Carolina 59	Tulsa	55	7	 Tulsa 55	REGIONAL FINALS	
+1982	Houston	79	6	Houston 79"	Missouri	78	2	 Missouri 78	REGIONAL SEMIFINALS	6	-19
+2000	Wisconsin	61	8	"Wisconsin 61	LSU	48	4	 LSU 48	REGIONAL SEMIFINALS	
+1996	Kansas	83	2	Kansas 83"	Arizona	80	3	 Arizona 80	REGIONAL SEMIFINALS	5	-19
+2000	Wisconsin	64	8	"Wisconsin 64	Purdue	60	6	 Purdue 60	REGIONAL FINALS	
+2010	Purdue	63	4	Purdue 63"	Texas A&M	61	5	 Texas A&M 61	SECOND ROUND	3	3
+2000	North Carolina	84	8	No. 8 North Carolina 84	Missouri	70	9	No. 9 Missouri 70	FIRST ROUND	-1	14
+2000	Kansas	81	8	No. 8 Kansas 81	DePaul	77	9	No. 9 DePaul 77	FIRST ROUND	-1	4
+2000	Wisconsin	66	8	No. 8 Wisconsin 66	Fresno State	56	9	No. 9 Fresno State 56	FIRST ROUND	-1	10
+2000	Seton Hall	67	10	"Seton Hall 67	Temple	65	2	 Temple 65	SECOND ROUND	
+1999	Temple	64	6	Temple 64"	Cincinnati	54	3	 Cincinnati 54	SECOND ROUND	7	13
+2000	Gonzaga	77	10	No. 10 Gonzaga 77	Louisville	66	7	No. 7 Louisville 66	FIRST ROUND	3	11
+2000	Seton Hall	72	10	No. 10 Seton Hall 72	Oregon	71	7	No. 7 Oregon 71	FIRST ROUND	3	1
+2000	Pepperdine	77	11	No. 11 Pepperdine 77	Indiana	57	6	No. 6 Indiana 57	FIRST ROUND	5	20
+2001	Michigan State	69	1	"Michigan State 69	Temple	62	11	 Temple 62	REGIONAL FINALS	
+1985	Alabama	63	7	Alabama 63"	Virginia Commonwealth	59	2	 Virginia Commonwealth 59	SECOND ROUND	-1	10
+2001	Duke	79	1	"Duke 79	Southern Cal	69	6	 Southern Cal 69	REGIONAL FINALS	
+1998	Kentucky	86	2	Kentucky 86"	Stanford	85	3	 Stanford 85	NATIONAL SEMIFINALS	-2	-6
+2001	Duke	76	1	"Duke 76	UCLA	63	4	 UCLA 63	REGIONAL SEMIFINALS	
+2007	Vanderbilt	78	6	Vanderbilt 78"	Washington State	74	3	 Washington State 74	SECOND ROUND	-2	2
+2001	Michigan State	77	1	"Michigan State 77	Gonzaga	62	12	 Gonzaga 62	REGIONAL SEMIFINALS	
+1989	Indiana	92	2	Indiana 92"	Texas-El Paso	69	7	 Texas-El Paso 69	SECOND ROUND	-6	8
+2001	Stanford	78	1	"Stanford 78	Cincinnati	65	5	 Cincinnati 65	REGIONAL SEMIFINALS	
+2008	Villanova	84	12	Villanova 84"	Siena	72	13	 Siena 72	SECOND ROUND	-12	6
+2001	Duke	95	1	No. 1 Duke 95	Monmouth	52	16	No. 16 Monmouth 52	FIRST ROUND	-15	43
+2001	Stanford	89	1	No. 1 Stanford 89	UNC-Greensboro	60	16	No. 16 UNC-Greensboro 60	FIRST ROUND	-15	29
+2001	Michigan State	69	1	No. 1 Michigan State 69	Alabama State	35	16	No. 16 Alabama State 35	FIRST ROUND	-15	34
+2001	Illinois	96	1	No. 1 Illinois 96	Northwestern State	54	16	No. 16 Northwestern State 54	FIRST ROUND	-15	42
+2001	Kentucky	92	2	"Kentucky 92	Iowa	79	7	 Iowa 79	SECOND ROUND	
+1993	Michigan	81	1	Michigan 81"	Kentucky	78	1	 Kentucky 78	NATIONAL SEMIFINALS	1	14
+2001	Arizona	80	2	"Arizona 80	Michigan State	61	1	 Michigan State 61	NATIONAL SEMIFINALS	
+1983	Kentucky	64	3	Kentucky 64"	Indiana	59	2	 Indiana 59	REGIONAL SEMIFINALS	0	21
+2001	Arizona	73	2	"Arizona 73	Butler	52	10	 Butler 52	SECOND ROUND	
+2009	Louisville	79	1	Louisville 79"	Siena	72	9	 Siena 72	SECOND ROUND	-7	1
+2001	Kentucky	72	2	No. 2 Kentucky 72	Holy Cross	68	15	No. 15 Holy Cross 68	FIRST ROUND	-13	4
+2001	Arizona	101	2	No. 2 Arizona 101	Eastern Illinois	76	15	No. 15 Eastern Illinois 76	FIRST ROUND	-13	25
+2001	North Carolina	70	2	No. 2 North Carolina 70	Princeton	48	15	No. 15 Princeton 48	FIRST ROUND	-13	22
+2001	Maryland	87	3	"Maryland 87	Stanford	73	1	 Stanford 73	REGIONAL FINALS	
+2011	Florida State	71	10	Florida State 71"	Notre Dame	57	2	 Notre Dame 57	THIRD ROUND	1	30
+2001	Mississippi	59	3	"Mississippi 59	Notre Dame	56	6	 Notre Dame 56	SECOND ROUND	
+2009	Connecticut	82	1	Connecticut 82"	Missouri	75	3	 Missouri 75	REGIONAL FINALS	0	-16
+2001	Maryland	76	3	"Maryland 76	Georgetown	66	10	 Georgetown 66	REGIONAL SEMIFINALS	
+1993	Florida State	94	3	Florida State 94"	Tulane	63	11	 Tulane 63	SECOND ROUND	-8	13
+2001	Mississippi	72	3	No. 3 Mississippi 72	Iona	70	14	No. 14 Iona 70	FIRST ROUND	-11	2
+2001	Maryland	83	3	No. 3 Maryland 83	George Mason	80	14	No. 14 George Mason 80	FIRST ROUND	-11	3
+2001	Boston College	68	3	No. 3 Boston College 68	Southern Utah	65	14	No. 14 Southern Utah 65	FIRST ROUND	-11	3
+2001	Florida	69	3	No. 3 Florida 69	Western Kentucky	56	14	No. 14 Western Kentucky 56	FIRST ROUND	-11	13
+2001	UCLA	75	4	"UCLA 75	Utah State	50	12	 Utah State 50	SECOND ROUND	
+1994	Missouri	109	1	Missouri 109"	Wisconsin	96	9	 Wisconsin 96	SECOND ROUND	-5	-21
+2001	UCLA	61	4	No. 4 UCLA 61	Hofstra	48	13	No. 13 Hofstra 48	FIRST ROUND	-9	13
+2001	Kansas	99	4	No. 4 Kansas 99	Northridge	75	13	No. 13 Northridge 75	FIRST ROUND	-9	24
+2001	Syracuse	79	5	No. 5 Syracuse 79	Hawaii	69	12	No. 12 Hawaii 69	FIRST ROUND	-7	10
+2001	Cincinnati	84	5	No. 5 Cincinnati 84	BYU	59	12	No. 12 BYU 59	FIRST ROUND	-7	25
+2001	Notre Dame	83	6	No. 6 Notre Dame 83	Xavier	71	11	No. 11 Xavier 71	FIRST ROUND	-5	12
+2001	Southern Cal	69	6	No. 6 Southern Cal 69	Oklahoma State	54	11	No. 11 Oklahoma State 54	FIRST ROUND	-5	15
+2001	Iowa	69	7	No. 7 Iowa 69	Creighton	56	10	No. 10 Creighton 56	FIRST ROUND	-3	13
+2001	Penn State	69	7	No. 7 Penn State 69	Providence	59	10	No. 10 Providence 59	FIRST ROUND	-3	10
+2001	Fresno State	82	9	No. 9 Fresno State 82	California	70	8	No. 8 California 70	FIRST ROUND	1	12
+2001	Missouri	70	9	No. 9 Missouri 70	Georgia	68	8	No. 8 Georgia 68	FIRST ROUND	1	2
+2001	St. Joseph's	66	9	No. 9 St. Joseph's 66	Georgia Tech	62	8	No. 8 Georgia Tech 62	FIRST ROUND	1	4
+2001	Charlotte	70	9	No. 9 Charlotte 70	Tennessee	63	8	No. 8 Tennessee 63	FIRST ROUND	1	7
+2001	Georgetown	63	10	No. 10 Georgetown 63	Arkansas	61	7	No. 7 Arkansas 61	FIRST ROUND	3	2
+2001	Butler	79	10	No. 10 Butler 79	Wake Forest	63	7	No. 7 Wake Forest 63	FIRST ROUND	3	16
+2001	Temple	79	11	No. 11 Temple 79	Texas	65	6	No. 6 Texas 65	FIRST ROUND	5	14
+2001	Georgia State	50	11	No. 11 Georgia State 50	Wisconsin	49	6	No. 6 Wisconsin 49	FIRST ROUND	5	1
+2001	Temple	75	11	"Temple 75	Florida	54	3	 Florida 54	SECOND ROUND	
+1992	Cincinnati	69	4	Cincinnati 69"	Texas-El Paso	67	9	 Texas-El Paso 67	REGIONAL SEMIFINALS	2	8
+2001	Utah State	77	12	No. 12 Utah State 77	Ohio State	68	5	No. 5 Ohio State 68	FIRST ROUND	7	9
+2001	Gonzaga	86	12	No. 12 Gonzaga 86	Virgina	85	5	No. 5 Virgina 85	FIRST ROUND	7	1
+2001	Gonzaga	85	12	"Gonzaga 85	Indiana State	68	13	 Indiana State 68	SECOND ROUND	
+1987	UNLV	92	1	UNLV 92"	Wyoming	78	12	 Wyoming 78	REGIONAL SEMIFINALS	0	7
+2001	Indiana State	70	13	No. 13 Indiana State 70	Oklahoma	68	4	No. 4 Oklahoma 68	FIRST ROUND	9	2
+2001	Kent State	77	13	No. 13 Kent State 77	Indiana	73	4	No. 4 Indiana 73	FIRST ROUND	9	4
+2001	Hampton	58	15	No. 15 Hampton 58	Iowa State	57	2	No. 2 Iowa State 57	FIRST ROUND	13	1
+2001	Northwestern State	71	16	"Northwestern State 71	Winthrop	67	NA	 Winthrop 67	FIRST ROUND	
+1994	Boston College	77	9	Boston College 77"	Indiana	68	5	 Indiana 68	REGIONAL SEMIFINALS	11	3
+2002	Maryland	87	1	"Maryland 87	Wisconsin	57	8	 Wisconsin 57	SECOND ROUND	
+1990	North Carolina	79	8	North Carolina 79"	Oklahoma	77	1	 Oklahoma 77	SECOND ROUND	0	10
+2002	Kansas	104	1	"Kansas 104	Oregon	86	2	 Oregon 86	REGIONAL FINALS	
+1990	UCLA	71	7	UCLA 71"	Kansas	70	2	 Kansas 70	SECOND ROUND	-1	34
+2002	Maryland	97	1	"Maryland 97	Kansas	88	1	 Kansas 88	NATIONAL SEMIFINALS	
+1998	UCLA	85	6	UCLA 85"	Michigan	82	3	 Michigan 82	SECOND ROUND	-2	15
+2002	Maryland	90	1	"Maryland 90	Connecticut	82	2	 Connecticut 82	REGIONAL FINALS	
+1987	Iowa	93	2	Iowa 93"	Oklahoma	91	6	 Oklahoma 91	REGIONAL SEMIFINALS	-5	-1
+2002	Maryland	64	1	"Maryland 64	Indiana	52	5	 Indiana 52	CHAMPIONSHIP	
+2002	Oklahoma	78	2	Oklahoma 78"	Xavier	65	7	 Xavier 65	SECOND ROUND	-6	-1
+2002	Cincinnati	90	1	No. 1 Cincinnati 90	Boston U.	52	16	No. 16 Boston U. 52	FIRST ROUND	-15	38
+2002	Kansas	70	1	No. 1 Kansas 70	Holy Cross	59	16	No. 16 Holy Cross 59	FIRST ROUND	-15	11
+2002	Maryland	85	1	No. 1 Maryland 85	Siena	70	16	No. 16 Siena 70	FIRST ROUND	-15	15
+2002	Duke	84	1	No. 1 Duke 84	Winthrop	37	16	No. 16 Winthrop 37	FIRST ROUND	-15	47
+2002	Oklahoma	88	2	"Oklahoma 88	Arizona	67	3	 Arizona 67	REGIONAL SEMIFINALS	
+1986	Louisiana State	83	11	Louisiana State 83"	Memphis State	81	3	 Memphis State 81	SECOND ROUND	-1	7
+2002	Oregon	72	2	"Oregon 72	Texas	70	6	 Texas 70	REGIONAL SEMIFINALS	
+2000	Michigan State	75	1	Michigan State 75"	Syracuse	58	4	 Syracuse 58	REGIONAL SEMIFINALS	-2	14
+2002	Connecticut	71	2	"Connecticut 71	Southern Ill.	59	11	 Southern Ill. 59	REGIONAL SEMIFINALS	
+2010	Kentucky	90	1	Kentucky 90"	Wake Forest	60	9	 Wake Forest 60	SECOND ROUND	-7	11
+2002	Oklahoma	71	2	No. 2 Oklahoma 71	Ill.-Chicago	63	15	No. 15 Ill.-Chicago 63	FIRST ROUND	-13	8
+2002	Alabama	86	2	No. 2 Alabama 86	Fla. Atlantic	78	15	No. 15 Fla. Atlantic 78	FIRST ROUND	-13	8
+2002	Connecticut	78	2	No. 2 Connecticut 78	Hampton	67	15	No. 15 Hampton 67	FIRST ROUND	-13	11
+2002	Oregon	81	2	No. 2 Oregon 81	Montana	62	15	No. 15 Montana 62	FIRST ROUND	-13	19
+2002	Pittsburgh	63	3	"Pittsburgh 63	California	50	6	 California 50	SECOND ROUND	
+2008	North Carolina	83	1	North Carolina 83"	Louisville	73	3	 Louisville 73	REGIONAL FINALS	0	-10
+2002	Arizona	68	3	"Arizona 68	Wyoming	60	11	 Wyoming 60	SECOND ROUND	
+1997	Louisville	78	6	Louisville 78"	Texas	63	10	 Texas 63	REGIONAL SEMIFINALS	-7	5
+2002	Georgia	85	3	No. 3 Georgia 85	Murray St.	68	14	No. 14 Murray St. 68	FIRST ROUND	-11	17
+2002	Mississippi St.	70	3	No. 3 Mississippi St. 70	McNeese St.	58	14	No. 14 McNeese St. 58	FIRST ROUND	-11	12
+2002	Pittsburgh	71	3	No. 3 Pittsburgh 71	Central Conn. St.	54	14	No. 14 Central Conn. St. 54	FIRST ROUND	-11	17
+2002	Arizona	86	3	No. 3 Arizona 86	UC Santa Barb.	81	14	No. 14 UC Santa Barb. 81	FIRST ROUND	-11	5
+2002	Illinois	93	4	No. 4 Illinois 93	San Diego St.	64	13	No. 13 San Diego St. 64	FIRST ROUND	-9	29
+2002	Ohio St.	69	4	No. 4 Ohio St. 69	Davidson	64	13	No. 13 Davidson 64	FIRST ROUND	-9	5
+2002	Kentucky	83	4	No. 4 Kentucky 83	Valparaiso	68	13	No. 13 Valparaiso 68	FIRST ROUND	-9	15
+2002	Indiana	74	5	"Indiana 74	Duke	73	1	 Duke 73	REGIONAL SEMIFINALS	
+1987	Louisiana State	72	10	Louisiana State 72"	Temple	62	2	 Temple 62	SECOND ROUND	3	12
+2002	Indiana	76	5	"Indiana 76	UNC Wilmington	67	13	 UNC Wilmington 67	SECOND ROUND	
+2002	Connecticut	77	2	Connecticut 77"	North Carolina St.	74	7	 North Carolina St. 74	SECOND ROUND	-2	2
+2002	Indiana	75	5	No. 5 Indiana 75	Utah	56	12	No. 12 Utah 56	FIRST ROUND	-7	19
+2002	Texas	68	6	"Texas 68	Mississippi St.	64	3	 Mississippi St. 64	SECOND ROUND	
+1998	Arizona	82	1	Arizona 82"	Illinois State	49	9	 Illinois State 49	SECOND ROUND	-3	19
+2002	Texas	70	6	No. 6 Texas 70	Boston College	57	11	No. 11 Boston College 57	FIRST ROUND	-5	13
+2002	California	82	6	No. 6 California 82	Pennsylvania	75	11	No. 11 Pennsylvania 75	FIRST ROUND	-5	7
+2002	North Carolina St.	69	7	No. 7 North Carolina St. 69	Michigan St.	58	10	No. 10 Michigan St. 58	FIRST ROUND	-3	11
+2002	Xavier	70	7	No. 7 Xavier 70	Hawaii	58	10	No. 10 Hawaii 58	FIRST ROUND	-3	12
+2002	Wake Forest	83	7	No. 7 Wake Forest 83	Pepperdine	74	10	No. 10 Pepperdine 74	FIRST ROUND	-3	9
+2002	Stanford	84	8	No. 8 Stanford 84	Western Ky.	68	9	No. 9 Western Ky. 68	FIRST ROUND	-1	16
+2002	UCLA	80	8	No. 8 UCLA 80	Mississippi	58	9	No. 9 Mississippi 58	FIRST ROUND	-1	22
+2002	Wisconsin	80	8	No. 8 Wisconsin 80	St. John's (N.Y.)	70	9	No. 9 St. John's (N.Y.) 70	FIRST ROUND	-1	10
+2002	Notre Dame	82	8	No. 8 Notre Dame 82	Charlotte	63	9	No. 9 Charlotte 63	FIRST ROUND	-1	19
+2002	Kent St.	69	10	No. 10 Kent St. 69	Oklahoma St.	61	7	No. 7 Oklahoma St. 61	FIRST ROUND	3	8
+2002	Southern Ill.	77	11	"Southern Ill. 77	Georgia	75	3	 Georgia 75	SECOND ROUND	
+2008	North Carolina	68	1	North Carolina 68"	Washington State	47	4	 Washington State 47	REGIONAL SEMIFINALS	7	30
+2002	Wyoming	73	11	No. 11 Wyoming 73	Gonzaga	66	6	No. 6 Gonzaga 66	FIRST ROUND	5	7
+2002	Southern Ill.	76	11	No. 11 Southern Ill. 76	Texas Tech	68	6	No. 6 Texas Tech 68	FIRST ROUND	5	8
+2002	Missouri	82	12	"Missouri 82	UCLA	73	8	 UCLA 73	REGIONAL SEMIFINALS	
+1996	Kentucky	76	1	Kentucky 76"	Syracuse	67	4	 Syracuse 67	NATIONAL CHAMPIONSHIP	8	15
+2002	Missouri	93	12	No. 12 Missouri 93	Miami (Fla.)	80	5	No. 5 Miami (Fla.) 80	FIRST ROUND	7	13
+2002	Tulsa	71	12	No. 12 Tulsa 71	Marquette	69	5	No. 5 Marquette 69	FIRST ROUND	7	2
+2002	Creighton	83	12	No. 12 Creighton 83	Florida	82	5	No. 5 Florida 82	FIRST ROUND	7	1
+2002	Missouri	83	12	"Missouri 83	Ohio St.	67	4	 Ohio St. 67	SECOND ROUND	
+1991	Seton Hall	81	3	Seton Hall 81"	Creighton	69	11	 Creighton 69	SECOND ROUND	1	14
+2002	UNC Wilmington	93	13	No. 13 UNC Wilmington 93	Southern California	89	4	No. 4 Southern California 89	FIRST ROUND	9	4
+2003	Texas	85	1	"Texas 85	Michigan St.	76	7	 Michigan St. 76	REGIONAL FINALS	
+1995	UCLA	102	1	UCLA 102"	Connecticut	96	2	 Connecticut 96	REGIONAL FINALS	-1	-11
+2003	Oklahoma	65	1	"Oklahoma 65	Butler	54	12	 Butler 54	REGIONAL SEMIFINALS	
+2000	Michigan State	89	1	Michigan State 89"	Florida	76	5	 Florida 76	NATIONAL CHAMPIONSHIP	-4	-11
+2003	Arizona	88	1	"Arizona 88	Notre Dame	71	5	 Notre Dame 71	REGIONAL SEMIFINALS	
+1980	Louisiana State	68	1	Louisiana State 68"	Missouri	63	5	 Missouri 63	REGIONAL SEMIFINALS	-4	25
+2003	Texas	77	1	"Texas 77	Purdue	67	9	 Purdue 67	SECOND ROUND	
+1993	Michigan	72	1	Michigan 72"	George Washington	64	12	 George Washington 64	REGIONAL SEMIFINALS	-11	13
+2003	Kentucky	74	1	"Kentucky 74	Utah	54	9	 Utah 54	SECOND ROUND	
+1999	Michigan State	54	1	Michigan State 54"	Oklahoma	46	13	 Oklahoma 46	REGIONAL SEMIFINALS	-12	28
+2003	Oklahoma	71	1	No. 1 Oklahoma 71	S. Carolina St.	54	16	No. 16 S. Carolina St. 54	FIRST ROUND	-15	17
+2003	Kentucky	95	1	No. 1 Kentucky 95	IUPUI	64	16	No. 16 IUPUI 64	FIRST ROUND	-15	31
+2003	Texas	82	1	No. 1 Texas 82	UNC-Asheville	61	16	No. 16 UNC-Asheville 61	FIRST ROUND	-15	21
+2003	Arizona	80	1	No. 1 Arizona 80	Vermont	51	16	No. 16 Vermont 51	FIRST ROUND	-15	29
+2003	Kansas	94	2	"Kansas 94	Marquette	61	3	 Marquette 61	NATIONAL SEMIFINALS	
+1981	St. Joseph's	42	9	St. Joseph's 42"	Boston College	41	5	 Boston College 41	REGIONAL SEMIFINALS	-3	53
+2003	Kansas	78	2	"Kansas 78	Arizona	75	1	 Arizona 75	REGIONAL FINALS	
+1989	Missouri	108	3	Missouri 108"	Texas	89	11	 Texas 89	SECOND ROUND	-9	-11
+2003	Wake Forest	76	2	No. 2 Wake Forest 76	E. Tennessee St.	73	15	No. 15 E. Tennessee St. 73	FIRST ROUND	-13	3
+2003	Pittsburgh	87	2	No. 2 Pittsburgh 87	Wagner	61	15	No. 15 Wagner 61	FIRST ROUND	-13	26
+2003	Florida	85	2	No. 2 Florida 85	Sam Houston St.	55	15	No. 15 Sam Houston St. 55	FIRST ROUND	-13	30
+2003	Kansas	64	2	No. 2 Kansas 64	Utah St.	61	15	No. 15 Utah St. 61	FIRST ROUND	-13	3
+2003	Marquette	83	3	"Marquette 83	Kentucky	69	1	 Kentucky 69	REGIONAL FINALS	
+1985	Villanova	56	8	Villanova 56"	North Carolina	44	2	 North Carolina 44	REGIONAL FINALS	1	39
+2003	Duke	86	3	"Duke 86	C. Michigan	60	11	 C. Michigan 60	SECOND ROUND	
+1986	Iowa State	72	7	Iowa State 72"	Michigan	69	2	 Michigan 69	SECOND ROUND	1	17
+2003	Marquette	77	3	"Marquette 77	Pittsburgh	74	2	 Pittsburgh 74	REGIONAL SEMIFINALS	
+2005	Oklahoma State	85	2	Oklahoma State 85"	Southern Illinois	77	7	 Southern Illinois 77	SECOND ROUND	-4	0
+2003	Syracuse	81	3	"Syracuse 81	Kansas	78	2	 Kansas 78	NATIONAL CHAMPIONSHIP	
+1983	Villanova	55	3	Villanova 55"	Iowa	54	7	 Iowa 54	REGIONAL SEMIFINALS	-4	27
+2003	Marquette	72	3	No. 3 Marquette 72	Holy Cross	68	14	No. 14 Holy Cross 68	FIRST ROUND	-11	4
+2003	Duke	67	3	No. 3 Duke 67	Colorado St.	57	14	No. 14 Colorado St. 57	FIRST ROUND	-11	10
+2003	Syracuse	76	3	No. 3 Syracuse 76	Manhattan	65	14	No. 14 Manhattan 65	FIRST ROUND	-11	11
+2003	Xavier	71	3	No. 3 Xavier 71	Troy St.	59	14	No. 14 Troy St. 59	FIRST ROUND	-11	12
+2003	Stanford	77	4	No. 4 Stanford 77	San Diego	69	13	No. 13 San Diego 69	FIRST ROUND	-9	8
+2003	Illinois	65	4	No. 4 Illinois 65	W. Kentucky	60	13	No. 13 W. Kentucky 60	FIRST ROUND	-9	5
+2003	Louisville	86	4	No. 4 Louisville 86	Austin Peay	64	13	No. 13 Austin Peay 64	FIRST ROUND	-9	22
+2003	Connecticut	58	5	No. 5 Connecticut 58	BYU	53	12	No. 12 BYU 53	FIRST ROUND	-7	5
+2003	Wisconsin	81	5	No. 5 Wisconsin 81	Weber St.	74	12	No. 12 Weber St. 74	FIRST ROUND	-7	7
+2003	Notre Dame	70	5	No. 5 Notre Dame 70	WI-Milwaulee	69	12	No. 12 WI-Milwaulee 69	FIRST ROUND	-7	1
+2003	Wisconsin	61	5	"Wisconsin 61	Tulsa	60	13	 Tulsa 60	SECOND ROUND	
+2009	Gonzaga	83	4	Gonzaga 83"	Western Kentucky	81	12	 Western Kentucky 81	SECOND ROUND	-7	-20
+2003	Missouri	72	6	No. 6 Missouri 72	S. Illinois	71	11	No. 11 S. Illinois 71	FIRST ROUND	-5	1
+2003	Maryland	75	6	No. 6 Maryland 75	UNC-Wilmington	73	11	No. 11 UNC-Wilmington 73	FIRST ROUND	-5	2
+2003	Oklahoma St.	77	6	No. 6 Oklahoma St. 77	Pennsylvania	63	11	No. 11 Pennsylvania 63	FIRST ROUND	-5	14
+2003	Michigan St.	68	7	"Michigan St. 68	Florida	46	2	 Florida 46	SECOND ROUND	
+1990	Minnesota	82	6	Minnesota 82"	Syracuse	75	2	 Syracuse 75	REGIONAL SEMIFINALS	5	-7
+2003	Michigan St.	60	7	"Michigan St. 60	Maryland	58	6	 Maryland 58	REGIONAL SEMIFINALS	
+1995	Kentucky	82	1	Kentucky 82"	Tulane	60	9	 Tulane 60	SECOND ROUND	-2	0
+2003	Michigan St.	79	7	No. 7 Michigan St. 79	Colorado	64	10	No. 10 Colorado 64	FIRST ROUND	-3	15
+2003	California	76	8	No. 8 California 76	N.C. State	74	9	No. 9 N.C. State 74	FIRST ROUND	-1	2
+2003	Utah	60	9	No. 9 Utah 60	Oregon	58	8	No. 8 Oregon 58	FIRST ROUND	1	2
+2003	Gonzaga	74	9	No. 9 Gonzaga 74	Cincinnati	69	8	No. 8 Cincinnati 69	FIRST ROUND	1	5
+2003	Purdue	80	9	No. 9 Purdue 80	LSU	56	8	No. 8 LSU 56	FIRST ROUND	1	24
+2003	Arizona St.	84	10	No. 10 Arizona St. 84	Memphis	71	7	No. 7 Memphis 71	FIRST ROUND	3	13
+2003	Auburn	65	10	No. 10 Auburn 65	St. Joseph's	63	7	No. 7 St. Joseph's 63	FIRST ROUND	3	2
+2003	C. Michigan	79	11	No. 11 C. Michigan 79	Creighton	73	6	No. 6 Creighton 73	FIRST ROUND	5	6
+2003	Butler	47	12	No. 12 Butler 47	Mississippi St.	46	5	No. 5 Mississippi St. 46	FIRST ROUND	7	1
+2003	Tulsa	84	13	No. 13 Tulsa 84	Dayton	71	4	No. 4 Dayton 71	FIRST ROUND	9	13
+2004	St. Joseph's	84	1	"St. Joseph's 84	Wake Forest	80	4	 Wake Forest 80	REGIONAL SEMIFINALS	
+2003	Syracuse	95	3	Syracuse 95"	Texas	84	1	 Texas 84	NATIONAL SEMIFINALS	0	0
+2004	Duke	90	1	"Duke 90	Seton Hall	62	8	 Seton Hall 62	SECOND ROUND	
+1994	Arkansas	91	1	Arkansas 91"	Arizona	82	2	 Arizona 82	NATIONAL SEMIFINALS	-1	8
+2004	Duke	66	1	"Duke 66	Xavier	63	7	 Xavier 63	REGIONAL FINALS	
+1984	Georgetown	84	1	Georgetown 84"	Houston	75	2	 Houston 75	NATIONAL CHAMPIONSHIP	-1	-9
+2004	Duke	96	1	No. 1 Duke 96	Alabama St.	61	16	No. 16 Alabama St. 61	FIRST ROUND	-15	35
+2004	Kentucky	96	1	No. 1 Kentucky 96	Florida A&M	76	16	No. 16 Florida A&M 76	FIRST ROUND	-15	20
+2004	Stanford	71	1	No. 1 Stanford 71	TX-San Antonio	45	16	No. 16 TX-San Antonio 45	FIRST ROUND	-15	26
+2004	St. Joseph's	82	1	No. 1 St. Joseph's 82	Liberty	63	16	No. 16 Liberty 63	FIRST ROUND	-15	19
+2004	Oklahoma St.	63	2	"Oklahoma St. 63	Pittsburgh	51	3	 Pittsburgh 51	REGIONAL SEMIFINALS	
+2004	Georgia Tech	67	3	Georgia Tech 67"	Oklahoma St.	65	2	 Oklahoma St. 65	NATIONAL SEMIFINALS	0	-2
+2004	Connecticut	82	2	"Connecticut 82	Georgia Tech	73	3	 Georgia Tech 73	NATIONAL CHAMPIONSHIP	
+1986	Louisville	82	2	Louisville 82"	Bradley	68	7	 Bradley 68	SECOND ROUND	-5	14
+2004	Connecticut	87	2	"Connecticut 87	Alabama	71	8	 Alabama 71	REGIONAL FINALS	
+2006	Connecticut	87	1	Connecticut 87"	Kentucky	83	8	 Kentucky 83	SECOND ROUND	-6	4
+2004	Connecticut	73	2	"Connecticut 73	Vanderbilt	53	6	 Vanderbilt 53	REGIONAL SEMIFINALS	
+2011	Virginia Commonwealth	72	11	Virginia Commonwealth 72"	Florida State	71	10	 Florida State 71	REGIONAL SEMIFINALS	-8	2
+2004	Oklahoma St.	75	2	No. 2 Oklahoma St. 75	E. Washington	56	15	No. 15 E. Washington 56	FIRST ROUND	-13	19
+2004	Mississippi St.	85	2	No. 2 Mississippi St. 85	Monmouth	52	15	No. 15 Monmouth 52	FIRST ROUND	-13	33
+2004	Connecticut	70	2	No. 2 Connecticut 70	Vermont	53	15	No. 15 Vermont 53	FIRST ROUND	-13	17
+2004	Gonzaga	76	2	No. 2 Gonzaga 76	Valparaiso	49	15	No. 15 Valparaiso 49	FIRST ROUND	-13	27
+2004	Texas	78	3	"Texas 78	North Carolina	75	6	 North Carolina 75	SECOND ROUND	
+2004	Alabama	70	8	Alabama 70"	Stanford	67	1	 Stanford 67	SECOND ROUND	2	11
+2004	Pittsburgh	59	3	"Pittsburgh 59	Wisconsin	55	6	 Wisconsin 55	SECOND ROUND	
+1979	Penn	84	9	Penn 84"	Syracuse	76	4	 Syracuse 76	REGIONAL SEMIFINALS	-1	-17
+2004	Texas	66	3	No. 3 Texas 66	Princeton	49	14	No. 14 Princeton 49	FIRST ROUND	-11	17
+2004	Pittsburgh	53	3	No. 3 Pittsburgh 53	Central Florida	44	14	No. 14 Central Florida 44	FIRST ROUND	-11	9
+2004	Georgia Tech	65	3	No. 3 Georgia Tech 65	N. Iowa	60	14	No. 14 N. Iowa 60	FIRST ROUND	-11	5
+2004	N. Carolina St.	61	3	No. 3 N. Carolina St. 61	LA-Lafayette	52	14	No. 14 LA-Lafayette 52	FIRST ROUND	-11	9
+2004	Wake Forest	84	4	"Wake Forest 84	Manhattan	80	12	 Manhattan 80	SECOND ROUND	
+2004	t.		NA	St. 	Manhattan	80	12	 Manhattan 80	REGIONAL FINALS	
+1994	Purdue	83	1	Purdue 83"	Alabama	73	9	 Alabama 73	SECOND ROUND	-5	11
+2004	Kansas	78	4	"Kansas 78	Pacific	63	12	 Pacific 63	SECOND ROUND	
+2010	West Virginia	69	2	West Virginia 69"	Washington	56	11	 Washington 56	REGIONAL SEMIFINALS	-7	22
+2004	Wake Forest	79	4	No. 4 Wake Forest 79	VCU	78	13	No. 13 VCU 78	FIRST ROUND	-9	1
+2004	Kansas	78	4	No. 4 Kansas 78	Ill-Chicago	53	13	No. 13 Ill-Chicago 53	FIRST ROUND	-9	25
+2004	Cincnnati	80	4	No. 4 Cincnnati 80	E. Tennessee St.	77	13	No. 13 E. Tennessee St. 77	FIRST ROUND	-9	3
+2004	Maryland	86	4	No. 4 Maryland 86	UTEP	83	13	No. 13 UTEP 83	FIRST ROUND	-9	3
+2004	Syracuse	72	5	"Syracuse 72	Maryland	70	4	 Maryland 70	SECOND ROUND	
+2005	Kentucky	62	2	Kentucky 62"	Utah	52	6	 Utah 52	REGIONAL SEMIFINALS	-1	20
+2004	Illinois	72	5	No. 5 Illinois 72	Murray St.	53	12	No. 12 Murray St. 53	FIRST ROUND	-7	19
+2004	Syracuse	80	5	No. 5 Syracuse 80	BYU	75	12	No. 12 BYU 75	FIRST ROUND	-7	5
+2004	Wisconsin	76	6	No. 6 Wisconsin 76	Richmond	64	11	No. 11 Richmond 64	FIRST ROUND	-5	12
+2004	Boston College	58	6	No. 6 Boston College 58	Utah	51	11	No. 11 Utah 51	FIRST ROUND	-5	7
+2004	North Carolina	63	6	No. 6 North Carolina 63	Air Force	52	11	No. 11 Air Force 52	FIRST ROUND	-5	11
+2004	Vanderbilt	71	6	No. 6 Vanderbilt 71	W. Michigan	58	11	No. 11 W. Michigan 58	FIRST ROUND	-5	13
+2004	Xavier	89	7	"Xavier 89	Mississippi St.	74	2	 Mississippi St. 74	SECOND ROUND	
+1988	Kansas State	73	4	Kansas State 73"	Purdue	70	1	 Purdue 70	REGIONAL SEMIFINALS	6	19
+2004	Memphis	59	7	No. 7 Memphis 59	South Carolina	43	10	No. 10 South Carolina 43	FIRST ROUND	-3	16
+2004	Xavier	80	7	No. 7 Xavier 80	Louisville	70	10	No. 10 Louisville 70	FIRST ROUND	-3	10
+2004	DePaul	76	7	No. 7 DePaul 76	Dayton	69	10	No. 10 Dayton 69	FIRST ROUND	-3	7
+2004	Xavier	79	7	"Xavier 79	Texas	71	3	 Texas 71	REGIONAL SEMIFINALS	
+2003	Syracuse	79	3	Syracuse 79"	Auburn	78	10	 Auburn 78	REGIONAL SEMIFINALS	-3	1
+2004	Texas Tech	76	8	No. 8 Texas Tech 76	Charlotte	73	9	No. 9 Charlotte 73	FIRST ROUND	-1	3
+2004	Seton Hall	80	8	No. 8 Seton Hall 80	Arizona	76	9	No. 9 Arizona 76	FIRST ROUND	-1	4
+2004	Alabama	65	8	No. 8 Alabama 65	S. Illinois	64	9	No. 9 S. Illinois 64	FIRST ROUND	-1	1
+2004	UAB	76	9	"UAB 76	Kentucky	75	1	 Kentucky 75	SECOND ROUND	
+1996	Syracuse	77	4	Syracuse 77"	Mississippi State	69	5	 Mississippi State 69	NATIONAL SEMIFINALS	4	7
+2004	UAB	102	9	No. 9 UAB 102	Washington	100	8	No. 8 Washington 100	FIRST ROUND	1	2
+2004	Nevada	91	10	"Nevada 91	Gonzaga	72	2	 Gonzaga 72	SECOND ROUND	
+1995	Mississippi Stte	78	NA	Mississippi Stte 78"	Utah	64	4	 Utah 64	SECOND ROUND	6	27
+2004	Nevada	72	10	No. 10 Nevada 72	Michigan St.	66	7	No. 7 Michigan St. 66	FIRST ROUND	3	6
+2004	Manhattan	75	12	No. 12 Manhattan 75	Florida	60	5	No. 5 Florida 60	FIRST ROUND	7	15
+2004	Pacific	66	12	No. 12 Pacific 66	Providence	58	5	No. 5 Providence 58	FIRST ROUND	7	8
+2005	Illinois	71	1	"Illinois 71	Nevada	59	9	 Nevada 59	SECOND ROUND	
+2009	Michigan State	82	2	Michigan State 82"	Connecticut	73	1	 Connecticut 73	NATIONAL SEMIFINALS	0	-2
+2005	North Carolina	87	1	"North Carolina 87	Michigan State	71	5	 Michigan State 71	NATIONAL SEMIFINALS	
+1992	Indiana	106	2	Indiana 106"	UCLA	79	1	 UCLA 79	REGIONAL FINALS	0	8
+2005	Illinois	90	1	"Illinois 90	Arizona	89	3	 Arizona 89	REGIONAL FINALS	
+1995	Oklahoma State	66	4	Oklahoma State 66"	Alabama	52	5	 Alabama 52	SECOND ROUND	-4	38
+2005	North Carolina	67	1	"North Carolina 67	Villanova	66	5	 Villanova 66	REGIONAL SEMIFINALS	
+1988	Oklahoma	108	1	Oklahoma 108"	Louisville	98	5	 Louisville 98	REGIONAL SEMIFINALS	-4	-31
+2005	Washington	97	1	"Washington 97	Pacific	79	8	 Pacific 79	SECOND ROUND	
+2004	Alabama	80	8	Alabama 80"	Syracuse	71	5	 Syracuse 71	REGIONAL SEMIFINALS	-4	26
+2005	North Carolina	75	1	"North Carolina 75	Illinois	70	1	 Illinois 70	NATIONAL CHAMPIONSHIP	
+2000	Iowa State	80	2	Iowa State 80"	UCLA	56	6	 UCLA 56	REGIONAL SEMIFINALS	-5	19
+2005	North Carolina	92	1	"North Carolina 92	Iowa State	65	9	 Iowa State 65	SECOND ROUND	
+2008	UCLA	88	1	UCLA 88"	Western Kentucky	78	12	 Western Kentucky 78	REGIONAL SEMIFINALS	-11	14
+2005	Washington	88	1	No. 1 Washington 88	Montana	77	16	No. 16 Montana 77	FIRST ROUND	-15	11
+2005	Duke	57	1	No. 1 Duke 57	Delaware State	46	16	No. 16 Delaware State 46	FIRST ROUND	-15	11
+2005	Illinois	67	1	No. 1 Illinois 67	Fairleigh Dickinson	55	16	No. 16 Fairleigh Dickinson 55	FIRST ROUND	-15	12
+2005	North Carolina	96	1	No. 1 North Carolina 96	Oakland Mich.	68	16	No. 16 Oakland Mich. 68	FIRST ROUND	-15	28
+2005	Kentucky	69	2	"Kentucky 69	Cincinnati	60	7	 Cincinnati 60	SECOND ROUND	
+1999	Kentucky	58	3	Kentucky 58"	Miami (Ohio)	43	10	 Miami (Ohio) 43	REGIONAL SEMIFINALS	-8	26
+2005	Connecticut	77	2	No. 2 Connecticut 77	Central Florida	71	15	No. 15 Central Florida 71	FIRST ROUND	-13	6
+2005	Kentucky	72	2	No. 2 Kentucky 72	Eastern Kentucky	64	15	No. 15 Eastern Kentucky 64	FIRST ROUND	-13	8
+2005	Wake Forest	70	2	No. 2 Wake Forest 70	Chattanooga	54	15	No. 15 Chattanooga 54	FIRST ROUND	-13	16
+2005	Oklahoma State	63	2	No. 2 Oklahoma State 63	Southeastern Louisiana	50	15	No. 15 Southeastern Louisiana 50	FIRST ROUND	-13	13
+2005	Arizona	79	3	"Arizona 79	Oklahoma State	78	2	 Oklahoma State 78	REGIONAL SEMIFINALS	
+2007	Ohio State	78	1	Ohio State 78"	Xavier	71	9	 Xavier 71	SECOND ROUND	-6	8
+2005	Arizona	85	3	"Arizona 85	UAB	63	11	 UAB 63	SECOND ROUND	
+1995	Massachusetts	75	2	Massachusetts 75"	Stanford	53	10	 Stanford 53	SECOND ROUND	-7	32
+2005	Gonzaga	74	3	No. 3 Gonzaga 74	Winthrop	64	14	No. 14 Winthrop 64	FIRST ROUND	-11	10
+2005	Oklahoma	84	3	No. 3 Oklahoma 84	Niagara	67	14	No. 14 Niagara 67	FIRST ROUND	-11	17
+2005	Arizona	66	3	No. 3 Arizona 66	Utah State	53	14	No. 14 Utah State 53	FIRST ROUND	-11	13
+2005	Louisville	93	4	"Louisville 93	Washington	79	1	 Washington 79	REGIONAL SEMIFINALS	
+2000	Florida	93	5	Florida 93"	Illinois	76	4	 Illinois 76	SECOND ROUND	0	17
+2005	Louisville	76	4	"Louisville 76	Georgia Tech	54	5	 Georgia Tech 54	SECOND ROUND	
+1996	Utah	73	4	Utah 73"	Iowa State	67	5	 Iowa State 67	SECOND ROUND	-1	9
+2005	Florida	67	4	No. 4 Florida 67	Ohio	62	13	No. 13 Ohio 62	FIRST ROUND	-9	5
+2005	Louisville	68	4	No. 4 Louisville 68	Louisiana-Lafayette	62	13	No. 13 Louisiana-Lafayette 62	FIRST ROUND	-9	6
+2005	Boston College	85	4	No. 4 Boston College 85	Pennsylvania	65	13	No. 13 Pennsylvania 65	FIRST ROUND	-9	20
+2005	Michigan State	94	5	"Michigan State 94	Kentucky	88	2	 Kentucky 88	REGIONAL FINALS	
+1997	Arizona	84	4	Arizona 84"	Kentucky	79	1	 Kentucky 79	NATIONAL CHAMPIONSHIP	4	15
+2005	Michigan State	78	5	"Michigan State 78	Duke	68	1	 Duke 68	REGIONAL SEMIFINALS	
+1990	Michigan State	62	1	Michigan State 62"	UC Santa Barbara	58	9	 UC Santa Barbara 58	SECOND ROUND	-4	20
+2005	Michigan State	89	5	No. 5 Michigan State 89	Old Dominion	81	12	No. 12 Old Dominion 81	FIRST ROUND	-7	8
+2005	Villanova	55	5	No. 5 Villanova 55	New Mexico	47	12	No. 12 New Mexico 47	FIRST ROUND	-7	8
+2005	Georgia Tech	80	5	No. 5 Georgia Tech 80	George Washington	68	12	No. 12 George Washington 68	FIRST ROUND	-7	12
+2005	Texas Tech	71	6	"Texas Tech 71	Gonzaga	69	3	 Gonzaga 69	SECOND ROUND	
+1991	Kansas	77	3	Kansas 77"	Pittsburgh	66	6	 Pittsburgh 66	SECOND ROUND	0	5
+2005	Wisconsin	71	6	"Wisconsin 71	Bucknell	62	14	 Bucknell 62	SECOND ROUND	
+2003	Marquette	101	3	Marquette 101"	Missouri	92	6	 Missouri 92	SECOND ROUND	0	-21
+2005	Wisconsin	57	6	No. 6 Wisconsin 57	Northern Iowa	52	11	No. 11 Northern Iowa 52	FIRST ROUND	-5	5
+2005	Texas Tech	78	6	No. 6 Texas Tech 78	UCLA	66	11	No. 11 UCLA 66	FIRST ROUND	-5	12
+2005	Utah	60	6	No. 6 Utah 60	Texas-El Paso	54	11	No. 11 Texas-El Paso 54	FIRST ROUND	-5	6
+2005	West Virginia	111	7	"West Virginia 111	Wake Forest	105	2	 Wake Forest 105	SECOND ROUND	
+2001	Stanford	90	1	Stanford 90"	St. Joseph's	83	9	 St. Joseph's 83	SECOND ROUND	-2	28
+2005	West Virginia	63	7	No. 7 West Virginia 63	Creighton	61	10	No. 10 Creighton 61	FIRST ROUND	-3	2
+2005	Cincinnati	76	7	No. 7 Cincinnati 76	Iowa	64	10	No. 10 Iowa 64	FIRST ROUND	-3	12
+2005	Southern Illinois	65	7	No. 7 Southern Illinois 65	Saint Mary's Calif.	56	10	No. 10 Saint Mary's Calif. 56	FIRST ROUND	-3	9
+2005	West Virginia	65	7	"West Virginia 65	Texas Tech	60	6	 Texas Tech 60	REGIONAL SEMIFINALS	
+1996	Massachusetts	79	1	Massachusetts 79"	Arkansas	63	12	 Arkansas 63	REGIONAL SEMIFINALS	-5	2
+2005	Pacific	79	8	No. 8 Pacific 79	Pittsburgh	71	9	No. 9 Pittsburgh 71	FIRST ROUND	-1	8
+2005	Mississippi State	93	9	No. 9 Mississippi State 93	Stanford	70	8	No. 8 Stanford 70	FIRST ROUND	1	23
+2005	Nevada	61	9	No. 9 Nevada 61	Texas	57	8	No. 8 Texas 57	FIRST ROUND	1	4
+2005	Iowa State	64	9	No. 9 Iowa State 64	Minnesota	53	8	No. 8 Minnesota 53	FIRST ROUND	1	11
+2005	North Carolina State	65	10	"North Carolina State 65	Connecticut	62	2	 Connecticut 62	SECOND ROUND	
+1985	Georgetown	77	1	Georgetown 77"	St. John's	59	1	 St. John's 59	NATIONAL SEMIFINALS	9	6
+2005	North Carolina State	75	10	No. 10 North Carolina State 75	Charlotte	63	7	No. 7 Charlotte 63	FIRST ROUND	3	12
+2005	UAB	82	11	No. 11 UAB 82	LSU	68	6	No. 6 LSU 68	FIRST ROUND	5	14
+2005	Wisconsin-Milwaukee	83	12	No. 12 Wisconsin-Milwaukee 83	Alabama	73	5	No. 5 Alabama 73	FIRST ROUND	7	10
+2005	Wisconsin-Milwaukee	83	12	"Wisconsin-Milwaukee 83	Boston College	75	4	 Boston College 75	SECOND ROUND	
+1981	Virginia	74	1	Virginia 74"	Brigham Young	60	6	 Brigham Young 60	REGIONAL FINALS	6	23
+2005	Vermont	60	13	No. 13 Vermont 60	Syracuse	57	4	No. 4 Syracuse 57	FIRST ROUND	9	3
+2005	Bucknell	64	14	No. 14 Bucknell 64	Kansas	63	3	No. 3 Kansas 63	FIRST ROUND	11	1
+2006	Duke	74	1	"Duke 74	George Washington	61	8	 George Washington 61	SECOND ROUND	
+1989	Georgetown	69	1	Georgetown 69"	North Carolina State	61	5	 North Carolina State 61	REGIONAL SEMIFINALS	-4	13
+2006	Villanova	60	1	"Villanova 60	Boston College	59	4	 Boston College 59	REGIONAL SEMIFINALS	
+1996	Wake Forest	60	2	Wake Forest 60"	Louisville	59	6	 Louisville 59	REGIONAL SEMIFINALS	-5	1
+2006	Connecticut	98	1	"Connecticut 98	Washington	92	5	 Washington 92	REGIONAL SEMIFINALS	
+2006	Memphis	80	1	Memphis 80"	Bradley	64	13	 Bradley 64	REGIONAL SEMIFINALS	-12	34
+2006	Memphis	94	1	No. 1 Memphis 94	Oral Roberts	78	16	No. 16 Oral Roberts 78	FIRST ROUND	-15	16
+2006	Connecticut	72	1	No. 1 Connecticut 72	Albany N.Y.	59	16	No. 16 Albany N.Y. 59	FIRST ROUND	-15	13
+2006	Duke	70	1	No. 1 Duke 70	Southern University	54	16	No. 16 Southern University 54	FIRST ROUND	-15	16
+2006	Villanova	58	1	No. 1 Villanova 58	Monmouth N.J.	45	16	No. 16 Monmouth N.J. 45	FIRST ROUND	-15	13
+2006	Texas	74	2	"Texas 74	West Virginia	71	6	 West Virginia 71	REGIONAL SEMIFINALS	
+1986	Kentucky	68	1	Kentucky 68"	Alabama	63	5	 Alabama 63	REGIONAL SEMIFINALS	-3	11
+2006	UCLA	50	2	"UCLA 50	Memphis	45	1	 Memphis 45	REGIONAL FINALS	
+2000	Syracuse	52	4	Syracuse 52"	Kentucky	50	5	 Kentucky 50	SECOND ROUND	-3	0
+2006	Texas	60	2	No. 2 Texas 60	Pennsylvania	52	15	No. 15 Pennsylvania 52	FIRST ROUND	-13	8
+2006	Tennessee	63	2	No. 2 Tennessee 63	Winthrop	61	15	No. 15 Winthrop 61	FIRST ROUND	-13	2
+2006	Ohio State	70	2	No. 2 Ohio State 70	Davidson	62	15	No. 15 Davidson 62	FIRST ROUND	-13	8
+2006	UCLA	78	2	No. 2 UCLA 78	Belmont	44	15	No. 15 Belmont 44	FIRST ROUND	-13	34
+2006	Florida	75	3	"Florida 75	Villanova	62	1	 Villanova 62	REGIONAL FINALS	
+2012	Syracuse	64	1	Syracuse 64"	Wisconsin	63	4	 Wisconsin 63	REGIONAL SEMIFINALS	-1	12
+2006	Florida	57	3	"Florida 57	Georgetown	53	7	 Georgetown 53	REGIONAL SEMIFINALS	
+2000	Iowa State	79	2	Iowa State 79"	Auburn	60	7	 Auburn 60	SECOND ROUND	-4	-3
+2006	Florida	73	3	"Florida 73	George Mason	58	11	 George Mason 58	NATIONAL SEMIFINALS	
+1986	Louisville	88	2	Louisville 88"	Louisiana State	77	11	 Louisiana State 77	NATIONAL SEMIFINALS	-8	-4
+2006	Gonzaga	79	3	No. 3 Gonzaga 79	Xavier	75	14	No. 14 Xavier 75	FIRST ROUND	-11	4
+2006	Florida	76	3	No. 3 Florida 76	South Alabama	50	14	No. 14 South Alabama 50	FIRST ROUND	-11	26
+2006	North Carolina	69	3	No. 3 North Carolina 69	Murray State	65	14	No. 14 Murray State 65	FIRST ROUND	-11	4
+2006	Boston College	69	4	"Boston College 69	Montana	56	12	 Montana 56	SECOND ROUND	
+1985	North Carolina	62	2	North Carolina 62"	Auburn	56	11	 Auburn 56	REGIONAL SEMIFINALS	-7	13
+2006	LSU	70	4	"LSU 70	Texas	60	2	 Texas 60	REGIONAL FINALS	
+1994	Syracuse	64	4	Syracuse 64"	Wisconsin-Green Bay	59	12	 Wisconsin-Green Bay 59	SECOND ROUND	-8	11
+2006	Illinois	78	4	No. 4 Illinois 78	Air Force	69	13	No. 13 Air Force 69	FIRST ROUND	-9	9
+2006	Boston College	88	4	No. 4 Boston College 88	Pacific	76	13	No. 13 Pacific 76	FIRST ROUND	-9	12
+2006	LSU	80	4	No. 4 LSU 80	Iona	64	13	No. 13 Iona 64	FIRST ROUND	-9	16
+2006	Washington	75	5	No. 5 Washington 75	Utah State	61	12	No. 12 Utah State 61	FIRST ROUND	-7	14
+2006	Pittsburgh	79	5	No. 5 Pittsburgh 79	Kent State	64	12	No. 12 Kent State 64	FIRST ROUND	-7	15
+2006	West Virginia	67	6	"West Virginia 67	Northwestern State	54	14	 Northwestern State 54	SECOND ROUND	
+1980	UCLA	67	8	UCLA 67"	Purdue	62	6	 Purdue 62	NATIONAL SEMIFINALS	0	5
+2006	West Virginia	64	6	No. 6 West Virginia 64	Southern Illinois	46	11	No. 11 Southern Illinois 46	FIRST ROUND	-5	18
+2006	Indiana	87	6	No. 6 Indiana 87	San Diego State	83	11	No. 11 San Diego State 83	FIRST ROUND	-5	4
+2006	Georgetown	54	7	No. 7 Georgetown 54	Northern Iowa	49	10	No. 10 Northern Iowa 49	FIRST ROUND	-3	5
+2006	Wichita State	86	7	No. 7 Wichita State 86	Seton Hall	66	10	No. 10 Seton Hall 66	FIRST ROUND	-3	20
+2006	Kentucky	69	8	No. 8 Kentucky 69	UAB	64	9	No. 9 UAB 64	FIRST ROUND	-1	5
+2006	George Washington	88	8	No. 8 George Washington 88	NC-Wilmington	85	9	No. 9 NC-Wilmington 85	FIRST ROUND	-1	3
+2006	Arizona	94	8	No. 8 Arizona 94	Wisconsin	75	9	No. 9 Wisconsin 75	FIRST ROUND	-1	19
+2006	Bucknell	59	9	No. 9 Bucknell 59	Arkansas	55	8	No. 8 Arkansas 55	FIRST ROUND	1	4
+2006	Alabama	90	10	No. 10 Alabama 90	Marquette	85	7	No. 7 Marquette 85	FIRST ROUND	3	5
+2006	N.C. State	58	10	No. 10 N.C. State 58	California	52	7	No. 7 California 52	FIRST ROUND	3	6
+2006	George Mason	86	11	"George Mason 86	Connecticut	84	1	 Connecticut 84	REGIONAL FINALS	
+2012	Kentucky	67	1	Kentucky 67"	Kansas	59	2	 Kansas 59	NATIONAL CHAMPIONSHIP	9	27
+2006	George Mason	75	11	No. 11 George Mason 75	Michigan State	65	6	No. 6 Michigan State 65	FIRST ROUND	5	10
+2006	Wisconsin-Milwaukee	82	11	No. 11 Wisconsin-Milwaukee 82	Oklahoma	74	6	No. 6 Oklahoma 74	FIRST ROUND	5	8
+2006	Texas A&M	66	12	No. 12 Texas A&M 66	Syracuse	58	5	No. 5 Syracuse 58	FIRST ROUND	7	8
+2006	Montana	87	12	No. 12 Montana 87	Nevada	79	5	No. 5 Nevada 79	FIRST ROUND	7	8
+2006	Bradley	77	13	No. 13 Bradley 77	Kansas	73	4	No. 4 Kansas 73	FIRST ROUND	9	4
+2006	Northwestern State	64	14	No. 14 Northwestern State 64	Iowa	63	3	No. 3 Iowa 63	FIRST ROUND	11	1
+2007	Ohio State	85	1	"Ohio State 85	Tennessee	84	5	 Tennessee 84	REGIONAL SEMIFINALS	
+1998	Kentucky	86	2	Kentucky 86"	Duke	84	1	 Duke 84	REGIONAL FINALS	0	1
+2007	Florida	84	1	"Florida 84	Ohio State	75	1	 Ohio State 75	NATIONAL CHAMPIONSHIP	
+1998	Utah	65	3	Utah 65"	North Carolina	59	1	 North Carolina 59	NATIONAL SEMIFINALS	0	25
+2007	North Carolina	81	1	"North Carolina 81	Michigan State	67	9	 Michigan State 67	SECOND ROUND	
+2005	North Carolina	88	1	North Carolina 88"	Wisconsin	82	6	 Wisconsin 82	REGIONAL FINALS	-5	-1
+2007	Florida	74	1	"Florida 74	Purdue	67	9	 Purdue 67	SECOND ROUND	
+2009	Missouri	83	3	Missouri 83"	Marquette	79	6	 Marquette 79	SECOND ROUND	-5	-5
+2007	Florida	76	1	"Florida 76	UCLA	66	2	 UCLA 66	NATIONAL SEMIFINALS	
+2007	Kansas	88	1	Kansas 88"	Kentucky	76	8	 Kentucky 76	SECOND ROUND	-7	0
+2007	Kansas	61	1	"Kansas 61	Southern Illinois	58	4	 Southern Illinois 58	REGIONAL SEMIFINALS	
+2003	Kansas	108	2	Kansas 108"	Arizona St.	76	10	 Arizona St. 76	SECOND ROUND	-9	-15
+2007	Florida	65	1	"Florida 65	Butler	57	5	 Butler 57	REGIONAL SEMIFINALS	
+2002	Illinois	72	4	Illinois 72"	Creighton	60	12	 Creighton 60	SECOND ROUND	-11	5
+2007	Florida	85	1	"Florida 85	Oregon	77	3	 Oregon 77	REGIONAL FINALS	
+1985	Maryland	64	5	Maryland 64"	Navy	59	13	 Navy 59	SECOND ROUND	-12	26
+2007	Ohio State	78	1	No. 1 Ohio State 78	C. Connecticut State	57	16	No. 16 C. Connecticut State 57	FIRST ROUND	-15	21
+2007	Florida	112	1	No. 1 Florida 112	Jackson State	69	16	No. 16 Jackson State 69	FIRST ROUND	-15	43
+2007	Kansas	107	1	No. 1 Kansas 107	Niagara	67	16	No. 16 Niagara 67	FIRST ROUND	-15	40
+2007	North Carolina	86	1	No. 1 North Carolina 86	Eastern Kentucky	65	16	No. 16 Eastern Kentucky 65	FIRST ROUND	-15	21
+2007	Georgetown	66	2	"Georgetown 66	Vanderbilt	65	6	 Vanderbilt 65	REGIONAL SEMIFINALS	
+1989	Michigan	83	3	Michigan 83"	Illinois	81	1	 Illinois 81	NATIONAL SEMIFINALS	1	-15
+2007	UCLA	64	2	"UCLA 64	Pittsburgh	55	3	 Pittsburgh 55	REGIONAL SEMIFINALS	
+1981	Indiana	63	3	Indiana 63"	North Carolina	50	2	 North Carolina 50	NATIONAL CHAMPIONSHIP	0	14
+2007	Georgetown	62	2	"Georgetown 62	Boston College	55	7	 Boston College 55	SECOND ROUND	
+2008	Davidson	74	10	Davidson 74"	Georgetown	70	2	 Georgetown 70	SECOND ROUND	0	-8
+2007	UCLA	68	2	"UCLA 68	Kansas	55	1	 Kansas 55	REGIONAL FINALS	
+2003	Connecticut	85	5	Connecticut 85"	Stanford	74	4	 Stanford 74	SECOND ROUND	-2	-6
+2007	Memphis	65	2	"Memphis 65	Texas A&M;	64	3	 Texas A&M; 64	REGIONAL SEMIFINALS	
+2004	Georgia Tech	79	3	Georgia Tech 79"	Kansas	71	4	 Kansas 71	REGIONAL FINALS	-2	-6
+2007	UCLA	54	2	"UCLA 54	Indiana	49	7	 Indiana 49	SECOND ROUND	
+1997	North Carolina	97	1	North Carolina 97"	Louisville	74	6	 Louisville 74	REGIONAL FINALS	-4	-20
+2007	Georgetown	96	2	"Georgetown 96	North Carolina	84	1	 North Carolina 84	REGIONAL FINALS	
+2010	Kentucky	62	1	Kentucky 62"	Cornell	45	12	 Cornell 45	REGIONAL SEMIFINALS	-10	51
+2007	Memphis	73	2	No. 2 Memphis 73	North Texas	58	15	No. 15 North Texas 58	FIRST ROUND	-13	15
+2007	Wisconsin	76	2	No. 2 Wisconsin 76	Texas A&am;M-Corpus Christi	63	15	No. 15 Texas A&am;M-Corpus Christi 63	FIRST ROUND	-13	13
+2007	UCLA	70	2	No. 2 UCLA 70	Weber State	42	15	No. 15 Weber State 42	FIRST ROUND	-13	28
+2007	Georgetown	80	2	No. 2 Georgetown 80	Belmont	55	15	No. 15 Belmont 55	FIRST ROUND	-13	25
+2007	Pittsburgh	84	3	"Pittsburgh 84	Virginia Commonwealth	79	11	 Virginia Commonwealth 79	SECOND ROUND	
+1983	Georgia	82	4	Georgia 82"	North Carolina	77	2	 North Carolina 77	REGIONAL FINALS	1	7
+2007	Texas A&M;	72	3	"Texas A&M; 72	Louisville	69	6	 Louisville 69	SECOND ROUND	
+2001	Arizona	66	2	Arizona 66"	Mississippi	56	3	 Mississippi 56	REGIONAL SEMIFINALS	0	16
+2007	Oregon	76	3	"Oregon 76	UNLV	72	7	 UNLV 72	REGIONAL SEMIFINALS	
+1989	North Carolina	88	2	North Carolina 88"	UCLA	81	7	 UCLA 81	SECOND ROUND	-4	-5
+2007	Oregon	75	3	"Oregon 75	Winthrop	61	11	 Winthrop 61	SECOND ROUND	
+2009	Arizona	71	12	Arizona 71"	Cleveland State	57	13	 Cleveland State 57	SECOND ROUND	-10	18
+2007	Washington State	70	3	No. 3 Washington State 70	Oral Roberts	54	14	No. 14 Oral Roberts 54	FIRST ROUND	-11	16
+2007	Texas A&M;	68	3	No. 3 Texas A&M; 68	Pennsylvania	52	14	No. 14 Pennsylvania 52	FIRST ROUND	-11	16
+2007	Oregon	58	3	No. 3 Oregon 58	Miami (Ohio)	56	14	No. 14 Miami (Ohio) 56	FIRST ROUND	-11	2
+2007	Pittsburgh	79	3	No. 3 Pittsburgh 79	Wright State	58	14	No. 14 Wright State 58	FIRST ROUND	-11	21
+2007	Southern Illinois	63	4	"Southern Illinois 63	Virginia Tech	48	5	 Virginia Tech 48	SECOND ROUND	
+2000	North Carolina	74	8	North Carolina 74"	Tennessee	69	4	 Tennessee 69	REGIONAL SEMIFINALS	0	-6
+2007	Texas	79	4	No. 4 Texas 79	New Mexico State	67	13	No. 13 New Mexico State 67	FIRST ROUND	-9	12
+2007	Maryland	82	4	No. 4 Maryland 82	Davidson	70	13	No. 13 Davidson 70	FIRST ROUND	-9	12
+2007	Virginia	84	4	No. 4 Virginia 84	Albany	57	13	No. 13 Albany 57	FIRST ROUND	-9	27
+2007	Southern Illinois	61	4	No. 4 Southern Illinois 61	Holy Cross	51	13	No. 13 Holy Cross 51	FIRST ROUND	-9	10
+2007	Southern California	87	5	"Southern California 87	Texas	68	4	 Texas 68	SECOND ROUND	
+2002	Kent St.	71	10	Kent St. 71"	Alabama	58	2	 Alabama 58	SECOND ROUND	3	29
+2007	Butler	62	5	"Butler 62	Maryland	59	4	 Maryland 59	SECOND ROUND	
+1979	DePaul	96	2	DePaul 96"	Penn	93	9	 Penn 93	NATIONAL THIRD PLACE	-4	-31
+2007	Tennessee	121	5	No. 5 Tennessee 121	Long Beach State	86	12	No. 12 Long Beach State 86	FIRST ROUND	-7	35
+2007	Southern California	77	5	No. 5 Southern California 77	Arkansas	60	12	No. 12 Arkansas 60	FIRST ROUND	-7	17
+2007	Butler	57	5	No. 5 Butler 57	Old Dominion	46	12	No. 12 Old Dominion 46	FIRST ROUND	-7	11
+2007	Virginia Tech	54	5	No. 5 Virginia Tech 54	Illinois	52	12	No. 12 Illinois 52	FIRST ROUND	-7	2
+2007	Louisville	78	6	No. 6 Louisville 78	Stanford	58	11	No. 11 Stanford 58	FIRST ROUND	-5	20
+2007	Vanderbilt	77	6	No. 6 Vanderbilt 77	George Washington	44	11	No. 11 George Washington 44	FIRST ROUND	-5	33
+2007	UNLV	67	7	No. 7 UNLV 67	Georgia Tech	63	10	No. 10 Georgia Tech 63	FIRST ROUND	-3	4
+2007	Boston College	84	7	No. 7 Boston College 84	Texas Tech	75	10	No. 10 Texas Tech 75	FIRST ROUND	-3	9
+2007	Indiana	70	7	No. 7 Indiana 70	Gonzaga	57	10	No. 10 Gonzaga 57	FIRST ROUND	-3	13
+2007	Nevada	77	7	No. 7 Nevada 77	Creighton	71	10	No. 10 Creighton 71	FIRST ROUND	-3	6
+2007	Kentucky	67	8	No. 8 Kentucky 67	Villanova	58	9	No. 9 Villanova 58	FIRST ROUND	-1	9
+2007	Xavier	79	9	No. 9 Xavier 79	Brigham Young	77	8	No. 8 Brigham Young 77	FIRST ROUND	1	2
+2007	Michigan State	61	9	No. 9 Michigan State 61	Marquette	49	8	No. 8 Marquette 49	FIRST ROUND	1	12
+2007	Purdue	72	9	No. 9 Purdue 72	Arizona	63	8	No. 8 Arizona 63	FIRST ROUND	1	9
+2007	Winthrop	74	11	No. 11 Winthrop 74	Notre Dame	64	6	No. 6 Notre Dame 64	FIRST ROUND	5	10
+2007	Virginia Commonwealth	79	11	No. 11 Virginia Commonwealth 79	Duke	77	6	No. 6 Duke 77	FIRST ROUND	5	2
+2007	Niagara	77	16	"Niagara 77	Florida A&M	69	NA	 Florida A&M 69	OPENING ROUND	
+2002	UCLA	105	8	UCLA 105"	Cincinnati	101	1	 Cincinnati 101	SECOND ROUND	15	-24
+2008	Kansas	75	1	"Kansas 75	UNLV	56	8	 UNLV 56	SECOND ROUND	
+1980	Purdue	76	6	Purdue 76"	Indiana	69	2	 Indiana 69	REGIONAL SEMIFINALS	-1	6
+2008	Kansas	59	1	"Kansas 59	Davidson	57	10	 Davidson 57	REGIONAL FINALS	
+2007	UNLV	74	7	UNLV 74"	Wisconsin	68	2	 Wisconsin 68	SECOND ROUND	-1	-9
+2008	Memphis	85	1	"Memphis 85	Texas	67	2	 Texas 67	REGIONAL FINALS	
+1995	North Carolina	74	2	North Carolina 74"	Georgetown	64	6	 Georgetown 64	REGIONAL SEMIFINALS	-5	21
+2008	North Carolina	108	1	"North Carolina 108	Arkansas	77	9	 Arkansas 77	SECOND ROUND	
+1982	Houston	99	6	Houston 99"	Boston College	92	8	 Boston College 92	REGIONAL FINALS	-7	16
+2008	Memphis	77	1	"Memphis 77	Mississippi State	74	8	 Mississippi State 74	SECOND ROUND	
+1987	Indiana	77	1	Indiana 77"	Louisiana State	76	10	 Louisiana State 76	REGIONAL FINALS	-9	1
+2008	Memphis	87	1	No. 1 Memphis 87	Texas-Arlington	63	16	No. 16 Texas-Arlington 63	FIRST ROUND	-15	24
+2008	UCLA	70	1	No. 1 UCLA 70	Mississippi Valley State	29	16	No. 16 Mississippi Valley State 29	FIRST ROUND	-15	41
+2008	North Carolina	113	1	No. 1 North Carolina 113	Mount St. Mary's Md.	74	16	No. 16 Mount St. Mary's Md. 74	FIRST ROUND	-15	39
+2008	Kansas	85	1	No. 1 Kansas 85	Portland State	61	16	No. 16 Portland State 61	FIRST ROUND	-15	24
+2008	Tennessee	76	2	"Tennessee 76	Butler	71	7	 Butler 71	SECOND ROUND	
+2011	Kentucky	62	4	Kentucky 62"	Ohio State	60	1	 Ohio State 60	REGIONAL SEMIFINALS	1	16
+2008	Texas	75	2	"Texas 75	Miami	72	NA	 Miami 72	SECOND ROUND	
+2004	Oklahoma St.	64	2	Oklahoma St. 64"	St. Joseph's	62	1	 St. Joseph's 62	REGIONAL FINALS	1	13
+2008	Texas	82	2	"Texas 82	Stanford	62	3	 Stanford 62	REGIONAL SEMIFINALS	
+2009	Syracuse	78	3	Syracuse 78"	Arizona State	67	6	 Arizona State 67	SECOND ROUND	-4	15
+2008	Duke	71	2	No. 2 Duke 71	Belmont	70	15	No. 15 Belmont 70	FIRST ROUND	-13	1
+2008	Georgetown	66	2	No. 2 Georgetown 66	Maryland-Baltimore County	47	15	No. 15 Maryland-Baltimore County 47	FIRST ROUND	-13	19
+2008	Tennessee	72	2	No. 2 Tennessee 72	American	57	15	No. 15 American 57	FIRST ROUND	-13	15
+2008	Texas	74	2	No. 2 Texas 74	Austin Peay	54	15	No. 15 Austin Peay 54	FIRST ROUND	-13	20
+2008	Stanford	82	3	"Stanford 82	Marquette	81	6	 Marquette 81	SECOND ROUND	
+1986	Navy	97	7	Navy 97"	Syracuse	85	2	 Syracuse 85	SECOND ROUND	1	-3
+2008	Xavier	85	3	"Xavier 85	Purdue	78	6	 Purdue 78	SECOND ROUND	
+2009	Oklahoma	84	2	Oklahoma 84"	Syracuse	71	3	 Syracuse 71	REGIONAL SEMIFINALS	0	14
+2008	Xavier	79	3	"Xavier 79	West Virginia	75	7	 West Virginia 75	REGIONAL SEMIFINALS	
+1981	Virginia	62	1	Virginia 62"	Tennessee	48	4	 Tennessee 48	REGIONAL SEMIFINALS	-1	31
+2008	Louisville	79	3	"Louisville 79	Tennessee	60	2	 Tennessee 60	REGIONAL SEMIFINALS	
+2002	Maryland	78	1	Maryland 78"	Kentucky	68	4	 Kentucky 68	REGIONAL SEMIFINALS	-1	11
+2008	Louisville	79	3	No. 3 Louisville 79	Boise State	61	14	No. 14 Boise State 61	FIRST ROUND	-11	18
+2008	Stanford	77	3	No. 3 Stanford 77	Cornell	53	14	No. 14 Cornell 53	FIRST ROUND	-11	24
+2008	Xavier	73	3	No. 3 Xavier 73	Georgia	61	14	No. 14 Georgia 61	FIRST ROUND	-11	12
+2008	Wisconsin	71	3	No. 3 Wisconsin 71	Cal State Fullerton	56	14	No. 14 Cal State Fullerton 56	FIRST ROUND	-11	15
+2008	Washington State	71	4	No. 4 Washington State 71	Winthrop	40	13	No. 13 Winthrop 40	FIRST ROUND	-9	31
+2008	Pittsburgh	82	4	No. 4 Pittsburgh 82	Oral Roberts	63	13	No. 13 Oral Roberts 63	FIRST ROUND	-9	19
+2008	Michigan State	72	5	No. 5 Michigan State 72	Temple	61	12	No. 12 Temple 61	FIRST ROUND	-7	11
+2008	Notre Dame	68	5	No. 5 Notre Dame 68	George Mason	50	12	No. 12 George Mason 50	FIRST ROUND	-7	18
+2008	Marquette	74	6	No. 6 Marquette 74	Kentucky	66	11	No. 11 Kentucky 66	FIRST ROUND	-5	8
+2008	Oklahoma	72	6	No. 6 Oklahoma 72	Saint Joseph's	64	11	No. 11 Saint Joseph's 64	FIRST ROUND	-5	8
+2008	Purdue	90	6	No. 6 Purdue 90	Baylor	79	11	No. 11 Baylor 79	FIRST ROUND	-5	11
+2008	West Virginia	73	7	"West Virginia 73	Duke	67	2	 Duke 67	SECOND ROUND	
+2001	Southern Cal	80	6	Southern Cal 80"	Kentucky	76	2	 Kentucky 76	REGIONAL SEMIFINALS	5	-3
+2008	Butler	81	7	No. 7 Butler 81	South Alabama	61	10	No. 10 South Alabama 61	FIRST ROUND	-3	20
+2008	West Virginia	75	7	No. 7 West Virginia 75	Arizona	65	10	No. 10 Arizona 65	FIRST ROUND	-3	10
+2008	Miami (Fla.)	78	7	No. 7 Miami (Fla.) 78	Saint Mary's Calif.	64	10	No. 10 Saint Mary's Calif. 64	FIRST ROUND	-3	14
+2008	UNLV	71	8	No. 8 UNLV 71	Kent State	58	9	No. 9 Kent State 58	FIRST ROUND	-1	13
+2008	Mississippi State	76	8	No. 8 Mississippi State 76	Oregon	69	9	No. 9 Oregon 69	FIRST ROUND	-1	7
+2008	Arkansas	86	9	No. 9 Arkansas 86	Indiana	72	8	No. 8 Indiana 72	FIRST ROUND	1	14
+2008	Texas A&M;	67	9	No. 9 Texas A&M; 67	BYU	62	8	No. 8 BYU 62	FIRST ROUND	1	5
+2008	Davidson	73	10	"Davidson 73	Wisconsin	56	3	 Wisconsin 56	REGIONAL SEMIFINALS	
+1992	Cincinnati	77	4	Cincinnati 77"	Michigan State	65	5	 Michigan State 65	SECOND ROUND	5	8
+2008	Davidson	82	10	No. 10 Davidson 82	Gonzaga	76	7	No. 7 Gonzaga 76	FIRST ROUND	3	6
+2008	Kansas State	80	11	No. 11 Kansas State 80	Southern Cal	67	6	No. 6 Southern Cal 67	FIRST ROUND	5	13
+2008	Villanova	75	12	No. 12 Villanova 75	Clemson	69	5	No. 5 Clemson 69	FIRST ROUND	7	6
+2008	Western Kentucky	101	12	No. 12 Western Kentucky 101	Drake	99	5	No. 5 Drake 99	FIRST ROUND	7	2
+2008	Western Kentucky	72	12	"Western Kentucky 72	San Diego	63	13	 San Diego 63	SECOND ROUND	
+1999	Duke	85	1	Duke 85"	Temple	64	6	 Temple 64	REGIONAL FINALS	6	8
+2008	Siena	83	13	No. 13 Siena 83	Vanderbilt	62	4	No. 4 Vanderbilt 62	FIRST ROUND	9	21
+2008	San Diego	70	13	No. 13 San Diego 70	Connecticut	69	4	No. 4 Connecticut 69	FIRST ROUND	9	1
+2009	Connecticut	72	1	"Connecticut 72	Purdue	60	5	 Purdue 60	REGIONAL SEMIFINALS	
+1982	Oregon State	60	2	Oregon State 60"	Idaho	42	3	 Idaho 42	REGIONAL SEMIFINALS	-2	30
+2009	North Carolina	98	1	"North Carolina 98	Gonzaga	77	4	 Gonzaga 77	REGIONAL SEMIFINALS	
+1991	UNLV	83	1	UNLV 83"	Utah	66	4	 Utah 66	REGIONAL SEMIFINALS	-3	32
+2009	Connecticut	92	1	"Connecticut 92	Texas A&M;	66	NA	 Texas A&M; 66	SECOND ROUND	
+1983	Louisville	65	1	Louisville 65"	Arkansas	63	4	 Arkansas 63	REGIONAL SEMIFINALS	-3	29
+2009	Pittsburgh	60	1	"Pittsburgh 60	Xavier	55	4	 Xavier 55	REGIONAL SEMIFINALS	
+2010	Duke	61	1	Duke 61"	Butler	59	5	 Butler 59	NATIONAL CHAMPIONSHIP	-4	1
+2009	North Carolina	84	1	"North Carolina 84	LSU	70	8	 LSU 70	SECOND ROUND	
+1999	Duke	78	1	Duke 78"	SW Missouri State	61	12	 SW Missouri State 61	REGIONAL SEMIFINALS	-11	23
+2009	North Carolina	72	1	"North Carolina 72	Oklahoma	60	2	 Oklahoma 60	REGIONAL FINALS	
+2012	Florida	84	7	Florida 84"	Norfolk State	50	15	 Norfolk State 50	THIRD ROUND	-14	22
+2009	North Carolina	101	1	No. 1 North Carolina 101	Radford	58	16	No. 16 Radford 58	FIRST ROUND	-15	43
+2009	Connecticut	103	1	No. 1 Connecticut 103	Chattanooga	47	16	No. 16 Chattanooga 47	FIRST ROUND	-15	56
+2009	Pittsburgh	72	1	No. 1 Pittsburgh 72	ETSU	62	16	No. 16 ETSU 62	FIRST ROUND	-15	10
+2009	Louisville	74	1	No. 1 Louisville 74	Morehead State	54	16	No. 16 Morehead State 54	FIRST ROUND	-15	20
+2009	Duke	74	2	"Duke 74	Texas	69	7	 Texas 69	SECOND ROUND	
+1997	Providence	98	10	Providence 98"	Duke	87	2	 Duke 87	SECOND ROUND	0	-13
+2009	Michigan State	67	2	"Michigan State 67	Kansas	62	3	 Kansas 62	REGIONAL SEMIFINALS	
+1985	Boston College	74	11	Boston College 74"	Duke	73	3	 Duke 73	SECOND ROUND	-1	-6
+2009	Oklahoma	82	2	No. 2 Oklahoma 82	Morgan State	54	15	No. 15 Morgan State 54	FIRST ROUND	-13	28
+2009	Duke	86	2	No. 2 Duke 86	Binghamton	62	15	No. 15 Binghamton 62	FIRST ROUND	-13	24
+2009	Memphis	81	2	No. 2 Memphis 81	Cal State Northridge	70	15	No. 15 Cal State Northridge 70	FIRST ROUND	-13	11
+2009	Michigan State	77	2	No. 2 Michigan State 77	Robert Morris	62	15	No. 15 Robert Morris 62	FIRST ROUND	-13	15
+2009	Missouri	102	3	"Missouri 102	Memphis	91	2	 Memphis 91	REGIONAL SEMIFINALS	
+2008	Kansas	84	1	Kansas 84"	North Carolina	66	1	 North Carolina 66	NATIONAL SEMIFINALS	2	36
+2009	Kansas	60	3	"Kansas 60	Dayton	43	11	 Dayton 43	SECOND ROUND	
+1985	Oklahoma	86	1	Oklahoma 86"	Louisiana Tech	84	5	 Louisiana Tech 84	REGIONAL SEMIFINALS	-2	-24
+2009	Villanova	77	3	"Villanova 77	Duke	54	2	 Duke 54	REGIONAL SEMIFINALS	
+2003	Oklahoma	74	1	Oklahoma 74"	California	65	8	 California 65	SECOND ROUND	-5	12
+2009	Syracuse	59	3	No. 3 Syracuse 59	Stephen F. Austin	44	14	No. 14 Stephen F. Austin 44	FIRST ROUND	-11	15
+2009	Villanova	80	3	No. 3 Villanova 80	American	67	14	No. 14 American 67	FIRST ROUND	-11	13
+2009	Missouri	78	3	No. 3 Missouri 78	Cornell	59	14	No. 14 Cornell 59	FIRST ROUND	-11	19
+2009	Kansas	84	3	No. 3 Kansas 84	North Dakota State	74	14	No. 14 North Dakota State 74	FIRST ROUND	-11	10
+2009	Xavier	77	4	No. 4 Xavier 77	Portland State	59	13	No. 13 Portland State 59	FIRST ROUND	-9	18
+2009	Gonzaga	77	4	No. 4 Gonzaga 77	Akron	64	13	No. 13 Akron 64	FIRST ROUND	-9	13
+2009	Washington	71	4	No. 4 Washington 71	Mississippi State	58	13	No. 13 Mississippi State 58	FIRST ROUND	-9	13
+2009	Purdue	76	5	"Purdue 76	Washington	74	4	 Washington 74	SECOND ROUND	
+2006	UCLA	62	2	UCLA 62"	Alabama	59	10	 Alabama 59	SECOND ROUND	-5	17
+2009	Purdue	61	5	No. 5 Purdue 61	Northern Iowa	56	12	No. 12 Northern Iowa 56	FIRST ROUND	-7	5
+2009	UCLA	65	6	No. 6 UCLA 65	Virginia Commonwealth	64	11	No. 11 Virginia Commonwealth 64	FIRST ROUND	-5	1
+2009	Marquette	58	6	No. 6 Marquette 58	Utah State	57	11	No. 11 Utah State 57	FIRST ROUND	-5	1
+2009	Arizona State	66	6	No. 6 Arizona State 66	Temple	57	11	No. 11 Temple 57	FIRST ROUND	-5	9
+2009	Texas	76	7	No. 7 Texas 76	Minnesota	62	10	No. 10 Minnesota 62	FIRST ROUND	-3	14
+2009	LSU	75	8	No. 8 LSU 75	Butler	71	9	No. 9 Butler 71	FIRST ROUND	-1	4
+2009	Oklahoma State	77	8	No. 8 Oklahoma State 77	Tennessee	75	9	No. 9 Tennessee 75	FIRST ROUND	-1	2
+2009	Siena	74	9	No. 9 Siena 74	Ohio State	72	8	No. 8 Ohio State 72	FIRST ROUND	1	2
+2009	Texas A&M	79	9	No. 9 Texas A&M 79	BYU	66	8	No. 8 BYU 66	FIRST ROUND	1	13
+2009	Southern California	72	10	No. 10 Southern California 72	Boston College	55	7	No. 7 Boston College 55	FIRST ROUND	3	17
+2009	Michigan	62	10	No. 10 Michigan 62	Clemson	59	7	No. 7 Clemson 59	FIRST ROUND	3	3
+2009	Maryland	84	10	No. 10 Maryland 84	California	71	7	No. 7 California 71	FIRST ROUND	3	13
+2009	Dayton	68	11	No. 11 Dayton 68	West Virginia	60	6	No. 6 West Virginia 60	FIRST ROUND	5	8
+2009	Western Kentucky	76	12	No. 12 Western Kentucky 76	Illinois	72	5	No. 5 Illinois 72	FIRST ROUND	7	4
+2009	Arizona	84	12	No. 12 Arizona 84	Utah	71	5	No. 5 Utah 71	FIRST ROUND	7	13
+2009	Wisconsin	61	12	No. 12 Wisconsin 61	Florida State	59	5	No. 5 Florida State 59	FIRST ROUND	7	2
+2009	Cleveland State	84	13	No. 13 Cleveland State 84	Wake Forest	69	4	No. 4 Wake Forest 69	FIRST ROUND	9	15
+2010	Duke	78	1	"Duke 78	Baylor	71	3	 Baylor 71	REGIONAL FINALS	
+2007	Ohio State	92	1	Ohio State 92"	Memphis	76	2	 Memphis 76	REGIONAL FINALS	-1	2
+2010	Duke	70	1	"Duke 70	Purdue	57	4	 Purdue 57	REGIONAL SEMIFINALS	
+1985	Illinois	74	3	Illinois 74"	Georgia	58	6	 Georgia 58	SECOND ROUND	-5	12
+2010	Syracuse	87	1	"Syracuse 87	Gonzaga	65	8	 Gonzaga 65	SECOND ROUND	
+1991	North Carolina	75	1	North Carolina 75"	Temple	72	10	 Temple 72	REGIONAL FINALS	-9	15
+2010	Duke	73	1	No. 1 Duke 73	Arkansas-Pine Bluff	44	16	No. 16 Arkansas-Pine Bluff 44	FIRST ROUND	-15	29
+2010	Kentucky	100	1	No. 1 Kentucky 100	East Tennessee St.	71	16	No. 16 East Tennessee St. 71	FIRST ROUND	-15	29
+2010	Syracuse	79	1	No. 1 Syracuse 79	Vermont	56	16	No. 16 Vermont 56	FIRST ROUND	-15	23
+2010	Kansas	90	1	No. 1 Kansas 90	Lehigh	74	16	No. 16 Lehigh 74	FIRST ROUND	-15	16
+2010	West Virginia	68	2	"West Virginia 68	Missouri	59	10	 Missouri 59	SECOND ROUND	
+2010	Duke	68	1	Duke 68"	California	53	8	 California 53	SECOND ROUND	-6	15
+2010	Kansas State	101	2	"Kansas State 101	Xavier	96	6	 Xavier 96	REGIONAL SEMIFINALS	
+2004	Kansas	100	4	Kansas 100"	UAB	74	9	 UAB 74	REGIONAL SEMIFINALS	-7	27
+2010	Villanova	73	2	No. 2 Villanova 73	Robert Morris	70	15	No. 15 Robert Morris 70	FIRST ROUND	-13	3
+2010	Ohio State	68	2	No. 2 Ohio State 68	UC Santa Barbara	51	15	No. 15 UC Santa Barbara 51	FIRST ROUND	-13	17
+2010	Kansas State	82	2	No. 2 Kansas State 82	North Texas	62	15	No. 15 North Texas 62	FIRST ROUND	-13	20
+2010	West Virginia	77	2	No. 2 West Virginia 77	Morgan State	50	15	No. 15 Morgan State 50	FIRST ROUND	-13	27
+2010	Baylor	76	3	"Baylor 76	Old Dominion	68	11	 Old Dominion 68	SECOND ROUND	
+2008	Memphis	92	1	Memphis 92"	Michigan State	74	5	 Michigan State 74	REGIONAL SEMIFINALS	-2	2
+2010	New Mexico	62	3	No. 3 New Mexico 62	Montana	57	14	No. 14 Montana 57	FIRST ROUND	-11	5
+2010	Pittsburgh	89	3	No. 3 Pittsburgh 89	Oakland Mich.	66	14	No. 14 Oakland Mich. 66	FIRST ROUND	-11	23
+2010	Baylor	68	3	No. 3 Baylor 68	Sam Houston St.	59	14	No. 14 Sam Houston St. 59	FIRST ROUND	-11	9
+2010	Purdue	72	4	No. 4 Purdue 72	Siena	64	13	No. 13 Siena 64	FIRST ROUND	-9	8
+2010	Wisconsin	53	4	No. 4 Wisconsin 53	Wofford	49	13	No. 13 Wofford 49	FIRST ROUND	-9	4
+2010	Maryland	89	4	No. 4 Maryland 89	Houston	77	13	No. 13 Houston 77	FIRST ROUND	-9	12
+2010	Butler	52	5	"Butler 52	Michigan State	50	5	 Michigan State 50	NATIONAL SEMIFINALS	
+1986	Duke	71	1	Duke 71"	Kansas	67	1	 Kansas 67	NATIONAL SEMIFINALS	4	-15
+2010	Michigan State	70	5	"Michigan State 70	Tennessee	69	6	 Tennessee 69	REGIONAL FINALS	
+2000	Michigan State	75	1	Michigan State 75"	Iowa State	64	2	 Iowa State 64	REGIONAL FINALS	3	6
+2010	Michigan State	85	5	"Michigan State 85	Maryland	83	4	 Maryland 83	SECOND ROUND	
+1989	Louisville	93	4	Louisville 93"	Arkansas	84	5	 Arkansas 84	SECOND ROUND	0	1
+2010	Butler	63	5	"Butler 63	Kansas State	56	2	 Kansas State 56	REGIONAL FINALS	
+1981	Wichita State	66	6	Wichita State 66"	Kansas	65	7	 Kansas 65	REGIONAL SEMIFINALS	-2	-2
+2010	Butler	63	5	"Butler 63	Syracuse	59	1	 Syracuse 59	REGIONAL SEMIFINALS	
+2010	Michigan State	59	5	Michigan State 59"	Northern Iowa	52	9	 Northern Iowa 52	REGIONAL SEMIFINALS	-4	11
+2010	Texas A&M	69	5	No. 5 Texas A&M 69	Utah State	53	12	No. 12 Utah State 53	FIRST ROUND	-7	16
+2010	Michigan State	70	5	No. 5 Michigan State 70	Alcorn State	56	12		FIRST ROUND	-7	14
+2010	Butler	77	5	No. 5 Butler 77	UTEP	59	12	No. 12 UTEP 59	FIRST ROUND	-7	18
+2010	Tennessee	62	6	No. 6 Tennessee 62	San Diego St.	59	11	No. 11 San Diego St. 59	FIRST ROUND	-5	3
+2010	Xavier	65	6	No. 6 Xavier 65	Minnesota	54	11	No. 11 Minnesota 54	FIRST ROUND	-5	11
+2010	BYU	99	7	No. 7 BYU 99	Florida	92	10	No. 10 Florida 92	FIRST ROUND	-3	7
+2010	Gonzaga	67	8	No. 8 Gonzaga 67	Florida State	60	9	No. 9 Florida State 60	FIRST ROUND	-1	7
+2010	California	77	8	No. 8 California 77	Louisville	62	9	No. 9 Louisville 62	FIRST ROUND	-1	15
+2010	Northern Iowa	69	9	"Northern Iowa 69	Kansas	67	1	 Kansas 67	SECOND ROUND	
+2006	Florida	73	3	Florida 73"	UCLA	57	2	 UCLA 57	NATIONAL CHAMPIONSHIP	7	12
+2010	Northern Iowa	69	9	No. 9 Northern Iowa 69	UNLV	66	8	No. 8 UNLV 66	FIRST ROUND	1	3
+2010	Wake Forest	81	9	No. 9 Wake Forest 81	Texas	80	8	No. 8 Texas 80	FIRST ROUND	1	1
+2010	Missouri	86	10	No. 10 Missouri 86	Clemson	78	7	No. 7 Clemson 78	FIRST ROUND	3	8
+2010	St. Mary's	80	10	No. 10 St. Mary's 80	Richmond	71	7	No. 7 Richmond 71	FIRST ROUND	3	9
+2010	Georgia Tech	64	10	No. 10 Georgia Tech 64	Oklahoma State	59	7	No. 7 Oklahoma State 59	FIRST ROUND	3	5
+2010	Washington	80	11	No. 11 Washington 80	Marquette	78	6	No. 6 Marquette 78	FIRST ROUND	5	2
+2010	Old Dominion	51	11	No. 11 Old Dominion 51	Notre Dame	50	6	No. 6 Notre Dame 50	FIRST ROUND	5	1
+2010	Cornell	78	12	No. 12 Cornell 78	Temple	65	5	No. 5 Temple 65	FIRST ROUND	7	13
+2010	Murray State	66	13	No. 13 Murray State 66	Vanderbilt	65	4	No. 4 Vanderbilt 65	FIRST ROUND	9	1
+2010	Ohio	97	14	No. 14 Ohio 97	Oklahoma	67	11		FIRST ROUND	3	30
+2010	Arkansas-Pine Bluff	61	16	"Arkansas-Pine Bluff 61	Winthrop	44	NA	 Winthrop 44	OPENING ROUND	
+1993	Kansas	93	2	Kansas 93"	California	76	6	 California 76	REGIONAL SEMIFINALS	10	-15
+2011	Kansas	77	1	"Kansas 77	Richmond	57	12	 Richmond 57	REGIONAL SEMIFINALS	
+2002	Kentucky	87	4	Kentucky 87"	Tulsa	82	12	 Tulsa 82	SECOND ROUND	-11	-5
+2011	Kansas	72	1	No. 1 Kansas 72	Boston University	53	16	No. 16 Boston University 53	SECOND ROUND	-15	19
+2011	Pittsburgh	74	1	No. 1 Pittsburgh 74	UNC Asheville	51	16	No. 16 UNC Asheville 51	SECOND ROUND	-15	23
+2011	Duke	87	1	No. 1 Duke 87	Hampton	45	16	No. 16 Hampton 45	SECOND ROUND	-15	42
+2011	Ohio State	75	1	No. 1 Ohio State 75	Texas-San Antonio	46	16	No. 16 Texas-San Antonio 46	SECOND ROUND	-15	29
+2011	San Diego State	71	2	"San Diego State 71	Temple	64	7	 Temple 64	THIRD ROUND	
+1980	Duke	55	4	Duke 55"	Kentucky	54	1	 Kentucky 54	REGIONAL SEMIFINALS	1	17
+2011	Florida	83	2	"Florida 83	BYU	74	3	 BYU 74	REGIONAL SEMIFINALS	
+1982	North Carolina	68	1	North Carolina 68"	Houston	63	6	 Houston 63	NATIONAL SEMIFINALS	-4	20
+2011	San Diego State	68	2	No. 2 San Diego State 68	Northern Colorado	50	15	No. 15 Northern Colorado 50	SECOND ROUND	-13	18
+2011	Notre Dame	69	2	No. 2 Notre Dame 69	Akron	56	15	No. 15 Akron 56	SECOND ROUND	-13	13
+2011	North Carolina	102	2	No. 2 North Carolina 102	Long Island	87	15	No. 15 Long Island 87	SECOND ROUND	-13	15
+2011	Florida	79	2	No. 2 Florida 79	UC Santa Barbara	51	15	No. 15 UC Santa Barbara 51	SECOND ROUND	-13	28
+2011	Florida	73	2	"Florida 73	UCLA	65	7	 UCLA 65	THIRD ROUND	
+2012	Xavier	70	10	Xavier 70"	Lehigh	58	15	 Lehigh 58	THIRD ROUND	-13	15
+2011	Connecticut	74	3	"Connecticut 74	San Diego State	67	2	 San Diego State 67	REGIONAL SEMIFINALS	
+1995	UCLA	89	1	UCLA 89"	Arkansas	78	2	 Arkansas 78	NATIONAL CHAMPIONSHIP	1	-4
+2011	Connecticut	81	3	No. 3 Connecticut 81	Bucknell	52	14	No. 14 Bucknell 52	SECOND ROUND	-11	29
+2011	Syracuse	77	3	No. 3 Syracuse 77	Indiana State	60	14	No. 14 Indiana State 60	SECOND ROUND	-11	17
+2011	BYU	74	3	No. 3 BYU 74	Wofford	66	14	No. 14 Wofford 66	SECOND ROUND	-11	8
+2011	Purdue	65	3	No. 3 Purdue 65	St. Peter's	43	14	No. 14 St. Peter's 43	SECOND ROUND	-11	22
+2011	Kentucky	76	4	"Kentucky 76	North Carolina	69	2	 North Carolina 69	REGIONAL FINALS	
+1988	North Carolina	123	2	North Carolina 123"	Loyola Marymount	97	10	 Loyola Marymount 97	SECOND ROUND	-6	-21
+2011	Kentucky	59	4	No. 4 Kentucky 59	Princeton	57	13	No. 13 Princeton 57	SECOND ROUND	-9	2
+2011	Texas	85	4	No. 4 Texas 85	Oakland	81	13	No. 13 Oakland 81	SECOND ROUND	-9	4
+2011	Wisconsin	72	4	No. 4 Wisconsin 72	Belmont	58	13	No. 13 Belmont 58	SECOND ROUND	-9	14
+2011	Wisconsin	70	4	"Wisconsin 70	Kansas State	65	5	 Kansas State 65	THIRD ROUND	
+1997	Texas	82	10	Texas 82"	Coppin State	81	15	 Coppin State 81	SECOND ROUND	-11	-11
+2011	Arizona	70	5	"Arizona 70	Texas	69	4	 Texas 69	THIRD ROUND	
+1986	UNLV	70	4	UNLV 70"	Maryland	64	5	 Maryland 64	SECOND ROUND	0	6
+2011	West Virginia	84	5	No. 5 West Virginia 84	Clemson	76	12	No. 12 Clemson 76	SECOND ROUND	-7	8
+2011	Kansas State	73	5	No. 5 Kansas State 73	Utah State	68	12	No. 12 Utah State 68	SECOND ROUND	-7	5
+2011	Arizona	77	5	No. 5 Arizona 77	Memphis	75	12	No. 12 Memphis 75	SECOND ROUND	-7	2
+2011	Arizona	93	5	"Arizona 93	Duke	77	1	 Duke 77	REGIONAL SEMIFINALS	
+1998	Valparaiso	83	13	Valparaiso 83"	Florida State	77	12	 Florida State 77	SECOND ROUND	-7	16
+2011	Cincinnati	78	6	No. 6 Cincinnati 78	Missouri	63	11	No. 11 Missouri 63	SECOND ROUND	-5	15
+2011	Temple	66	7	No. 7 Temple 66	Penn State	64	10	No. 10 Penn State 64	SECOND ROUND	-3	2
+2011	Washington	68	7	No. 7 Washington 68	Georgia	65	10	No. 10 Georgia 65	SECOND ROUND	-3	3
+2011	UCLA	78	7	No. 7 UCLA 78	Michigan State	76	10	No. 10 Michigan State 76	SECOND ROUND	-3	2
+2011	Michigan	75	8	No. 8 Michigan 75	Tennessee	45	9	No. 9 Tennessee 45	SECOND ROUND	-1	30
+2011	George Mason	61	8	No. 8 George Mason 61	Villanova	57	9	No. 9 Villanova 57	SECOND ROUND	-1	4
+2011	Butler	60	8	No. 8 Butler 60	Old Dominion	58	9	No. 9 Old Dominion 58	SECOND ROUND	-1	2
+2011	Illinois	73	9	No. 9 Illinois 73	UNLV	62	8	No. 8 UNLV 62	SECOND ROUND	1	11
+2011	Florida State	57	10	No. 10 Florida State 57	Texas A&mp;M	50	7	No. 7 Texas A&mp;M 50	SECOND ROUND	3	7
+2011	Marquette	66	11	No. 11 Marquette 66	Xavier	55	6	No. 6 Xavier 55	SECOND ROUND	5	11
+2011	Virginia Commonwealth	74	11	No. 11 Virginia Commonwealth 74	Georgetown	56	6	No. 6 Georgetown 56	SECOND ROUND	5	18
+2011	Gonzaga	86	11	No. 11 Gonzaga 86	St. John's	71	6	No. 6 St. John's 71	SECOND ROUND	5	15
+2011	Virginia Commonwealth	59	11	No. 11 Virginia Commonwealth 59	Southern Cal	46	11	No. 11 Southern Cal 46	OPENING ROUND	0	13
+2011	Virginia Commonwealth	71	11	"Virginia Commonwealth 71	Kansas	61	1	 Kansas 61	REGIONAL FINALS	
+2009	Xavier	60	4	Xavier 60"	Wisconsin	49	12	 Wisconsin 49	SECOND ROUND	-1	22
+2011	Virginia Commonwealth	94	11	"Virginia Commonwealth 94	Purdue	76	3	 Purdue 76	THIRD ROUND	
+1985	St. John's	86	1	St. John's 86"	Kentucky	70	12	 Kentucky 70	REGIONAL SEMIFINALS	-1	24
+2011	Richmond	69	12	No. 12 Richmond 69	Vanderbilt	66	5	No. 5 Vanderbilt 66	SECOND ROUND	7	3
+2011	Richmond	65	12	"Richmond 65	Morehead State	48	13	 Morehead State 48	THIRD ROUND	
+1995	North Carolina	73	2	North Carolina 73"	Iowa State	51	7	 Iowa State 51	SECOND ROUND	5	14
+2011	Clemson	70	12	No. 12 Clemson 70	UAB	52	12	No. 12 UAB 52	OPENING ROUND	0	18
+2011	Morehead State	62	13	No. 13 Morehead State 62	Louisville	61	4	No. 4 Louisville 61	SECOND ROUND	9	1
+2011	UNC Asheville	81	16	No. 16 UNC Asheville 81	Arkansas-Little Rock	77	16	No. 16 Arkansas-Little Rock 77	OPENING ROUND	0	4
+2011	Texas-San Antonio	70	16	No. 16 Texas-San Antonio 70	Alabama State	61	16	No. 16 Alabama State 61	OPENING ROUND	0	9
+2012	Kentucky	82	1	"Kentucky 82	Baylor	70	3	 Baylor 70	REGIONAL FINALS	
+2001	Illinois	80	1	Illinois 80"	Kansas	64	4	 Kansas 64	REGIONAL SEMIFINALS	-3	18
+2012	Kentucky	69	1	"Kentucky 69	Louisville	61	4	 Louisville 61	NATIONAL SEMIFINALS	
+1981	North Carolina	82	2	North Carolina 82"	Kansas State	68	8	 Kansas State 68	REGIONAL FINALS	-7	1
+2012	North Carolina	87	1	"North Carolina 87	Creighton	73	8	 Creighton 73	THIRD ROUND	
+1992	Kentucky	106	2	Kentucky 106"	Iowa State	98	10	 Iowa State 98	SECOND ROUND	-9	-11
+2012	Kentucky	87	1	"Kentucky 87	Iowa State	71	8	 Iowa State 71	THIRD ROUND	
+2005	Wisconsin	65	6	Wisconsin 65"	North Carolina State	56	10	 North Carolina State 56	REGIONAL SEMIFINALS	-9	31
+2012	North Carolina	73	1	"North Carolina 73	Ohio	65	13	 Ohio 65	REGIONAL SEMIFINALS	
+1998	Rhode Island	74	8	Rhode Island 74"	Valparaiso	68	13	 Valparaiso 68	REGIONAL SEMIFINALS	-12	5
+2012	Syracuse	72	1	No. 1 Syracuse 72	UNC Asheville	65	16	No. 16 UNC Asheville 65	SECOND ROUND	-15	7
+2012	Michigan State	89	1	No. 1 Michigan State 89	LIU	67	16	No. 16 LIU 67	SECOND ROUND	-15	22
+2012	North Carolina	77	1	No. 1 North Carolina 77	Vermont	58	16	No. 16 Vermont 58	SECOND ROUND	-15	19
+2012	Kentucky	81	1	No. 1 Kentucky 81	Western Kentucky	66	16	No. 16 Western Kentucky 66	SECOND ROUND	-15	15
+2012	Ohio State	81	2	"Ohio State 81	Cincinnati	66	6	 Cincinnati 66	REGIONAL SEMIFINALS	
+2003	Notre Dame	68	5	Notre Dame 68"	Illinois	60	4	 Illinois 60	SECOND ROUND	-2	21
+2012	Kansas	60	2	"Kansas 60	N.C. State	57	11	 N.C. State 57	REGIONAL SEMIFINALS	
+1997	UCLA	96	2	UCLA 96"	Xavier	83	7	 Xavier 83	SECOND ROUND	-5	-23
+2012	Ohio State	73	2	"Ohio State 73	Gonzaga	66	7	 Gonzaga 66	THIRD ROUND	
+2001	Michigan State	81	1	Michigan State 81"	Fresno State	65	9	 Fresno State 65	SECOND ROUND	-7	8
+2012	Kansas	63	2	"Kansas 63	Purdue	60	10	 Purdue 60	THIRD ROUND	
+1997	Arizona	73	4	Arizona 73"	College of Charleston	69	12	 College of Charleston 69	SECOND ROUND	-10	-6
+2012	Kansas	64	2	"Kansas 64	Ohio State	62	2	 Ohio State 62	NATIONAL SEMIFINALS	
+1986	Navy	71	7	Navy 71"	Cleveland State	70	14	 Cleveland State 70	REGIONAL SEMIFINALS	-12	-6
+2012	Kansas	65	2	No. 2 Kansas 65	Detroit	50	15	No. 15 Detroit 50	SECOND ROUND	-13	15
+2012	Ohio State	78	2	No. 2 Ohio State 78	Loyola (Md.)	59	15	No. 15 Loyola (Md.) 59	SECOND ROUND	-13	19
+2012	Marquette	62	3	"Marquette 62	Murray State	53	6	 Murray State 53	THIRD ROUND	
+1982	Georgetown	58	1	Georgetown 58"	Fresno State	40	4	 Fresno State 40	REGIONAL SEMIFINALS	-1	22
+2012	Florida State	66	3	No. 3 Florida State 66	St. Bonaventure	63	14	No. 14 St. Bonaventure 63	SECOND ROUND	-11	3
+2012	Georgetown	74	3	No. 3 Georgetown 74	Belmont	59	14	No. 14 Belmont 59	SECOND ROUND	-11	15
+2012	Marquette	88	3	No. 3 Marquette 88	BYU	68	14	No. 14 BYU 68	SECOND ROUND	-11	20
+2012	Baylor	68	3	No. 3 Baylor 68	South Dakota State	60	14	No. 14 South Dakota State 60	SECOND ROUND	-11	8
+2012	Wisconsin	60	4	"Wisconsin 60	Vanderbilt	57	5	 Vanderbilt 57	THIRD ROUND	
+1986	DePaul	74	12	DePaul 74"	Oklahoma	69	4	 Oklahoma 69	SECOND ROUND	0	-9
+2012	Louisville	72	4	"Louisville 72	Florida	68	7	 Florida 68	REGIONAL FINALS	
+1990	Syracuse	63	2	Syracuse 63"	Virginia	61	7	 Virginia 61	SECOND ROUND	-3	11
+2012	Louisville	57	4	"Louisville 57	Michigan State	44	1	 Michigan State 44	REGIONAL SEMIFINALS	
+1989	Georgetown	81	1	Georgetown 81"	Notre Dame	74	9	 Notre Dame 74	SECOND ROUND	-5	-17
+2012	Indiana	79	4	No. 4 Indiana 79	New Mexico State	66	13	No. 13 New Mexico State 66	SECOND ROUND	-9	13
+2012	Louisville	69	4	No. 4 Louisville 69	Davidson	62	13	No. 13 Davidson 62	SECOND ROUND	-9	7
+2012	Wisconsin	73	4	No. 4 Wisconsin 73	Montana	49	13	No. 13 Montana 49	SECOND ROUND	-9	24
+2012	Vanderbilt	79	5	No. 5 Vanderbilt 79	Harvard	70	12	No. 12 Harvard 70	SECOND ROUND	-7	9
+2012	New Mexico	75	5	No. 5 New Mexico 75	Long Beach State	68	12	No. 12 Long Beach State 68	SECOND ROUND	-7	7
+2012	Cincinnati	62	6	"Cincinnati 62	Florida State	56	3	 Florida State 56	THIRD ROUND	
+1997	UCLA	74	2	UCLA 74"	Iowa State	73	6	 Iowa State 73	REGIONAL SEMIFINALS	0	-11
+2012	Cincinnati	65	6	No. 6 Cincinnati 65	Texas	59	11	No. 11 Texas 59	SECOND ROUND	-5	6
+2012	Murray State	58	6	No. 6 Murray State 58	Colorado State	41	11	No. 11 Colorado State 41	SECOND ROUND	-5	17
+2012	Florida	71	7	No. 7 Florida 71	Virginia	45	10	No. 10 Virginia 45	SECOND ROUND	-3	26
+2012	Gonzaga	77	7	No. 7 Gonzaga 77	West Virginia	54	10	No. 10 West Virginia 54	SECOND ROUND	-3	23
+2012	Kansas State	70	8	No. 8 Kansas State 70	Southern Mississippi	64	9	No. 9 Southern Mississippi 64	SECOND ROUND	-1	6
+2012	Iowa State	77	8	No. 8 Iowa State 77	UConn	64	9	No. 9 UConn 64	SECOND ROUND	-1	13
+2012	Creighton	58	8	No. 8 Creighton 58	Alabama	57	9	No. 9 Alabama 57	SECOND ROUND	-1	1
+2012	Saint Louis	61	9	No. 9 Saint Louis 61	Memphis	54	8	No. 8 Memphis 54	SECOND ROUND	1	7
+2012	Xavier	67	10	No. 10 Xavier 67	Notre Dame	63	7	No. 7 Notre Dame 63	SECOND ROUND	3	4
+2012	Purdue	72	10	No. 10 Purdue 72	Saint Mary's (Calif.)	69	7	No. 7 Saint Mary's (Calif.) 69	SECOND ROUND	3	3
+2012	N.C. State	79	11	No. 11 N.C. State 79	San Diego State	65	6	No. 6 San Diego State 65	SECOND ROUND	5	14
+2012	Colorado	68	11	No. 11 Colorado 68	UNLV	64	6	No. 6 UNLV 64	SECOND ROUND	5	4
+2012	South Florida	58	12	No. 12 South Florida 58	Temple	44	5	No. 5 Temple 44	SECOND ROUND	7	14
+2012	VCU	62	12	No. 12 VCU 62	Wichita State	59	5	No. 5 Wichita State 59	SECOND ROUND	7	3
+2012	South Florida	65	12	No. 12 South Florida 65	California	54	12	No. 12 California 54	OPENING ROUND	0	11
+2012	Ohio	62	13	"Ohio 62	South Florida	56	12	 South Florida 56	THIRD ROUND	
+2004	Vanderbilt	75	6	Vanderbilt 75"	N. Carolina St.	73	3	 N. Carolina St. 73	SECOND ROUND	10	-11
+2012	Ohio	65	13	No. 13 Ohio 65	Michigan	60	4	No. 4 Michigan 60	SECOND ROUND	9	5
+2012	BYU	78	14	No. 14 BYU 78	Iona	72	14	No. 14 Iona 72	OPENING ROUND	0	6
+2012	Norfolk State	86	15	No. 15 Norfolk State 86	Missouri	84	2	No. 2 Missouri 84	SECOND ROUND	13	2
+2012	Lehigh	75	15	No. 15 Lehigh 75	Duke	70	2	No. 2 Duke 70	SECOND ROUND	13	5
+2012	Vermont	71	16	No. 16 Vermont 71	Lamar	59	16	No. 16 Lamar 59	OPENING ROUND	0	12
+2012	Western Kentucky	59	16	No. 16 Western Kentucky 59	MVSU	58	16	No. 16 MVSU 58	OPENING ROUND	0	1

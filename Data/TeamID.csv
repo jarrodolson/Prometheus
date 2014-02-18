@@ -1,0 +1,357 @@
+Team,Conference,IDNumber,id,name
+Dayton,A-10,1,569,Dayton
+Duquesne,A-10,2,578,Duquesne
+Fordham,A-10,3,596,Fordham
+George Mason,A-10,4,602,George Mason
+George Washington,A-10,5,599,G Washington
+La Salle,A-10,6,641,La Salle
+Massachusetts,A-10,7,663,Massachusetts
+Rhode Island,A-10,8,741,Rhode Island
+Richmond,A-10,9,743,Richmond
+Saint Louis,A-10,10,780,St Louis
+St. Bonaventure,A-10,11,775,St Bonaventure
+St. Joseph's (PA),A-10,12,779,St Joseph's PA
+Virginia Commonwealth,A-10,13,825,VA Commonwealth
+Boston College,ACC,14,527,Boston College
+Clemson,ACC,15,551,Clemson
+Duke,ACC,16,577,Duke
+Florida State,ACC,17,595,Florida St
+Georgia Tech,ACC,18,606,Georgia Tech
+Maryland,ACC,19,662,Maryland
+Miami (FL),ACC,20,668,Miami FL
+NC State,ACC,21,695,NC State
+North Carolina,ACC,22,708,North Carolina
+Notre Dame,ACC,23,717,Notre Dame
+Pittsburgh,ACC,24,731,Pittsburgh
+Syracuse,ACC,25,786,Syracuse
+Virginia,ACC,26,830,Virginia
+Virginia Tech,ACC,27,831,Virginia Tech
+Wake Forest,ACC,28,839,Wake Forest
+Albany,America East,29,507,Albany NY
+Binghamton,America East,30,524,Binghamton
+Hartford,America East,31,611,Hartford
+Maine,America East,32,657,Maine
+Maryland-Baltimore County,America East,33,813,UMBC
+New Hampshire,America East,34,700,New Hampshire
+Stony Brook,America East,35,785,Stony Brook
+UMass-Lowell,America East,36,656,MA Lowell
+Vermont,America East,37,828,Vermont
+Cincinnati,American Athletic,38,549,Cincinnati
+Connecticut,American Athletic,39,559,Connecticut
+Houston,American Athletic,40,617,Houston
+Louisville,American Athletic,41,651,Louisville
+Memphis,American Athletic,42,666,Memphis
+Rutgers,American Athletic,43,746,Rutgers
+South Florida,American Athletic,44,771,South Florida
+Southern Methodist,American Athletic,45,767,SMU
+Temple,American Athletic,46,789,Temple
+UCF,American Athletic,47,809,UCF
+East Tennessee State,Atlantic Sun,48,586,ETSU
+Florida Gulf Coast,Atlantic Sun,49,591,FL Gulf Coast
+Jacksonville,Atlantic Sun,50,633,Jacksonville
+Kennesaw State,Atlantic Sun,51,638,Kennesaw
+Lipscomb,Atlantic Sun,52,646,Lipscomb
+Mercer,Atlantic Sun,53,667,Mercer
+North Florida,Atlantic Sun,54,710,North Florida
+Northern Kentucky,Atlantic Sun,55,691,N Kentucky
+Stetson,Atlantic Sun,56,784,Stetson
+USC Upstate,Atlantic Sun,57,760,SC Upstate
+Baylor,Big 12,58,521,Baylor
+Iowa State,Big 12,59,629,Iowa St
+Kansas,Big 12,60,636,Kansas
+Kansas State,Big 12,61,637,Kansas St
+Oklahoma,Big 12,62,721,Oklahoma
+Oklahoma State,Big 12,63,722,Oklahoma St
+TCU,Big 12,64,788,TCU
+Texas,Big 12,65,793,Texas
+Texas Tech,Big 12,66,796,Texas Tech
+West Virginia,Big 12,67,843,West Virginia
+Butler,Big East,68,535,Butler
+Creighton,Big East,69,562,Creighton
+DePaul,Big East,70,573,DePaul
+Georgetown,Big East,71,603,Georgetown
+Marquette,Big East,72,660,Marquette
+Providence,Big East,73,737,Providence
+Seton Hall,Big East,74,764,Seton Hall
+St. John's,Big East,75,778,St John's
+Villanova,Big East,76,829,Villanova
+Xavier,Big East,77,853,Xavier
+Eastern Washington,Big Sky,78,582,E Washington
+Idaho State,Big Sky,79,621,Idaho St
+Montana,Big Sky,80,680,Montana
+Montana State,Big Sky,81,681,Montana St
+North Dakota,Big Sky,82,709,North Dakota
+Northern Arizona,Big Sky,83,713,Northern Arizona
+Northern Colorado,Big Sky,84,688,N Colorado
+Portland State,Big Sky,85,733,Portland St
+Sacramento State,Big Sky,86,566,CS Sacramento
+Southern Utah,Big Sky,87,774,Southern Utah
+Weber State,Big Sky,88,842,Weber St
+Campbell,Big South,89,540,Campbell
+Charleston Southern,Big South,90,545,Charleston So
+Coastal Carolina,Big South,91,553,Coastal Car
+Gardner-Webb,Big South,92,601,Gardner Webb
+High Point,Big South,93,614,High Point
+Liberty,Big South,94,645,Liberty
+Longwood,Big South,95,649,Longwood
+North Carolina-Asheville,Big South,96,814,UNC Asheville
+Presbyterian,Big South,97,735,Presbyterian
+Radford,Big South,98,740,Radford
+Virginia Military Institute,Big South,99,832,VMI
+Winthrop,Big South,100,848,Winthrop
+Illinois,Big Ten,101,623,Illinois
+Indiana,Big Ten,102,625,Indiana
+Iowa,Big Ten,103,628,Iowa
+Michigan,Big Ten,104,670,Michigan
+Michigan State,Big Ten,105,671,Michigan St
+Minnesota,Big Ten,106,673,Minnesota
+Nebraska,Big Ten,107,698,Nebraska
+Northwestern,Big Ten,108,715,Northwestern
+Ohio State,Big Ten,109,720,Ohio St
+Penn State,Big Ten,110,729,Penn St
+Purdue,Big Ten,111,738,Purdue
+Wisconsin,Big Ten,112,849,Wisconsin
+Cal Poly,Big West,113,538,Cal Poly SLO
+Cal State Fullerton,Big West,114,564,CS Fullerton
+Cal State Northridge,Big West,115,565,CS Northridge
+Hawaii,Big West,116,613,Hawaii
+Long Beach State,Big West,117,647,Long Beach St
+UC Davis,Big West,118,806,UC Davis
+UC Irvine,Big West,119,807,UC Irvine
+UC Riverside,Big West,120,808,UC Riverside
+UC-Santa Barbara,Big West,121,757,Santa Barbara
+College of Charleston,CAA,122,554,Col Charleston
+Delaware,CAA,123,570,Delaware
+Drexel,CAA,124,576,Drexel
+Hofstra,CAA,125,615,Hofstra
+James Madison,CAA,126,635,James Madison
+North Carolina-Wilmington,CAA,127,816,UNC Wilmington
+Northeastern,CAA,128,712,Northeastern
+Towson,CAA,129,799,Towson
+William & Mary,CAA,130,847,William & Mary
+Charlotte,Conference USA,131,546,Charlotte
+East Carolina,Conference USA,132,583,East Carolina
+Florida Atlantic,Conference USA,133,590,FL Atlantic
+Florida International,Conference USA,134,594,Florida Intl
+Louisiana Tech,Conference USA,135,650,Louisiana Tech
+Marshall,Conference USA,136,661,Marshall
+Middle Tennessee State,Conference USA,137,672,Middle Tenn St
+North Texas,Conference USA,138,711,North Texas
+Old Dominion,Conference USA,139,723,Old Dominion
+Rice,Conference USA,140,742,Rice
+Southern Miss,Conference USA,141,772,Southern Miss
+Texas-El Paso,Conference USA,142,824,UTEP
+Texas-San Antonio,Conference USA,143,820,UT San Antonio
+Tulane,Conference USA,144,801,Tulane
+Tulsa,Conference USA,145,802,Tulsa
+UAB,Conference USA,146,805,UAB
+Cleveland State,Horizon,147,552,Cleveland St
+Detroit,Horizon,148,574,Detroit
+Green Bay,Horizon,149,844,WI Green Bay
+Milwaukee,Horizon,150,845,WI Milwaukee
+Oakland,Horizon,151,718,Oakland
+UIC,Horizon,152,622,IL Chicago
+Valparaiso,Horizon,153,826,Valparaiso
+Wright State,Horizon,154,851,Wright St
+Youngstown State,Horizon,155,855,Youngstown St
+New Jersey Tech,Independents,156,706,NJIT
+Brown,Ivy League,157,531,Brown
+Columbia,Ivy League,158,558,Columbia
+Cornell,Ivy League,159,561,Cornell
+Dartmouth,Ivy League,160,567,Dartmouth
+Harvard,Ivy League,161,612,Harvard
+Pennsylvania,Ivy League,162,728,Penn
+Princeton,Ivy League,163,736,Princeton
+Yale,Ivy League,164,854,Yale
+Canisius,MAAC,165,541,Canisius
+Fairfield,MAAC,166,589,Fairfield
+Iona,MAAC,167,627,Iona
+Manhattan,MAAC,168,658,Manhattan
+Marist,MAAC,169,659,Marist
+Monmouth,MAAC,170,679,Monmouth NJ
+Niagara,MAAC,171,704,Niagara
+Quinnipiac,MAAC,172,739,Quinnipiac
+Rider,MAAC,173,744,Rider
+Siena,MAAC,174,766,Siena
+St. Peter's,MAAC,175,782,St Peter's
+Akron,MAC,176,503,Akron
+Ball State,MAC,177,520,Ball St
+Bowling Green,MAC,178,529,Bowling Green
+Buffalo,MAC,179,534,Buffalo
+Central Michigan,MAC,180,537,C Michigan
+Eastern Michigan,MAC,181,581,E Michigan
+Kent State,MAC,182,639,Kent
+Miami (OH),MAC,183,669,Miami OH
+Northern Illinois,MAC,184,690,N Illinois
+Ohio,MAC,185,719,Ohio
+Toledo,MAC,186,798,Toledo
+Western Michigan,MAC,187,836,W Michigan
+Bethune-Cookman,MEAC,188,523,Bethune-Cookman
+Coppin State,MEAC,189,560,Coppin St
+Delaware State,MEAC,190,571,Delaware St
+Florida A&M;,MEAC,191,593,Florida A&M
+Hampton,MEAC,192,610,Hampton
+Howard,MEAC,193,619,Howard
+Maryland-Eastern Shore,MEAC,194,665,MD E Shore
+Morgan State,MEAC,195,683,Morgan St
+Norfolk State,MEAC,196,707,Norfolk St
+North Carolina A&T;,MEAC,197,693,NC A&T
+North Carolina Central,MEAC,198,694,NC Central
+Savannah State,MEAC,199,759,Savannah St
+South Carolina State,MEAC,200,747,S Carolina St
+Bradley,Missouri Valley,201,530,Bradley
+Drake,Missouri Valley,202,575,Drake
+Evansville,Missouri Valley,203,587,Evansville
+Illinois State,Missouri Valley,204,624,Illinois St
+Indiana State,Missouri Valley,205,626,Indiana St
+Loyola (Chicago),Missouri Valley,206,654,Loyola-Chicago
+Missouri State,Missouri Valley,207,678,Missouri St
+Northern Iowa,Missouri Valley,208,714,Northern Iowa
+Southern Illinois,Missouri Valley,209,749,S Illinois
+Wichita State,Missouri Valley,210,846,Wichita St
+Air Force,Mountain West,211,502,Air Force
+Boise State,Mountain West,212,526,Boise St
+Colorado State,Mountain West,213,557,Colorado St
+Fresno State,Mountain West,214,597,Fresno St
+Nevada,Mountain West,215,699,Nevada
+New Mexico,Mountain West,216,701,New Mexico
+San Diego State,Mountain West,217,754,San Diego St
+San Jose State,Mountain West,218,756,San Jose St
+UNLV,Mountain West,219,817,UNLV
+Utah State,Mountain West,220,822,Utah St
+Wyoming,Mountain West,221,852,Wyoming
+Bryant,NEC,222,532,Bryant
+Central Connecticut State,NEC,223,544,Central Conn
+Fairleigh Dickinson,NEC,224,588,F Dickinson
+Long Island,NEC,225,648,Long Island
+Mount St. Mary's,NEC,226,686,Mt St Mary's
+Robert Morris,NEC,227,745,Robert Morris
+Sacred Heart,NEC,228,750,Sacred Heart
+St. Francis (NY),NEC,229,776,St Francis NY
+St. Francis (PA),NEC,230,777,St Francis PA
+Wagner,NEC,231,838,Wagner
+Austin Peay,Ohio Valley,232,519,Austin Peay
+Belmont,Ohio Valley,233,522,Belmont
+Eastern Illinois,Ohio Valley,234,579,E Illinois
+Eastern Kentucky,Ohio Valley,235,580,E Kentucky
+Jacksonville State,Ohio Valley,236,634,Jacksonville St
+Morehead State,Ohio Valley,237,682,Morehead St
+Murray State,Ohio Valley,238,687,Murray St
+SIU Edwardsville,Ohio Valley,239,584,Edwardsville
+Southeast Missouri State,Ohio Valley,240,762,SE Missouri St
+Tennessee State,Ohio Valley,241,791,Tennessee St
+Tennessee Tech,Ohio Valley,242,792,Tennessee Tech
+Tennessee-Martin,Ohio Valley,243,797,TN Martin
+Arizona,Pac-12,244,511,Arizona
+Arizona State,Pac-12,245,512,Arizona St
+California,Pac-12,246,539,California
+Colorado,Pac-12,247,556,Colorado
+Oregon,Pac-12,248,725,Oregon
+Oregon State,Pac-12,249,726,Oregon St
+Stanford,Pac-12,250,783,Stanford
+UCLA,Pac-12,251,810,UCLA
+USC,Pac-12,252,818,USC
+Utah,Pac-12,253,821,Utah
+Washington,Pac-12,254,840,Washington
+Washington State,Pac-12,255,841,Washington St
+American University,Patriot,256,509,American Univ
+Army,Patriot,257,517,Army
+Boston University,Patriot,258,528,Boston Univ
+Bucknell,Patriot,259,533,Bucknell
+Colgate,Patriot,260,555,Colgate
+Holy Cross,Patriot,261,616,Holy Cross
+Lafayette,Patriot,262,642,Lafayette
+Lehigh,Patriot,263,644,Lehigh
+Loyola (MD),Patriot,264,653,Loyola MD
+Navy,Patriot,265,692,Navy
+Alabama,SEC,266,504,Alabama
+Arkansas,SEC,267,515,Arkansas
+Auburn,SEC,268,518,Auburn
+Florida,SEC,269,592,Florida
+Georgia,SEC,270,604,Georgia
+Kentucky,SEC,271,640,Kentucky
+LSU,SEC,272,655,LSU
+Mississippi State,SEC,273,675,Mississippi St
+Missouri,SEC,274,676,Missouri
+Ole Miss,SEC,275,674,Mississippi
+South Carolina,SEC,276,769,South Carolina
+Tennessee,SEC,277,790,Tennessee
+Texas A&M;,SEC,278,794,Texas A&M
+Vanderbilt,SEC,279,827,Vanderbilt
+Appalachian State,SoCon,280,510,Appalachian St
+Chattanooga,SoCon,281,547,Chattanooga
+Citadel,SoCon,282,550,Citadel
+Davidson,SoCon,283,568,Davidson
+Elon,SoCon,284,585,Elon
+Furman,SoCon,285,598,Furman
+Georgia Southern,SoCon,286,600,Ga Southern
+North Carolina-Greensboro,SoCon,287,815,UNC Greensboro
+Samford,SoCon,288,752,Samford
+Western Carolina,SoCon,289,833,W Carolina
+Wofford,SoCon,290,850,Wofford
+Abilene Christian,Southland,291,501,Abilene Chr
+Central Arkansas,Southland,292,542,Cent Arkansas
+Houston Baptist,Southland,293,618,Houston Bap
+Incarnate Word,Southland,294,856,Incarnate Word
+Lamar,Southland,295,643,Lamar
+McNeese State,Southland,296,664,McNeese St
+New Orleans,Southland,297,703,New Orleans
+Nicholls State,Southland,298,705,Nicholls St
+Northwestern State,Southland,299,716,Northwestern LA
+Oral Roberts,Southland,300,724,Oral Roberts
+Sam Houston State,Southland,301,751,Sam Houston St
+Southeastern Louisiana,Southland,302,761,SE Louisiana
+Stephen F. Austin,Southland,303,765,SF Austin
+Texas A&M-Corpus; Christi,Southland,304,787,TAM C. Christi
+Denver,Summit League,305,572,Denver
+IPFW,Summit League,306,630,IPFW
+IUPUI,Summit League,307,631,IUPUI
+Nebraska-Omaha,Summit League,308,697,NE Omaha
+North Dakota State,Summit League,309,,
+South Dakota,Summit League,310,770,South Dakota
+South Dakota State,Summit League,311,748,S Dakota St
+Western Illinois,Summit League,312,834,W Illinois
+Arkansas State,Sun Belt,313,516,Arkansas St
+Arkansas-Little Rock,Sun Belt,314,513,Ark Little Rock
+Georgia State,Sun Belt,315,605,Georgia St
+Louisiana,Sun Belt,316,811,ULL
+Louisiana-Monroe,Sun Belt,317,812,ULM
+South Alabama,Sun Belt,318,768,South Alabama
+Texas State,Sun Belt,319,795,Texas St
+Texas-Arlington,Sun Belt,320,819,UT Arlington
+Troy,Sun Belt,321,800,Troy
+Western Kentucky,Sun Belt,322,835,W Kentucky
+Alabama A&M;,SWAC,323,505,Alabama A&M
+Alabama State,SWAC,324,506,Alabama St
+Alcorn State,SWAC,325,508,Alcorn St
+Arkansas-Pine Bluff,SWAC,326,514,Ark Pine Bluff
+Grambling State,SWAC,327,608,Grambling
+Jackson State,SWAC,328,632,Jackson St
+Mississippi Valley State,SWAC,329,685,MS Valley St
+Prairie View A&M;,SWAC,330,734,Prairie View
+Southern University,SWAC,331,773,Southern Univ
+Texas Southern,SWAC,332,804,TX Southern
+Cal State Bakersfield,WAC,333,563,CS Bakersfield
+Chicago State,WAC,334,548,Chicago St
+Grand Canyon,WAC,335,609,Grand Canyon
+Idaho,WAC,336,620,Idaho
+Missouri-Kansas City,WAC,337,677,Missouri KC
+New Mexico State,WAC,338,702,New Mexico St
+Seattle,WAC,339,763,Seattle
+Texas-Pan American,WAC,340,803,TX Pan American
+Utah Valley University,WAC,341,823,Utah Valley
+Brigham Young,West Coast,342,536,BYU
+Gonzaga,West Coast,343,607,Gonzaga
+Loyola Marymount,West Coast,344,652,Loy Marymount
+Pacific,West Coast,345,727,Pacific
+Pepperdine,West Coast,346,730,Pepperdine
+Portland,West Coast,347,732,Portland
+Saint Mary's,West Coast,348,781,St Mary's CA
+San Diego,West Coast,349,753,San Diego
+San Francisco,West Coast,350,755,San Francisco
+Santa Clara,West Coast,351,758,Santa Clara
+,,,525,Birmingham So
+,,,543,Centenary
+,,,684,Morris Brown
+,,,696,NE Illinois
+,,,837,W Salem St

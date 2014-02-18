@@ -1,0 +1,352 @@
+Team	TeamURL	Conf	ConfURL
+Abilene Christian	http://statsheet.com/mcb/teams/abilene-christian	Southland	http://statsheet.com/mcb/conferences/southland
+Air Force	http://statsheet.com/mcb/teams/air-force	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Akron	http://statsheet.com/mcb/teams/akron	MAC	http://statsheet.com/mcb/conferences/mac
+Alabama	http://statsheet.com/mcb/teams/alabama	SEC	http://statsheet.com/mcb/conferences/sec
+Alabama A&M;	http://statsheet.com/mcb/teams/alabama-am	SWAC	http://statsheet.com/mcb/conferences/swac
+Alabama State	http://statsheet.com/mcb/teams/alabama-state	SWAC	http://statsheet.com/mcb/conferences/swac
+Albany	http://statsheet.com/mcb/teams/albany	America East	http://statsheet.com/mcb/conferences/america-east
+Alcorn State	http://statsheet.com/mcb/teams/alcorn-state	SWAC	http://statsheet.com/mcb/conferences/swac
+American University	http://statsheet.com/mcb/teams/american-university	Patriot	http://statsheet.com/mcb/conferences/patriot
+Appalachian State	http://statsheet.com/mcb/teams/appalachian-state	SoCon	http://statsheet.com/mcb/conferences/socon
+Arizona	http://statsheet.com/mcb/teams/arizona	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Arizona State	http://statsheet.com/mcb/teams/arizona-state	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Arkansas	http://statsheet.com/mcb/teams/arkansas	SEC	http://statsheet.com/mcb/conferences/sec
+Arkansas State	http://statsheet.com/mcb/teams/arkansas-state	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Arkansas-Little Rock	http://statsheet.com/mcb/teams/arkansas-little-rock	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Arkansas-Pine Bluff	http://statsheet.com/mcb/teams/arkansas-pine-bluff	SWAC	http://statsheet.com/mcb/conferences/swac
+Army	http://statsheet.com/mcb/teams/army	Patriot	http://statsheet.com/mcb/conferences/patriot
+Auburn	http://statsheet.com/mcb/teams/auburn	SEC	http://statsheet.com/mcb/conferences/sec
+Austin Peay	http://statsheet.com/mcb/teams/austin-peay	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Ball State	http://statsheet.com/mcb/teams/ball-state	MAC	http://statsheet.com/mcb/conferences/mac
+Baylor	http://statsheet.com/mcb/teams/baylor	Big 12	http://statsheet.com/mcb/conferences/big-12
+Belmont	http://statsheet.com/mcb/teams/belmont	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Bethune-Cookman	http://statsheet.com/mcb/teams/bethune-cookman	MEAC	http://statsheet.com/mcb/conferences/meac
+Binghamton	http://statsheet.com/mcb/teams/binghamton	America East	http://statsheet.com/mcb/conferences/america-east
+Boise State	http://statsheet.com/mcb/teams/boise-state	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Boston College	http://statsheet.com/mcb/teams/boston-college	ACC	http://statsheet.com/mcb/conferences/acc
+Boston University	http://statsheet.com/mcb/teams/boston-university	Patriot	http://statsheet.com/mcb/conferences/patriot
+Bowling Green	http://statsheet.com/mcb/teams/bowling-green	MAC	http://statsheet.com/mcb/conferences/mac
+Bradley	http://statsheet.com/mcb/teams/bradley	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Brigham Young	http://statsheet.com/mcb/teams/brigham-young	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Brown	http://statsheet.com/mcb/teams/brown	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Bryant	http://statsheet.com/mcb/teams/bryant	NEC	http://statsheet.com/mcb/conferences/nec
+Bucknell	http://statsheet.com/mcb/teams/bucknell	Patriot	http://statsheet.com/mcb/conferences/patriot
+Buffalo	http://statsheet.com/mcb/teams/buffalo	MAC	http://statsheet.com/mcb/conferences/mac
+Butler	http://statsheet.com/mcb/teams/butler	Big East	http://statsheet.com/mcb/conferences/big-east
+Cal Poly	http://statsheet.com/mcb/teams/cal-poly	Big West	http://statsheet.com/mcb/conferences/big-west
+Cal State Bakersfield	http://statsheet.com/mcb/teams/cal-state-bakersfield	WAC	http://statsheet.com/mcb/conferences/wac
+Cal State Fullerton	http://statsheet.com/mcb/teams/cal-state-fullerton	Big West	http://statsheet.com/mcb/conferences/big-west
+Cal State Northridge	http://statsheet.com/mcb/teams/cal-state-northridge	Big West	http://statsheet.com/mcb/conferences/big-west
+California	http://statsheet.com/mcb/teams/california	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Campbell	http://statsheet.com/mcb/teams/campbell	Big South	http://statsheet.com/mcb/conferences/big-south
+Canisius	http://statsheet.com/mcb/teams/canisius	MAAC	http://statsheet.com/mcb/conferences/maac
+Central Arkansas	http://statsheet.com/mcb/teams/central-arkansas	Southland	http://statsheet.com/mcb/conferences/southland
+Central Connecticut State	http://statsheet.com/mcb/teams/central-connecticut-state	NEC	http://statsheet.com/mcb/conferences/nec
+Central Michigan	http://statsheet.com/mcb/teams/central-michigan	MAC	http://statsheet.com/mcb/conferences/mac
+Charleston Southern	http://statsheet.com/mcb/teams/charleston-southern	Big South	http://statsheet.com/mcb/conferences/big-south
+Charlotte	http://statsheet.com/mcb/teams/north-carolina-charlotte	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Chattanooga	http://statsheet.com/mcb/teams/chattanooga	SoCon	http://statsheet.com/mcb/conferences/socon
+Chicago State	http://statsheet.com/mcb/teams/chicago-state	WAC	http://statsheet.com/mcb/conferences/wac
+Cincinnati	http://statsheet.com/mcb/teams/cincinnati	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Citadel	http://statsheet.com/mcb/teams/citadel	SoCon	http://statsheet.com/mcb/conferences/socon
+Clemson	http://statsheet.com/mcb/teams/clemson	ACC	http://statsheet.com/mcb/conferences/acc
+Cleveland State	http://statsheet.com/mcb/teams/cleveland-state	Horizon	http://statsheet.com/mcb/conferences/horizon
+Coastal Carolina	http://statsheet.com/mcb/teams/coastal-carolina	Big South	http://statsheet.com/mcb/conferences/big-south
+Colgate	http://statsheet.com/mcb/teams/colgate	Patriot	http://statsheet.com/mcb/conferences/patriot
+College of Charleston	http://statsheet.com/mcb/teams/college-of-charleston	CAA	http://statsheet.com/mcb/conferences/caa
+Colorado	http://statsheet.com/mcb/teams/colorado	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Colorado State	http://statsheet.com/mcb/teams/colorado-state	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Columbia	http://statsheet.com/mcb/teams/columbia	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Connecticut	http://statsheet.com/mcb/teams/connecticut	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Coppin State	http://statsheet.com/mcb/teams/coppin-state	MEAC	http://statsheet.com/mcb/conferences/meac
+Cornell	http://statsheet.com/mcb/teams/cornell	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Creighton	http://statsheet.com/mcb/teams/creighton	Big East	http://statsheet.com/mcb/conferences/big-east
+Dartmouth	http://statsheet.com/mcb/teams/dartmouth	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Davidson	http://statsheet.com/mcb/teams/davidson	SoCon	http://statsheet.com/mcb/conferences/socon
+Dayton	http://statsheet.com/mcb/teams/dayton	A-10	http://statsheet.com/mcb/conferences/a-10
+Delaware	http://statsheet.com/mcb/teams/delaware	CAA	http://statsheet.com/mcb/conferences/caa
+Delaware State	http://statsheet.com/mcb/teams/delaware-state	MEAC	http://statsheet.com/mcb/conferences/meac
+Denver	http://statsheet.com/mcb/teams/denver	Summit League	http://statsheet.com/mcb/conferences/summit-league
+DePaul	http://statsheet.com/mcb/teams/depaul	Big East	http://statsheet.com/mcb/conferences/big-east
+Detroit	http://statsheet.com/mcb/teams/detroit	Horizon	http://statsheet.com/mcb/conferences/horizon
+Drake	http://statsheet.com/mcb/teams/drake	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Drexel	http://statsheet.com/mcb/teams/drexel	CAA	http://statsheet.com/mcb/conferences/caa
+Duke	http://statsheet.com/mcb/teams/duke	ACC	http://statsheet.com/mcb/conferences/acc
+Duquesne	http://statsheet.com/mcb/teams/duquesne	A-10	http://statsheet.com/mcb/conferences/a-10
+East Carolina	http://statsheet.com/mcb/teams/east-carolina	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+East Tennessee State	http://statsheet.com/mcb/teams/east-tennessee-state	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Eastern Illinois	http://statsheet.com/mcb/teams/eastern-illinois	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Eastern Kentucky	http://statsheet.com/mcb/teams/eastern-kentucky	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Eastern Michigan	http://statsheet.com/mcb/teams/eastern-michigan	MAC	http://statsheet.com/mcb/conferences/mac
+Eastern Washington	http://statsheet.com/mcb/teams/eastern-washington	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Elon	http://statsheet.com/mcb/teams/elon	SoCon	http://statsheet.com/mcb/conferences/socon
+Evansville	http://statsheet.com/mcb/teams/evansville	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Fairfield	http://statsheet.com/mcb/teams/fairfield	MAAC	http://statsheet.com/mcb/conferences/maac
+Fairleigh Dickinson	http://statsheet.com/mcb/teams/fairleigh-dickinson	NEC	http://statsheet.com/mcb/conferences/nec
+Florida	http://statsheet.com/mcb/teams/florida	SEC	http://statsheet.com/mcb/conferences/sec
+Florida A&M;	http://statsheet.com/mcb/teams/florida-am	MEAC	http://statsheet.com/mcb/conferences/meac
+Florida Atlantic	http://statsheet.com/mcb/teams/florida-atlantic	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Florida Gulf Coast	http://statsheet.com/mcb/teams/florida-gulf-coast	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Florida International	http://statsheet.com/mcb/teams/florida-international	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Florida State	http://statsheet.com/mcb/teams/florida-state	ACC	http://statsheet.com/mcb/conferences/acc
+Fordham	http://statsheet.com/mcb/teams/fordham	A-10	http://statsheet.com/mcb/conferences/a-10
+Fresno State	http://statsheet.com/mcb/teams/fresno-state	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Furman	http://statsheet.com/mcb/teams/furman	SoCon	http://statsheet.com/mcb/conferences/socon
+Gardner-Webb	http://statsheet.com/mcb/teams/gardner-webb	Big South	http://statsheet.com/mcb/conferences/big-south
+George Mason	http://statsheet.com/mcb/teams/george-mason	A-10	http://statsheet.com/mcb/conferences/a-10
+George Washington	http://statsheet.com/mcb/teams/george-washington	A-10	http://statsheet.com/mcb/conferences/a-10
+Georgetown	http://statsheet.com/mcb/teams/georgetown	Big East	http://statsheet.com/mcb/conferences/big-east
+Georgia	http://statsheet.com/mcb/teams/georgia	SEC	http://statsheet.com/mcb/conferences/sec
+Georgia Southern	http://statsheet.com/mcb/teams/georgia-southern	SoCon	http://statsheet.com/mcb/conferences/socon
+Georgia State	http://statsheet.com/mcb/teams/georgia-state	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Georgia Tech	http://statsheet.com/mcb/teams/georgia-tech	ACC	http://statsheet.com/mcb/conferences/acc
+Gonzaga	http://statsheet.com/mcb/teams/gonzaga	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Grambling State	http://statsheet.com/mcb/teams/grambling-state	SWAC	http://statsheet.com/mcb/conferences/swac
+Grand Canyon	http://statsheet.com/mcb/teams/grand-canyon	WAC	http://statsheet.com/mcb/conferences/wac
+Green Bay	http://statsheet.com/mcb/teams/wisconsin-green-bay	Horizon	http://statsheet.com/mcb/conferences/horizon
+Hampton	http://statsheet.com/mcb/teams/hampton	MEAC	http://statsheet.com/mcb/conferences/meac
+Hartford	http://statsheet.com/mcb/teams/hartford	America East	http://statsheet.com/mcb/conferences/america-east
+Harvard	http://statsheet.com/mcb/teams/harvard	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Hawaii	http://statsheet.com/mcb/teams/hawaii	Big West	http://statsheet.com/mcb/conferences/big-west
+High Point	http://statsheet.com/mcb/teams/high-point	Big South	http://statsheet.com/mcb/conferences/big-south
+Hofstra	http://statsheet.com/mcb/teams/hofstra	CAA	http://statsheet.com/mcb/conferences/caa
+Holy Cross	http://statsheet.com/mcb/teams/holy-cross	Patriot	http://statsheet.com/mcb/conferences/patriot
+Houston	http://statsheet.com/mcb/teams/houston	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Houston Baptist	http://statsheet.com/mcb/teams/houston-baptist	Southland	http://statsheet.com/mcb/conferences/southland
+Howard	http://statsheet.com/mcb/teams/howard	MEAC	http://statsheet.com/mcb/conferences/meac
+Idaho	http://statsheet.com/mcb/teams/idaho	WAC	http://statsheet.com/mcb/conferences/wac
+Idaho State	http://statsheet.com/mcb/teams/idaho-state	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Illinois	http://statsheet.com/mcb/teams/illinois	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Illinois State	http://statsheet.com/mcb/teams/illinois-state	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Incarnate Word	http://statsheet.com/mcb/teams/incarnate-word	Southland	http://statsheet.com/mcb/conferences/southland
+Indiana	http://statsheet.com/mcb/teams/indiana	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Indiana State	http://statsheet.com/mcb/teams/indiana-state	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Iona	http://statsheet.com/mcb/teams/iona	MAAC	http://statsheet.com/mcb/conferences/maac
+Iowa	http://statsheet.com/mcb/teams/iowa	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Iowa State	http://statsheet.com/mcb/teams/iowa-state	Big 12	http://statsheet.com/mcb/conferences/big-12
+IPFW	http://statsheet.com/mcb/teams/iupu-fort-wayne	Summit League	http://statsheet.com/mcb/conferences/summit-league
+IUPUI	http://statsheet.com/mcb/teams/iupui	Summit League	http://statsheet.com/mcb/conferences/summit-league
+Jackson State	http://statsheet.com/mcb/teams/jackson-state	SWAC	http://statsheet.com/mcb/conferences/swac
+Jacksonville	http://statsheet.com/mcb/teams/jacksonville	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Jacksonville State	http://statsheet.com/mcb/teams/jacksonville-state	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+James Madison	http://statsheet.com/mcb/teams/james-madison	CAA	http://statsheet.com/mcb/conferences/caa
+Kansas	http://statsheet.com/mcb/teams/kansas	Big 12	http://statsheet.com/mcb/conferences/big-12
+Kansas State	http://statsheet.com/mcb/teams/kansas-state	Big 12	http://statsheet.com/mcb/conferences/big-12
+Kennesaw State	http://statsheet.com/mcb/teams/kennesaw-state	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Kent State	http://statsheet.com/mcb/teams/kent-state	MAC	http://statsheet.com/mcb/conferences/mac
+Kentucky	http://statsheet.com/mcb/teams/kentucky	SEC	http://statsheet.com/mcb/conferences/sec
+La Salle	http://statsheet.com/mcb/teams/la-salle	A-10	http://statsheet.com/mcb/conferences/a-10
+Lafayette	http://statsheet.com/mcb/teams/lafayette	Patriot	http://statsheet.com/mcb/conferences/patriot
+Lamar	http://statsheet.com/mcb/teams/lamar	Southland	http://statsheet.com/mcb/conferences/southland
+Lehigh	http://statsheet.com/mcb/teams/lehigh	Patriot	http://statsheet.com/mcb/conferences/patriot
+Liberty	http://statsheet.com/mcb/teams/liberty	Big South	http://statsheet.com/mcb/conferences/big-south
+Lipscomb	http://statsheet.com/mcb/teams/lipscomb	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Long Beach State	http://statsheet.com/mcb/teams/long-beach-state	Big West	http://statsheet.com/mcb/conferences/big-west
+Long Island	http://statsheet.com/mcb/teams/long-island	NEC	http://statsheet.com/mcb/conferences/nec
+Longwood	http://statsheet.com/mcb/teams/longwood	Big South	http://statsheet.com/mcb/conferences/big-south
+Louisiana	http://statsheet.com/mcb/teams/louisiana-lafayette	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Louisiana Tech	http://statsheet.com/mcb/teams/louisiana-tech	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Louisiana-Monroe	http://statsheet.com/mcb/teams/louisiana-monroe	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Louisville	http://statsheet.com/mcb/teams/louisville	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Loyola (Chicago)	http://statsheet.com/mcb/teams/loyola-il	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Loyola (MD)	http://statsheet.com/mcb/teams/loyola-md	Patriot	http://statsheet.com/mcb/conferences/patriot
+Loyola Marymount	http://statsheet.com/mcb/teams/loyola-marymount	West Coast	http://statsheet.com/mcb/conferences/west-coast
+LSU	http://statsheet.com/mcb/teams/lsu	SEC	http://statsheet.com/mcb/conferences/sec
+Maine	http://statsheet.com/mcb/teams/maine	America East	http://statsheet.com/mcb/conferences/america-east
+Manhattan	http://statsheet.com/mcb/teams/manhattan	MAAC	http://statsheet.com/mcb/conferences/maac
+Marist	http://statsheet.com/mcb/teams/marist	MAAC	http://statsheet.com/mcb/conferences/maac
+Marquette	http://statsheet.com/mcb/teams/marquette	Big East	http://statsheet.com/mcb/conferences/big-east
+Marshall	http://statsheet.com/mcb/teams/marshall	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Maryland	http://statsheet.com/mcb/teams/maryland	ACC	http://statsheet.com/mcb/conferences/acc
+Maryland-Baltimore County	http://statsheet.com/mcb/teams/maryland-baltimore-county	America East	http://statsheet.com/mcb/conferences/america-east
+Maryland-Eastern Shore	http://statsheet.com/mcb/teams/maryland-eastern-shore	MEAC	http://statsheet.com/mcb/conferences/meac
+Massachusetts	http://statsheet.com/mcb/teams/massachusetts	A-10	http://statsheet.com/mcb/conferences/a-10
+McNeese State	http://statsheet.com/mcb/teams/mcneese-state	Southland	http://statsheet.com/mcb/conferences/southland
+Memphis	http://statsheet.com/mcb/teams/memphis	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Mercer	http://statsheet.com/mcb/teams/mercer	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Miami (FL)	http://statsheet.com/mcb/teams/miami-fl	ACC	http://statsheet.com/mcb/conferences/acc
+Miami (OH)	http://statsheet.com/mcb/teams/miami-oh	MAC	http://statsheet.com/mcb/conferences/mac
+Michigan	http://statsheet.com/mcb/teams/michigan	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Michigan State	http://statsheet.com/mcb/teams/michigan-state	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Middle Tennessee State	http://statsheet.com/mcb/teams/middle-tennessee-state	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Milwaukee	http://statsheet.com/mcb/teams/wisconsin-milwaukee	Horizon	http://statsheet.com/mcb/conferences/horizon
+Minnesota	http://statsheet.com/mcb/teams/minnesota	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Mississippi State	http://statsheet.com/mcb/teams/mississippi-state	SEC	http://statsheet.com/mcb/conferences/sec
+Mississippi Valley State	http://statsheet.com/mcb/teams/mississippi-valley-state	SWAC	http://statsheet.com/mcb/conferences/swac
+Missouri	http://statsheet.com/mcb/teams/missouri	SEC	http://statsheet.com/mcb/conferences/sec
+Missouri State	http://statsheet.com/mcb/teams/missouri-state	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Missouri-Kansas City	http://statsheet.com/mcb/teams/missouri-kansas-city	WAC	http://statsheet.com/mcb/conferences/wac
+Monmouth	http://statsheet.com/mcb/teams/monmouth	MAAC	http://statsheet.com/mcb/conferences/maac
+Montana	http://statsheet.com/mcb/teams/montana	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Montana State	http://statsheet.com/mcb/teams/montana-state	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Morehead State	http://statsheet.com/mcb/teams/morehead-state	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Morgan State	http://statsheet.com/mcb/teams/morgan-state	MEAC	http://statsheet.com/mcb/conferences/meac
+Mount St. Mary's	http://statsheet.com/mcb/teams/mount-st-marys	NEC	http://statsheet.com/mcb/conferences/nec
+Murray State	http://statsheet.com/mcb/teams/murray-state	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Navy	http://statsheet.com/mcb/teams/navy	Patriot	http://statsheet.com/mcb/conferences/patriot
+NC State	http://statsheet.com/mcb/teams/north-carolina-state	ACC	http://statsheet.com/mcb/conferences/acc
+Nebraska	http://statsheet.com/mcb/teams/nebraska	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Nebraska-Omaha	http://statsheet.com/mcb/teams/nebraska-omaha	Summit League	http://statsheet.com/mcb/conferences/summit-league
+Nevada	http://statsheet.com/mcb/teams/nevada	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+New Hampshire	http://statsheet.com/mcb/teams/new-hampshire	America East	http://statsheet.com/mcb/conferences/america-east
+New Jersey Tech	http://statsheet.com/mcb/teams/new-jersey-tech	Independents	http://statsheet.com/mcb/conferences/independents
+New Mexico	http://statsheet.com/mcb/teams/new-mexico	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+New Mexico State	http://statsheet.com/mcb/teams/new-mexico-state	WAC	http://statsheet.com/mcb/conferences/wac
+New Orleans	http://statsheet.com/mcb/teams/new-orleans	Southland	http://statsheet.com/mcb/conferences/southland
+Niagara	http://statsheet.com/mcb/teams/niagara	MAAC	http://statsheet.com/mcb/conferences/maac
+Nicholls State	http://statsheet.com/mcb/teams/nicholls-state	Southland	http://statsheet.com/mcb/conferences/southland
+Norfolk State	http://statsheet.com/mcb/teams/norfolk-state	MEAC	http://statsheet.com/mcb/conferences/meac
+North Carolina	http://statsheet.com/mcb/teams/north-carolina	ACC	http://statsheet.com/mcb/conferences/acc
+North Carolina A&T;	http://statsheet.com/mcb/teams/north-carolina-at	MEAC	http://statsheet.com/mcb/conferences/meac
+North Carolina Central	http://statsheet.com/mcb/teams/north-carolina-central	MEAC	http://statsheet.com/mcb/conferences/meac
+North Carolina-Asheville	http://statsheet.com/mcb/teams/north-carolina-asheville	Big South	http://statsheet.com/mcb/conferences/big-south
+North Carolina-Greensboro	http://statsheet.com/mcb/teams/north-carolina-greensboro	SoCon	http://statsheet.com/mcb/conferences/socon
+North Carolina-Wilmington	http://statsheet.com/mcb/teams/north-carolina-wilmington	CAA	http://statsheet.com/mcb/conferences/caa
+North Dakota	http://statsheet.com/mcb/teams/north-dakota	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+North Dakota State	http://statsheet.com/mcb/teams/north-dakota-state	Summit League	http://statsheet.com/mcb/conferences/summit-league
+North Florida	http://statsheet.com/mcb/teams/north-florida	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+North Texas	http://statsheet.com/mcb/teams/north-texas	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Northeastern	http://statsheet.com/mcb/teams/northeastern	CAA	http://statsheet.com/mcb/conferences/caa
+Northern Arizona	http://statsheet.com/mcb/teams/northern-arizona	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Northern Colorado	http://statsheet.com/mcb/teams/northern-colorado	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Northern Illinois	http://statsheet.com/mcb/teams/northern-illinois	MAC	http://statsheet.com/mcb/conferences/mac
+Northern Iowa	http://statsheet.com/mcb/teams/northern-iowa	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Northern Kentucky	http://statsheet.com/mcb/teams/northern-kentucky	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Northwestern	http://statsheet.com/mcb/teams/northwestern	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Northwestern State	http://statsheet.com/mcb/teams/northwestern-state	Southland	http://statsheet.com/mcb/conferences/southland
+Notre Dame	http://statsheet.com/mcb/teams/notre-dame	ACC	http://statsheet.com/mcb/conferences/acc
+Oakland	http://statsheet.com/mcb/teams/oakland	Horizon	http://statsheet.com/mcb/conferences/horizon
+Ohio	http://statsheet.com/mcb/teams/ohio	MAC	http://statsheet.com/mcb/conferences/mac
+Ohio State	http://statsheet.com/mcb/teams/ohio-state	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Oklahoma	http://statsheet.com/mcb/teams/oklahoma	Big 12	http://statsheet.com/mcb/conferences/big-12
+Oklahoma State	http://statsheet.com/mcb/teams/oklahoma-state	Big 12	http://statsheet.com/mcb/conferences/big-12
+Old Dominion	http://statsheet.com/mcb/teams/old-dominion	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Ole Miss	http://statsheet.com/mcb/teams/mississippi	SEC	http://statsheet.com/mcb/conferences/sec
+Oral Roberts	http://statsheet.com/mcb/teams/oral-roberts	Southland	http://statsheet.com/mcb/conferences/southland
+Oregon	http://statsheet.com/mcb/teams/oregon	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Oregon State	http://statsheet.com/mcb/teams/oregon-state	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Pacific	http://statsheet.com/mcb/teams/pacific	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Penn State	http://statsheet.com/mcb/teams/penn-state	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Pennsylvania	http://statsheet.com/mcb/teams/pennsylvania	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Pepperdine	http://statsheet.com/mcb/teams/pepperdine	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Pittsburgh	http://statsheet.com/mcb/teams/pittsburgh	ACC	http://statsheet.com/mcb/conferences/acc
+Portland	http://statsheet.com/mcb/teams/portland	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Portland State	http://statsheet.com/mcb/teams/portland-state	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Prairie View A&M;	http://statsheet.com/mcb/teams/prairie-view-am	SWAC	http://statsheet.com/mcb/conferences/swac
+Presbyterian	http://statsheet.com/mcb/teams/presbyterian	Big South	http://statsheet.com/mcb/conferences/big-south
+Princeton	http://statsheet.com/mcb/teams/princeton	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Providence	http://statsheet.com/mcb/teams/providence	Big East	http://statsheet.com/mcb/conferences/big-east
+Purdue	http://statsheet.com/mcb/teams/purdue	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Quinnipiac	http://statsheet.com/mcb/teams/quinnipiac	MAAC	http://statsheet.com/mcb/conferences/maac
+Radford	http://statsheet.com/mcb/teams/radford	Big South	http://statsheet.com/mcb/conferences/big-south
+Rhode Island	http://statsheet.com/mcb/teams/rhode-island	A-10	http://statsheet.com/mcb/conferences/a-10
+Rice	http://statsheet.com/mcb/teams/rice	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Richmond	http://statsheet.com/mcb/teams/richmond	A-10	http://statsheet.com/mcb/conferences/a-10
+Rider	http://statsheet.com/mcb/teams/rider	MAAC	http://statsheet.com/mcb/conferences/maac
+Robert Morris	http://statsheet.com/mcb/teams/robert-morris	NEC	http://statsheet.com/mcb/conferences/nec
+Rutgers	http://statsheet.com/mcb/teams/rutgers	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Sacramento State	http://statsheet.com/mcb/teams/sacramento-state	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+Sacred Heart	http://statsheet.com/mcb/teams/sacred-heart	NEC	http://statsheet.com/mcb/conferences/nec
+Saint Louis	http://statsheet.com/mcb/teams/saint-louis	A-10	http://statsheet.com/mcb/conferences/a-10
+Saint Mary's	http://statsheet.com/mcb/teams/saint-marys	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Sam Houston State	http://statsheet.com/mcb/teams/sam-houston-state	Southland	http://statsheet.com/mcb/conferences/southland
+Samford	http://statsheet.com/mcb/teams/samford	SoCon	http://statsheet.com/mcb/conferences/socon
+San Diego	http://statsheet.com/mcb/teams/san-diego	West Coast	http://statsheet.com/mcb/conferences/west-coast
+San Diego State	http://statsheet.com/mcb/teams/san-diego-state	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+San Francisco	http://statsheet.com/mcb/teams/san-francisco	West Coast	http://statsheet.com/mcb/conferences/west-coast
+San Jose State	http://statsheet.com/mcb/teams/san-jose-state	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Santa Clara	http://statsheet.com/mcb/teams/santa-clara	West Coast	http://statsheet.com/mcb/conferences/west-coast
+Savannah State	http://statsheet.com/mcb/teams/savannah-state	MEAC	http://statsheet.com/mcb/conferences/meac
+Seattle	http://statsheet.com/mcb/teams/seattle	WAC	http://statsheet.com/mcb/conferences/wac
+Seton Hall	http://statsheet.com/mcb/teams/seton-hall	Big East	http://statsheet.com/mcb/conferences/big-east
+Siena	http://statsheet.com/mcb/teams/siena	MAAC	http://statsheet.com/mcb/conferences/maac
+SIU Edwardsville	http://statsheet.com/mcb/teams/siu-edwardsville	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+South Alabama	http://statsheet.com/mcb/teams/south-alabama	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+South Carolina	http://statsheet.com/mcb/teams/south-carolina	SEC	http://statsheet.com/mcb/conferences/sec
+South Carolina State	http://statsheet.com/mcb/teams/south-carolina-state	MEAC	http://statsheet.com/mcb/conferences/meac
+South Dakota	http://statsheet.com/mcb/teams/south-dakota	Summit League	http://statsheet.com/mcb/conferences/summit-league
+South Dakota State	http://statsheet.com/mcb/teams/south-dakota-state	Summit League	http://statsheet.com/mcb/conferences/summit-league
+South Florida	http://statsheet.com/mcb/teams/south-florida	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Southeast Missouri State	http://statsheet.com/mcb/teams/southeast-missouri-state	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Southeastern Louisiana	http://statsheet.com/mcb/teams/southeastern-louisiana	Southland	http://statsheet.com/mcb/conferences/southland
+Southern Illinois	http://statsheet.com/mcb/teams/southern-illinois	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+Southern Methodist	http://statsheet.com/mcb/teams/southern-methodist	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Southern Miss	http://statsheet.com/mcb/teams/southern-miss	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Southern University	http://statsheet.com/mcb/teams/southern-university	SWAC	http://statsheet.com/mcb/conferences/swac
+Southern Utah	http://statsheet.com/mcb/teams/southern-utah	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+St. Bonaventure	http://statsheet.com/mcb/teams/st-bonaventure	A-10	http://statsheet.com/mcb/conferences/a-10
+St. Francis (NY)	http://statsheet.com/mcb/teams/st-francis-ny	NEC	http://statsheet.com/mcb/conferences/nec
+St. Francis (PA)	http://statsheet.com/mcb/teams/st-francis-pa	NEC	http://statsheet.com/mcb/conferences/nec
+St. John's	http://statsheet.com/mcb/teams/st-johns	Big East	http://statsheet.com/mcb/conferences/big-east
+St. Joseph's (PA)	http://statsheet.com/mcb/teams/st-josephs-pa	A-10	http://statsheet.com/mcb/conferences/a-10
+St. Peter's	http://statsheet.com/mcb/teams/st-peters	MAAC	http://statsheet.com/mcb/conferences/maac
+Stanford	http://statsheet.com/mcb/teams/stanford	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Stephen F. Austin	http://statsheet.com/mcb/teams/stephen-f-austin	Southland	http://statsheet.com/mcb/conferences/southland
+Stetson	http://statsheet.com/mcb/teams/stetson	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Stony Brook	http://statsheet.com/mcb/teams/stony-brook	America East	http://statsheet.com/mcb/conferences/america-east
+Syracuse	http://statsheet.com/mcb/teams/syracuse	ACC	http://statsheet.com/mcb/conferences/acc
+TCU	http://statsheet.com/mcb/teams/texas-christian	Big 12	http://statsheet.com/mcb/conferences/big-12
+Temple	http://statsheet.com/mcb/teams/temple	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+Tennessee	http://statsheet.com/mcb/teams/tennessee	SEC	http://statsheet.com/mcb/conferences/sec
+Tennessee State	http://statsheet.com/mcb/teams/tennessee-state	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Tennessee Tech	http://statsheet.com/mcb/teams/tennessee-tech	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Tennessee-Martin	http://statsheet.com/mcb/teams/tennessee-martin	Ohio Valley	http://statsheet.com/mcb/conferences/ohio-valley
+Texas	http://statsheet.com/mcb/teams/texas	Big 12	http://statsheet.com/mcb/conferences/big-12
+Texas A&M;	http://statsheet.com/mcb/teams/texas-am	SEC	http://statsheet.com/mcb/conferences/sec
+Texas A&M-Corpus; Christi	http://statsheet.com/mcb/teams/texas-am-corpus-christi	Southland	http://statsheet.com/mcb/conferences/southland
+Texas Southern	http://statsheet.com/mcb/teams/texas-southern	SWAC	http://statsheet.com/mcb/conferences/swac
+Texas State	http://statsheet.com/mcb/teams/texas-state	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Texas Tech	http://statsheet.com/mcb/teams/texas-tech	Big 12	http://statsheet.com/mcb/conferences/big-12
+Texas-Arlington	http://statsheet.com/mcb/teams/texas-arlington	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Texas-El Paso	http://statsheet.com/mcb/teams/texas-el-paso	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Texas-Pan American	http://statsheet.com/mcb/teams/texas-pan-american	WAC	http://statsheet.com/mcb/conferences/wac
+Texas-San Antonio	http://statsheet.com/mcb/teams/texas-san-antonio	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Toledo	http://statsheet.com/mcb/teams/toledo	MAC	http://statsheet.com/mcb/conferences/mac
+Towson	http://statsheet.com/mcb/teams/towson	CAA	http://statsheet.com/mcb/conferences/caa
+Troy	http://statsheet.com/mcb/teams/troy	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Tulane	http://statsheet.com/mcb/teams/tulane	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+Tulsa	http://statsheet.com/mcb/teams/tulsa	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+UAB	http://statsheet.com/mcb/teams/uab	Conference USA	http://statsheet.com/mcb/conferences/c-usa
+UC Davis	http://statsheet.com/mcb/teams/california-davis	Big West	http://statsheet.com/mcb/conferences/big-west
+UC Irvine	http://statsheet.com/mcb/teams/california-irvine	Big West	http://statsheet.com/mcb/conferences/big-west
+UC Riverside	http://statsheet.com/mcb/teams/california-riverside	Big West	http://statsheet.com/mcb/conferences/big-west
+UC-Santa Barbara	http://statsheet.com/mcb/teams/california-santa-barbara	Big West	http://statsheet.com/mcb/conferences/big-west
+UCF	http://statsheet.com/mcb/teams/central-florida	American Athletic	http://statsheet.com/mcb/conferences/american-athletic
+UCLA	http://statsheet.com/mcb/teams/ucla	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+UIC	http://statsheet.com/mcb/teams/illinois-chicago	Horizon	http://statsheet.com/mcb/conferences/horizon
+UMass-Lowell	http://statsheet.com/mcb/teams/umass-lowell	America East	http://statsheet.com/mcb/conferences/america-east
+UNLV	http://statsheet.com/mcb/teams/unlv	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+USC	http://statsheet.com/mcb/teams/southern-california	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+USC Upstate	http://statsheet.com/mcb/teams/usc-upstate	Atlantic Sun	http://statsheet.com/mcb/conferences/atlantic-sun
+Utah	http://statsheet.com/mcb/teams/utah	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Utah State	http://statsheet.com/mcb/teams/utah-state	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Utah Valley University	http://statsheet.com/mcb/teams/utah-valley-state	WAC	http://statsheet.com/mcb/conferences/wac
+Valparaiso	http://statsheet.com/mcb/teams/valparaiso	Horizon	http://statsheet.com/mcb/conferences/horizon
+Vanderbilt	http://statsheet.com/mcb/teams/vanderbilt	SEC	http://statsheet.com/mcb/conferences/sec
+Vermont	http://statsheet.com/mcb/teams/vermont	America East	http://statsheet.com/mcb/conferences/america-east
+Villanova	http://statsheet.com/mcb/teams/villanova	Big East	http://statsheet.com/mcb/conferences/big-east
+Virginia	http://statsheet.com/mcb/teams/virginia	ACC	http://statsheet.com/mcb/conferences/acc
+Virginia Commonwealth	http://statsheet.com/mcb/teams/virginia-commonwealth	A-10	http://statsheet.com/mcb/conferences/a-10
+Virginia Military Institute	http://statsheet.com/mcb/teams/virginia-military-institute	Big South	http://statsheet.com/mcb/conferences/big-south
+Virginia Tech	http://statsheet.com/mcb/teams/virginia-tech	ACC	http://statsheet.com/mcb/conferences/acc
+Wagner	http://statsheet.com/mcb/teams/wagner	NEC	http://statsheet.com/mcb/conferences/nec
+Wake Forest	http://statsheet.com/mcb/teams/wake-forest	ACC	http://statsheet.com/mcb/conferences/acc
+Washington	http://statsheet.com/mcb/teams/washington	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Washington State	http://statsheet.com/mcb/teams/washington-state	Pac-12	http://statsheet.com/mcb/conferences/pac-10
+Weber State	http://statsheet.com/mcb/teams/weber-state	Big Sky	http://statsheet.com/mcb/conferences/big-sky
+West Virginia	http://statsheet.com/mcb/teams/west-virginia	Big 12	http://statsheet.com/mcb/conferences/big-12
+Western Carolina	http://statsheet.com/mcb/teams/western-carolina	SoCon	http://statsheet.com/mcb/conferences/socon
+Western Illinois	http://statsheet.com/mcb/teams/western-illinois	Summit League	http://statsheet.com/mcb/conferences/summit-league
+Western Kentucky	http://statsheet.com/mcb/teams/western-kentucky	Sun Belt	http://statsheet.com/mcb/conferences/sun-belt
+Western Michigan	http://statsheet.com/mcb/teams/western-michigan	MAC	http://statsheet.com/mcb/conferences/mac
+Wichita State	http://statsheet.com/mcb/teams/wichita-state	Missouri Valley	http://statsheet.com/mcb/conferences/missouri-valley
+William & Mary	http://statsheet.com/mcb/teams/william-mary	CAA	http://statsheet.com/mcb/conferences/caa
+Winthrop	http://statsheet.com/mcb/teams/winthrop	Big South	http://statsheet.com/mcb/conferences/big-south
+Wisconsin	http://statsheet.com/mcb/teams/wisconsin	Big Ten	http://statsheet.com/mcb/conferences/big-ten
+Wofford	http://statsheet.com/mcb/teams/wofford	SoCon	http://statsheet.com/mcb/conferences/socon
+Wright State	http://statsheet.com/mcb/teams/wright-state	Horizon	http://statsheet.com/mcb/conferences/horizon
+Wyoming	http://statsheet.com/mcb/teams/wyoming	Mountain West	http://statsheet.com/mcb/conferences/mountain-west
+Xavier	http://statsheet.com/mcb/teams/xavier	Big East	http://statsheet.com/mcb/conferences/big-east
+Yale	http://statsheet.com/mcb/teams/yale	Ivy League	http://statsheet.com/mcb/conferences/ivy-league
+Youngstown State	http://statsheet.com/mcb/teams/youngstown-state	Horizon	http://statsheet.com/mcb/conferences/horizon
